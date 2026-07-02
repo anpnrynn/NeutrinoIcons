@@ -1,0 +1,21 @@
+{
+  "icon_count": 500,
+  "themes": [
+    "classic_gray",
+    "neutrino_blue",
+    "graphite_dark_ui",
+    "forest_green",
+    "royal_purple"
+  ],
+  "sizes": [
+    16,
+    24,
+    32,
+    48,
+    64,
+    128
+  ],
+  "master_svg_count": 500,
+  "themed_svg_count": 2500,
+  "png_count": 15000
+}

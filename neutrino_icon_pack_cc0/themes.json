@@ -1,0 +1,52 @@
+{
+  "classic_gray": {
+    "primary": "#2B2F36",
+    "secondary": "#667085",
+    "accent": "#2563EB",
+    "overlay": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "danger": "#DC2626",
+    "warning": "#D97706",
+    "success": "#16A34A"
+  },
+  "neutrino_blue": {
+    "primary": "#0F172A",
+    "secondary": "#1D4ED8",
+    "accent": "#3B82F6",
+    "overlay": "#FFFFFF",
+    "surface": "#EEF6FF",
+    "danger": "#EF4444",
+    "warning": "#F59E0B",
+    "success": "#22C55E"
+  },
+  "graphite_dark_ui": {
+    "primary": "#E5E7EB",
+    "secondary": "#9CA3AF",
+    "accent": "#F59E0B",
+    "overlay": "#111827",
+    "surface": "#111827",
+    "danger": "#FB7185",
+    "warning": "#FBBF24",
+    "success": "#86EFAC"
+  },
+  "forest_green": {
+    "primary": "#143321",
+    "secondary": "#166534",
+    "accent": "#22C55E",
+    "overlay": "#FFFFFF",
+    "surface": "#ECFDF5",
+    "danger": "#B91C1C",
+    "warning": "#B45309",
+    "success": "#16A34A"
+  },
+  "royal_purple": {
+    "primary": "#24123A",
+    "secondary": "#6D28D9",
+    "accent": "#A855F7",
+    "overlay": "#FFFFFF",
+    "surface": "#F5F3FF",
+    "danger": "#E11D48",
+    "warning": "#D97706",
+    "success": "#059669"
+  }
+}

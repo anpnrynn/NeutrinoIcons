@@ -1,0 +1,5941 @@
+[
+  {
+    "name": "file",
+    "category": "file",
+    "base": "file",
+    "overlay": null,
+    "tags": [
+      "file",
+      ""
+    ],
+    "master_svg": "svg/master/file.svg",
+    "theme_svg_pattern": "svg/{theme}/file.svg",
+    "png_pattern": "png/{theme}/{size}/file.png"
+  },
+  {
+    "name": "file_new",
+    "category": "file",
+    "base": "file",
+    "overlay": "add",
+    "tags": [
+      "file",
+      "new"
+    ],
+    "master_svg": "svg/master/file_new.svg",
+    "theme_svg_pattern": "svg/{theme}/file_new.svg",
+    "png_pattern": "png/{theme}/{size}/file_new.png"
+  },
+  {
+    "name": "file_add",
+    "category": "file",
+    "base": "file",
+    "overlay": "add",
+    "tags": [
+      "file",
+      "add"
+    ],
+    "master_svg": "svg/master/file_add.svg",
+    "theme_svg_pattern": "svg/{theme}/file_add.svg",
+    "png_pattern": "png/{theme}/{size}/file_add.png"
+  },
+  {
+    "name": "file_remove",
+    "category": "file",
+    "base": "file",
+    "overlay": "remove",
+    "tags": [
+      "file",
+      "remove"
+    ],
+    "master_svg": "svg/master/file_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/file_remove.svg",
+    "png_pattern": "png/{theme}/{size}/file_remove.png"
+  },
+  {
+    "name": "file_delete",
+    "category": "file",
+    "base": "file",
+    "overlay": "delete",
+    "tags": [
+      "file",
+      "delete"
+    ],
+    "master_svg": "svg/master/file_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/file_delete.svg",
+    "png_pattern": "png/{theme}/{size}/file_delete.png"
+  },
+  {
+    "name": "file_edit",
+    "category": "file",
+    "base": "file",
+    "overlay": "edit",
+    "tags": [
+      "file",
+      "edit"
+    ],
+    "master_svg": "svg/master/file_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/file_edit.svg",
+    "png_pattern": "png/{theme}/{size}/file_edit.png"
+  },
+  {
+    "name": "file_search",
+    "category": "file",
+    "base": "file",
+    "overlay": "search",
+    "tags": [
+      "file",
+      "search"
+    ],
+    "master_svg": "svg/master/file_search.svg",
+    "theme_svg_pattern": "svg/{theme}/file_search.svg",
+    "png_pattern": "png/{theme}/{size}/file_search.png"
+  },
+  {
+    "name": "file_find",
+    "category": "file",
+    "base": "file",
+    "overlay": "search",
+    "tags": [
+      "file",
+      "find"
+    ],
+    "master_svg": "svg/master/file_find.svg",
+    "theme_svg_pattern": "svg/{theme}/file_find.svg",
+    "png_pattern": "png/{theme}/{size}/file_find.png"
+  },
+  {
+    "name": "file_check",
+    "category": "file",
+    "base": "file",
+    "overlay": "check",
+    "tags": [
+      "file",
+      "check"
+    ],
+    "master_svg": "svg/master/file_check.svg",
+    "theme_svg_pattern": "svg/{theme}/file_check.svg",
+    "png_pattern": "png/{theme}/{size}/file_check.png"
+  },
+  {
+    "name": "file_ok",
+    "category": "file",
+    "base": "file",
+    "overlay": "check",
+    "tags": [
+      "file",
+      "ok"
+    ],
+    "master_svg": "svg/master/file_ok.svg",
+    "theme_svg_pattern": "svg/{theme}/file_ok.svg",
+    "png_pattern": "png/{theme}/{size}/file_ok.png"
+  },
+  {
+    "name": "file_error",
+    "category": "file",
+    "base": "file",
+    "overlay": "error",
+    "tags": [
+      "file",
+      "error"
+    ],
+    "master_svg": "svg/master/file_error.svg",
+    "theme_svg_pattern": "svg/{theme}/file_error.svg",
+    "png_pattern": "png/{theme}/{size}/file_error.png"
+  },
+  {
+    "name": "file_warning",
+    "category": "file",
+    "base": "file",
+    "overlay": "warning",
+    "tags": [
+      "file",
+      "warning"
+    ],
+    "master_svg": "svg/master/file_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/file_warning.svg",
+    "png_pattern": "png/{theme}/{size}/file_warning.png"
+  },
+  {
+    "name": "file_info",
+    "category": "file",
+    "base": "file",
+    "overlay": "info",
+    "tags": [
+      "file",
+      "info"
+    ],
+    "master_svg": "svg/master/file_info.svg",
+    "theme_svg_pattern": "svg/{theme}/file_info.svg",
+    "png_pattern": "png/{theme}/{size}/file_info.png"
+  },
+  {
+    "name": "file_help",
+    "category": "file",
+    "base": "file",
+    "overlay": "help",
+    "tags": [
+      "file",
+      "help"
+    ],
+    "master_svg": "svg/master/file_help.svg",
+    "theme_svg_pattern": "svg/{theme}/file_help.svg",
+    "png_pattern": "png/{theme}/{size}/file_help.png"
+  },
+  {
+    "name": "file_settings",
+    "category": "file",
+    "base": "file",
+    "overlay": "gear",
+    "tags": [
+      "file",
+      "settings"
+    ],
+    "master_svg": "svg/master/file_settings.svg",
+    "theme_svg_pattern": "svg/{theme}/file_settings.svg",
+    "png_pattern": "png/{theme}/{size}/file_settings.png"
+  },
+  {
+    "name": "file_properties",
+    "category": "file",
+    "base": "file",
+    "overlay": "info",
+    "tags": [
+      "file",
+      "properties"
+    ],
+    "master_svg": "svg/master/file_properties.svg",
+    "theme_svg_pattern": "svg/{theme}/file_properties.svg",
+    "png_pattern": "png/{theme}/{size}/file_properties.png"
+  },
+  {
+    "name": "file_favorite",
+    "category": "file",
+    "base": "file",
+    "overlay": "star",
+    "tags": [
+      "file",
+      "favorite"
+    ],
+    "master_svg": "svg/master/file_favorite.svg",
+    "theme_svg_pattern": "svg/{theme}/file_favorite.svg",
+    "png_pattern": "png/{theme}/{size}/file_favorite.png"
+  },
+  {
+    "name": "file_star",
+    "category": "file",
+    "base": "file",
+    "overlay": "star",
+    "tags": [
+      "file",
+      "star"
+    ],
+    "master_svg": "svg/master/file_star.svg",
+    "theme_svg_pattern": "svg/{theme}/file_star.svg",
+    "png_pattern": "png/{theme}/{size}/file_star.png"
+  },
+  {
+    "name": "file_pin",
+    "category": "file",
+    "base": "file",
+    "overlay": "pin",
+    "tags": [
+      "file",
+      "pin"
+    ],
+    "master_svg": "svg/master/file_pin.svg",
+    "theme_svg_pattern": "svg/{theme}/file_pin.svg",
+    "png_pattern": "png/{theme}/{size}/file_pin.png"
+  },
+  {
+    "name": "file_lock",
+    "category": "file",
+    "base": "file",
+    "overlay": "lock",
+    "tags": [
+      "file",
+      "lock"
+    ],
+    "master_svg": "svg/master/file_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/file_lock.svg",
+    "png_pattern": "png/{theme}/{size}/file_lock.png"
+  },
+  {
+    "name": "file_unlock",
+    "category": "file",
+    "base": "file",
+    "overlay": "unlock",
+    "tags": [
+      "file",
+      "unlock"
+    ],
+    "master_svg": "svg/master/file_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/file_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/file_unlock.png"
+  },
+  {
+    "name": "file_upload",
+    "category": "file",
+    "base": "file",
+    "overlay": "upload",
+    "tags": [
+      "file",
+      "upload"
+    ],
+    "master_svg": "svg/master/file_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/file_upload.svg",
+    "png_pattern": "png/{theme}/{size}/file_upload.png"
+  },
+  {
+    "name": "file_download",
+    "category": "file",
+    "base": "file",
+    "overlay": "download",
+    "tags": [
+      "file",
+      "download"
+    ],
+    "master_svg": "svg/master/file_download.svg",
+    "theme_svg_pattern": "svg/{theme}/file_download.svg",
+    "png_pattern": "png/{theme}/{size}/file_download.png"
+  },
+  {
+    "name": "file_import",
+    "category": "file",
+    "base": "file",
+    "overlay": "import",
+    "tags": [
+      "file",
+      "import"
+    ],
+    "master_svg": "svg/master/file_import.svg",
+    "theme_svg_pattern": "svg/{theme}/file_import.svg",
+    "png_pattern": "png/{theme}/{size}/file_import.png"
+  },
+  {
+    "name": "file_export",
+    "category": "file",
+    "base": "file",
+    "overlay": "export",
+    "tags": [
+      "file",
+      "export"
+    ],
+    "master_svg": "svg/master/file_export.svg",
+    "theme_svg_pattern": "svg/{theme}/file_export.svg",
+    "png_pattern": "png/{theme}/{size}/file_export.png"
+  },
+  {
+    "name": "file_sync",
+    "category": "file",
+    "base": "file",
+    "overlay": "sync",
+    "tags": [
+      "file",
+      "sync"
+    ],
+    "master_svg": "svg/master/file_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/file_sync.svg",
+    "png_pattern": "png/{theme}/{size}/file_sync.png"
+  },
+  {
+    "name": "file_refresh",
+    "category": "file",
+    "base": "file",
+    "overlay": "sync",
+    "tags": [
+      "file",
+      "refresh"
+    ],
+    "master_svg": "svg/master/file_refresh.svg",
+    "theme_svg_pattern": "svg/{theme}/file_refresh.svg",
+    "png_pattern": "png/{theme}/{size}/file_refresh.png"
+  },
+  {
+    "name": "file_share",
+    "category": "file",
+    "base": "file",
+    "overlay": "share",
+    "tags": [
+      "file",
+      "share"
+    ],
+    "master_svg": "svg/master/file_share.svg",
+    "theme_svg_pattern": "svg/{theme}/file_share.svg",
+    "png_pattern": "png/{theme}/{size}/file_share.png"
+  },
+  {
+    "name": "file_link",
+    "category": "file",
+    "base": "file",
+    "overlay": "link",
+    "tags": [
+      "file",
+      "link"
+    ],
+    "master_svg": "svg/master/file_link.svg",
+    "theme_svg_pattern": "svg/{theme}/file_link.svg",
+    "png_pattern": "png/{theme}/{size}/file_link.png"
+  },
+  {
+    "name": "file_copy",
+    "category": "file",
+    "base": "file",
+    "overlay": "copy",
+    "tags": [
+      "file",
+      "copy"
+    ],
+    "master_svg": "svg/master/file_copy.svg",
+    "theme_svg_pattern": "svg/{theme}/file_copy.svg",
+    "png_pattern": "png/{theme}/{size}/file_copy.png"
+  },
+  {
+    "name": "file_move",
+    "category": "file",
+    "base": "file",
+    "overlay": "right",
+    "tags": [
+      "file",
+      "move"
+    ],
+    "master_svg": "svg/master/file_move.svg",
+    "theme_svg_pattern": "svg/{theme}/file_move.svg",
+    "png_pattern": "png/{theme}/{size}/file_move.png"
+  },
+  {
+    "name": "file_preview",
+    "category": "file",
+    "base": "file",
+    "overlay": "eye",
+    "tags": [
+      "file",
+      "preview"
+    ],
+    "master_svg": "svg/master/file_preview.svg",
+    "theme_svg_pattern": "svg/{theme}/file_preview.svg",
+    "png_pattern": "png/{theme}/{size}/file_preview.png"
+  },
+  {
+    "name": "file_hide",
+    "category": "file",
+    "base": "file",
+    "overlay": "slash",
+    "tags": [
+      "file",
+      "hide"
+    ],
+    "master_svg": "svg/master/file_hide.svg",
+    "theme_svg_pattern": "svg/{theme}/file_hide.svg",
+    "png_pattern": "png/{theme}/{size}/file_hide.png"
+  },
+  {
+    "name": "file_history",
+    "category": "file",
+    "base": "file",
+    "overlay": "time",
+    "tags": [
+      "file",
+      "history"
+    ],
+    "master_svg": "svg/master/file_history.svg",
+    "theme_svg_pattern": "svg/{theme}/file_history.svg",
+    "png_pattern": "png/{theme}/{size}/file_history.png"
+  },
+  {
+    "name": "file_cloud",
+    "category": "file",
+    "base": "file",
+    "overlay": "cloud",
+    "tags": [
+      "file",
+      "cloud"
+    ],
+    "master_svg": "svg/master/file_cloud.svg",
+    "theme_svg_pattern": "svg/{theme}/file_cloud.svg",
+    "png_pattern": "png/{theme}/{size}/file_cloud.png"
+  },
+  {
+    "name": "file_user",
+    "category": "file",
+    "base": "file",
+    "overlay": "user",
+    "tags": [
+      "file",
+      "user"
+    ],
+    "master_svg": "svg/master/file_user.svg",
+    "theme_svg_pattern": "svg/{theme}/file_user.svg",
+    "png_pattern": "png/{theme}/{size}/file_user.png"
+  },
+  {
+    "name": "file_open",
+    "category": "file",
+    "base": "file",
+    "overlay": "up",
+    "tags": [
+      "file",
+      "open"
+    ],
+    "master_svg": "svg/master/file_open.svg",
+    "theme_svg_pattern": "svg/{theme}/file_open.svg",
+    "png_pattern": "png/{theme}/{size}/file_open.png"
+  },
+  {
+    "name": "file_save",
+    "category": "file",
+    "base": "file",
+    "overlay": "download",
+    "tags": [
+      "file",
+      "save"
+    ],
+    "master_svg": "svg/master/file_save.svg",
+    "theme_svg_pattern": "svg/{theme}/file_save.svg",
+    "png_pattern": "png/{theme}/{size}/file_save.png"
+  },
+  {
+    "name": "file_save_as",
+    "category": "file",
+    "base": "file",
+    "overlay": "edit",
+    "tags": [
+      "file",
+      "save_as"
+    ],
+    "master_svg": "svg/master/file_save_as.svg",
+    "theme_svg_pattern": "svg/{theme}/file_save_as.svg",
+    "png_pattern": "png/{theme}/{size}/file_save_as.png"
+  },
+  {
+    "name": "file_print",
+    "category": "file",
+    "base": "file",
+    "overlay": "down",
+    "tags": [
+      "file",
+      "print"
+    ],
+    "master_svg": "svg/master/file_print.svg",
+    "theme_svg_pattern": "svg/{theme}/file_print.svg",
+    "png_pattern": "png/{theme}/{size}/file_print.png"
+  },
+  {
+    "name": "file_archive",
+    "category": "file",
+    "base": "file",
+    "overlay": "down",
+    "tags": [
+      "file",
+      "archive"
+    ],
+    "master_svg": "svg/master/file_archive.svg",
+    "theme_svg_pattern": "svg/{theme}/file_archive.svg",
+    "png_pattern": "png/{theme}/{size}/file_archive.png"
+  },
+  {
+    "name": "file_compress",
+    "category": "file",
+    "base": "file",
+    "overlay": "down",
+    "tags": [
+      "file",
+      "compress"
+    ],
+    "master_svg": "svg/master/file_compress.svg",
+    "theme_svg_pattern": "svg/{theme}/file_compress.svg",
+    "png_pattern": "png/{theme}/{size}/file_compress.png"
+  },
+  {
+    "name": "file_extract",
+    "category": "file",
+    "base": "file",
+    "overlay": "up",
+    "tags": [
+      "file",
+      "extract"
+    ],
+    "master_svg": "svg/master/file_extract.svg",
+    "theme_svg_pattern": "svg/{theme}/file_extract.svg",
+    "png_pattern": "png/{theme}/{size}/file_extract.png"
+  },
+  {
+    "name": "file_merge",
+    "category": "file",
+    "base": "file",
+    "overlay": "link",
+    "tags": [
+      "file",
+      "merge"
+    ],
+    "master_svg": "svg/master/file_merge.svg",
+    "theme_svg_pattern": "svg/{theme}/file_merge.svg",
+    "png_pattern": "png/{theme}/{size}/file_merge.png"
+  },
+  {
+    "name": "file_split",
+    "category": "file",
+    "base": "file",
+    "overlay": "slash",
+    "tags": [
+      "file",
+      "split"
+    ],
+    "master_svg": "svg/master/file_split.svg",
+    "theme_svg_pattern": "svg/{theme}/file_split.svg",
+    "png_pattern": "png/{theme}/{size}/file_split.png"
+  },
+  {
+    "name": "file_compare",
+    "category": "file",
+    "base": "file",
+    "overlay": "eye",
+    "tags": [
+      "file",
+      "compare"
+    ],
+    "master_svg": "svg/master/file_compare.svg",
+    "theme_svg_pattern": "svg/{theme}/file_compare.svg",
+    "png_pattern": "png/{theme}/{size}/file_compare.png"
+  },
+  {
+    "name": "file_template",
+    "category": "file",
+    "base": "file",
+    "overlay": "star",
+    "tags": [
+      "file",
+      "template"
+    ],
+    "master_svg": "svg/master/file_template.svg",
+    "theme_svg_pattern": "svg/{theme}/file_template.svg",
+    "png_pattern": "png/{theme}/{size}/file_template.png"
+  },
+  {
+    "name": "file_certificate",
+    "category": "file",
+    "base": "file",
+    "overlay": "check",
+    "tags": [
+      "file",
+      "certificate"
+    ],
+    "master_svg": "svg/master/file_certificate.svg",
+    "theme_svg_pattern": "svg/{theme}/file_certificate.svg",
+    "png_pattern": "png/{theme}/{size}/file_certificate.png"
+  },
+  {
+    "name": "file_signature",
+    "category": "file",
+    "base": "file",
+    "overlay": "edit",
+    "tags": [
+      "file",
+      "signature"
+    ],
+    "master_svg": "svg/master/file_signature.svg",
+    "theme_svg_pattern": "svg/{theme}/file_signature.svg",
+    "png_pattern": "png/{theme}/{size}/file_signature.png"
+  },
+  {
+    "name": "file_encrypt",
+    "category": "file",
+    "base": "file",
+    "overlay": "lock",
+    "tags": [
+      "file",
+      "encrypt"
+    ],
+    "master_svg": "svg/master/file_encrypt.svg",
+    "theme_svg_pattern": "svg/{theme}/file_encrypt.svg",
+    "png_pattern": "png/{theme}/{size}/file_encrypt.png"
+  },
+  {
+    "name": "file_decrypt",
+    "category": "file",
+    "base": "file",
+    "overlay": "unlock",
+    "tags": [
+      "file",
+      "decrypt"
+    ],
+    "master_svg": "svg/master/file_decrypt.svg",
+    "theme_svg_pattern": "svg/{theme}/file_decrypt.svg",
+    "png_pattern": "png/{theme}/{size}/file_decrypt.png"
+  },
+  {
+    "name": "file_local",
+    "category": "file",
+    "base": "file",
+    "overlay": "pin",
+    "tags": [
+      "file",
+      "local"
+    ],
+    "master_svg": "svg/master/file_local.svg",
+    "theme_svg_pattern": "svg/{theme}/file_local.svg",
+    "png_pattern": "png/{theme}/{size}/file_local.png"
+  },
+  {
+    "name": "file_bookmark",
+    "category": "file",
+    "base": "file",
+    "overlay": "star",
+    "tags": [
+      "file",
+      "bookmark"
+    ],
+    "master_svg": "svg/master/file_bookmark.svg",
+    "theme_svg_pattern": "svg/{theme}/file_bookmark.svg",
+    "png_pattern": "png/{theme}/{size}/file_bookmark.png"
+  },
+  {
+    "name": "file_code",
+    "category": "file",
+    "base": "file",
+    "overlay": "code",
+    "tags": [
+      "file",
+      "code"
+    ],
+    "master_svg": "svg/master/file_code.svg",
+    "theme_svg_pattern": "svg/{theme}/file_code.svg",
+    "png_pattern": "png/{theme}/{size}/file_code.png"
+  },
+  {
+    "name": "file_image",
+    "category": "file",
+    "base": "file",
+    "overlay": "eye",
+    "tags": [
+      "file",
+      "image"
+    ],
+    "master_svg": "svg/master/file_image.svg",
+    "theme_svg_pattern": "svg/{theme}/file_image.svg",
+    "png_pattern": "png/{theme}/{size}/file_image.png"
+  },
+  {
+    "name": "file_audio",
+    "category": "file",
+    "base": "file",
+    "overlay": "play",
+    "tags": [
+      "file",
+      "audio"
+    ],
+    "master_svg": "svg/master/file_audio.svg",
+    "theme_svg_pattern": "svg/{theme}/file_audio.svg",
+    "png_pattern": "png/{theme}/{size}/file_audio.png"
+  },
+  {
+    "name": "file_video",
+    "category": "file",
+    "base": "file",
+    "overlay": "play",
+    "tags": [
+      "file",
+      "video"
+    ],
+    "master_svg": "svg/master/file_video.svg",
+    "theme_svg_pattern": "svg/{theme}/file_video.svg",
+    "png_pattern": "png/{theme}/{size}/file_video.png"
+  },
+  {
+    "name": "file_table",
+    "category": "file",
+    "base": "file",
+    "overlay": "grid",
+    "tags": [
+      "file",
+      "table"
+    ],
+    "master_svg": "svg/master/file_table.svg",
+    "theme_svg_pattern": "svg/{theme}/file_table.svg",
+    "png_pattern": "png/{theme}/{size}/file_table.png"
+  },
+  {
+    "name": "file_database",
+    "category": "file",
+    "base": "file",
+    "overlay": "cloud",
+    "tags": [
+      "file",
+      "database"
+    ],
+    "master_svg": "svg/master/file_database.svg",
+    "theme_svg_pattern": "svg/{theme}/file_database.svg",
+    "png_pattern": "png/{theme}/{size}/file_database.png"
+  },
+  {
+    "name": "file_binary",
+    "category": "file",
+    "base": "file",
+    "overlay": "gear",
+    "tags": [
+      "file",
+      "binary"
+    ],
+    "master_svg": "svg/master/file_binary.svg",
+    "theme_svg_pattern": "svg/{theme}/file_binary.svg",
+    "png_pattern": "png/{theme}/{size}/file_binary.png"
+  },
+  {
+    "name": "file_text",
+    "category": "file",
+    "base": "file",
+    "overlay": "info",
+    "tags": [
+      "file",
+      "text"
+    ],
+    "master_svg": "svg/master/file_text.svg",
+    "theme_svg_pattern": "svg/{theme}/file_text.svg",
+    "png_pattern": "png/{theme}/{size}/file_text.png"
+  },
+  {
+    "name": "file_markdown",
+    "category": "file",
+    "base": "file",
+    "overlay": "code",
+    "tags": [
+      "file",
+      "markdown"
+    ],
+    "master_svg": "svg/master/file_markdown.svg",
+    "theme_svg_pattern": "svg/{theme}/file_markdown.svg",
+    "png_pattern": "png/{theme}/{size}/file_markdown.png"
+  },
+  {
+    "name": "file_script",
+    "category": "file",
+    "base": "file",
+    "overlay": "code",
+    "tags": [
+      "file",
+      "script"
+    ],
+    "master_svg": "svg/master/file_script.svg",
+    "theme_svg_pattern": "svg/{theme}/file_script.svg",
+    "png_pattern": "png/{theme}/{size}/file_script.png"
+  },
+  {
+    "name": "document",
+    "category": "file",
+    "base": "file_stack",
+    "overlay": null,
+    "tags": [
+      "document",
+      ""
+    ],
+    "master_svg": "svg/master/document.svg",
+    "theme_svg_pattern": "svg/{theme}/document.svg",
+    "png_pattern": "png/{theme}/{size}/document.png"
+  },
+  {
+    "name": "document_stack",
+    "category": "file",
+    "base": "file_stack",
+    "overlay": null,
+    "tags": [
+      "document",
+      "stack"
+    ],
+    "master_svg": "svg/master/document_stack.svg",
+    "theme_svg_pattern": "svg/{theme}/document_stack.svg",
+    "png_pattern": "png/{theme}/{size}/document_stack.png"
+  },
+  {
+    "name": "document_copy",
+    "category": "file",
+    "base": "file_stack",
+    "overlay": "copy",
+    "tags": [
+      "document",
+      "copy"
+    ],
+    "master_svg": "svg/master/document_copy.svg",
+    "theme_svg_pattern": "svg/{theme}/document_copy.svg",
+    "png_pattern": "png/{theme}/{size}/document_copy.png"
+  },
+  {
+    "name": "document_merge",
+    "category": "file",
+    "base": "file_stack",
+    "overlay": "link",
+    "tags": [
+      "document",
+      "merge"
+    ],
+    "master_svg": "svg/master/document_merge.svg",
+    "theme_svg_pattern": "svg/{theme}/document_merge.svg",
+    "png_pattern": "png/{theme}/{size}/document_merge.png"
+  },
+  {
+    "name": "document_split",
+    "category": "file",
+    "base": "file_stack",
+    "overlay": "slash",
+    "tags": [
+      "document",
+      "split"
+    ],
+    "master_svg": "svg/master/document_split.svg",
+    "theme_svg_pattern": "svg/{theme}/document_split.svg",
+    "png_pattern": "png/{theme}/{size}/document_split.png"
+  },
+  {
+    "name": "document_compare",
+    "category": "file",
+    "base": "file_stack",
+    "overlay": "eye",
+    "tags": [
+      "document",
+      "compare"
+    ],
+    "master_svg": "svg/master/document_compare.svg",
+    "theme_svg_pattern": "svg/{theme}/document_compare.svg",
+    "png_pattern": "png/{theme}/{size}/document_compare.png"
+  },
+  {
+    "name": "document_version",
+    "category": "file",
+    "base": "file_stack",
+    "overlay": "time",
+    "tags": [
+      "document",
+      "version"
+    ],
+    "master_svg": "svg/master/document_version.svg",
+    "theme_svg_pattern": "svg/{theme}/document_version.svg",
+    "png_pattern": "png/{theme}/{size}/document_version.png"
+  },
+  {
+    "name": "document_review",
+    "category": "file",
+    "base": "file_stack",
+    "overlay": "check",
+    "tags": [
+      "document",
+      "review"
+    ],
+    "master_svg": "svg/master/document_review.svg",
+    "theme_svg_pattern": "svg/{theme}/document_review.svg",
+    "png_pattern": "png/{theme}/{size}/document_review.png"
+  },
+  {
+    "name": "document_draft",
+    "category": "file",
+    "base": "file_stack",
+    "overlay": "edit",
+    "tags": [
+      "document",
+      "draft"
+    ],
+    "master_svg": "svg/master/document_draft.svg",
+    "theme_svg_pattern": "svg/{theme}/document_draft.svg",
+    "png_pattern": "png/{theme}/{size}/document_draft.png"
+  },
+  {
+    "name": "document_publish",
+    "category": "file",
+    "base": "file_stack",
+    "overlay": "upload",
+    "tags": [
+      "document",
+      "publish"
+    ],
+    "master_svg": "svg/master/document_publish.svg",
+    "theme_svg_pattern": "svg/{theme}/document_publish.svg",
+    "png_pattern": "png/{theme}/{size}/document_publish.png"
+  },
+  {
+    "name": "folder",
+    "category": "folder",
+    "base": "folder",
+    "overlay": null,
+    "tags": [
+      "folder",
+      ""
+    ],
+    "master_svg": "svg/master/folder.svg",
+    "theme_svg_pattern": "svg/{theme}/folder.svg",
+    "png_pattern": "png/{theme}/{size}/folder.png"
+  },
+  {
+    "name": "folder_new",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "add",
+    "tags": [
+      "folder",
+      "new"
+    ],
+    "master_svg": "svg/master/folder_new.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_new.svg",
+    "png_pattern": "png/{theme}/{size}/folder_new.png"
+  },
+  {
+    "name": "folder_add",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "add",
+    "tags": [
+      "folder",
+      "add"
+    ],
+    "master_svg": "svg/master/folder_add.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_add.svg",
+    "png_pattern": "png/{theme}/{size}/folder_add.png"
+  },
+  {
+    "name": "folder_remove",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "remove",
+    "tags": [
+      "folder",
+      "remove"
+    ],
+    "master_svg": "svg/master/folder_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_remove.svg",
+    "png_pattern": "png/{theme}/{size}/folder_remove.png"
+  },
+  {
+    "name": "folder_delete",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "delete",
+    "tags": [
+      "folder",
+      "delete"
+    ],
+    "master_svg": "svg/master/folder_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_delete.svg",
+    "png_pattern": "png/{theme}/{size}/folder_delete.png"
+  },
+  {
+    "name": "folder_edit",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "edit",
+    "tags": [
+      "folder",
+      "edit"
+    ],
+    "master_svg": "svg/master/folder_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_edit.svg",
+    "png_pattern": "png/{theme}/{size}/folder_edit.png"
+  },
+  {
+    "name": "folder_search",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "search",
+    "tags": [
+      "folder",
+      "search"
+    ],
+    "master_svg": "svg/master/folder_search.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_search.svg",
+    "png_pattern": "png/{theme}/{size}/folder_search.png"
+  },
+  {
+    "name": "folder_find",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "search",
+    "tags": [
+      "folder",
+      "find"
+    ],
+    "master_svg": "svg/master/folder_find.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_find.svg",
+    "png_pattern": "png/{theme}/{size}/folder_find.png"
+  },
+  {
+    "name": "folder_check",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "check",
+    "tags": [
+      "folder",
+      "check"
+    ],
+    "master_svg": "svg/master/folder_check.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_check.svg",
+    "png_pattern": "png/{theme}/{size}/folder_check.png"
+  },
+  {
+    "name": "folder_ok",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "check",
+    "tags": [
+      "folder",
+      "ok"
+    ],
+    "master_svg": "svg/master/folder_ok.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_ok.svg",
+    "png_pattern": "png/{theme}/{size}/folder_ok.png"
+  },
+  {
+    "name": "folder_error",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "error",
+    "tags": [
+      "folder",
+      "error"
+    ],
+    "master_svg": "svg/master/folder_error.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_error.svg",
+    "png_pattern": "png/{theme}/{size}/folder_error.png"
+  },
+  {
+    "name": "folder_warning",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "warning",
+    "tags": [
+      "folder",
+      "warning"
+    ],
+    "master_svg": "svg/master/folder_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_warning.svg",
+    "png_pattern": "png/{theme}/{size}/folder_warning.png"
+  },
+  {
+    "name": "folder_info",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "info",
+    "tags": [
+      "folder",
+      "info"
+    ],
+    "master_svg": "svg/master/folder_info.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_info.svg",
+    "png_pattern": "png/{theme}/{size}/folder_info.png"
+  },
+  {
+    "name": "folder_help",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "help",
+    "tags": [
+      "folder",
+      "help"
+    ],
+    "master_svg": "svg/master/folder_help.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_help.svg",
+    "png_pattern": "png/{theme}/{size}/folder_help.png"
+  },
+  {
+    "name": "folder_settings",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "gear",
+    "tags": [
+      "folder",
+      "settings"
+    ],
+    "master_svg": "svg/master/folder_settings.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_settings.svg",
+    "png_pattern": "png/{theme}/{size}/folder_settings.png"
+  },
+  {
+    "name": "folder_properties",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "info",
+    "tags": [
+      "folder",
+      "properties"
+    ],
+    "master_svg": "svg/master/folder_properties.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_properties.svg",
+    "png_pattern": "png/{theme}/{size}/folder_properties.png"
+  },
+  {
+    "name": "folder_favorite",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "star",
+    "tags": [
+      "folder",
+      "favorite"
+    ],
+    "master_svg": "svg/master/folder_favorite.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_favorite.svg",
+    "png_pattern": "png/{theme}/{size}/folder_favorite.png"
+  },
+  {
+    "name": "folder_star",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "star",
+    "tags": [
+      "folder",
+      "star"
+    ],
+    "master_svg": "svg/master/folder_star.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_star.svg",
+    "png_pattern": "png/{theme}/{size}/folder_star.png"
+  },
+  {
+    "name": "folder_pin",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "pin",
+    "tags": [
+      "folder",
+      "pin"
+    ],
+    "master_svg": "svg/master/folder_pin.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_pin.svg",
+    "png_pattern": "png/{theme}/{size}/folder_pin.png"
+  },
+  {
+    "name": "folder_lock",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "lock",
+    "tags": [
+      "folder",
+      "lock"
+    ],
+    "master_svg": "svg/master/folder_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_lock.svg",
+    "png_pattern": "png/{theme}/{size}/folder_lock.png"
+  },
+  {
+    "name": "folder_unlock",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "unlock",
+    "tags": [
+      "folder",
+      "unlock"
+    ],
+    "master_svg": "svg/master/folder_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/folder_unlock.png"
+  },
+  {
+    "name": "folder_upload",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "upload",
+    "tags": [
+      "folder",
+      "upload"
+    ],
+    "master_svg": "svg/master/folder_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_upload.svg",
+    "png_pattern": "png/{theme}/{size}/folder_upload.png"
+  },
+  {
+    "name": "folder_download",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "download",
+    "tags": [
+      "folder",
+      "download"
+    ],
+    "master_svg": "svg/master/folder_download.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_download.svg",
+    "png_pattern": "png/{theme}/{size}/folder_download.png"
+  },
+  {
+    "name": "folder_import",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "import",
+    "tags": [
+      "folder",
+      "import"
+    ],
+    "master_svg": "svg/master/folder_import.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_import.svg",
+    "png_pattern": "png/{theme}/{size}/folder_import.png"
+  },
+  {
+    "name": "folder_export",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "export",
+    "tags": [
+      "folder",
+      "export"
+    ],
+    "master_svg": "svg/master/folder_export.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_export.svg",
+    "png_pattern": "png/{theme}/{size}/folder_export.png"
+  },
+  {
+    "name": "folder_sync",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "sync",
+    "tags": [
+      "folder",
+      "sync"
+    ],
+    "master_svg": "svg/master/folder_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_sync.svg",
+    "png_pattern": "png/{theme}/{size}/folder_sync.png"
+  },
+  {
+    "name": "folder_refresh",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "sync",
+    "tags": [
+      "folder",
+      "refresh"
+    ],
+    "master_svg": "svg/master/folder_refresh.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_refresh.svg",
+    "png_pattern": "png/{theme}/{size}/folder_refresh.png"
+  },
+  {
+    "name": "folder_share",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "share",
+    "tags": [
+      "folder",
+      "share"
+    ],
+    "master_svg": "svg/master/folder_share.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_share.svg",
+    "png_pattern": "png/{theme}/{size}/folder_share.png"
+  },
+  {
+    "name": "folder_link",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "link",
+    "tags": [
+      "folder",
+      "link"
+    ],
+    "master_svg": "svg/master/folder_link.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_link.svg",
+    "png_pattern": "png/{theme}/{size}/folder_link.png"
+  },
+  {
+    "name": "folder_copy",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "copy",
+    "tags": [
+      "folder",
+      "copy"
+    ],
+    "master_svg": "svg/master/folder_copy.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_copy.svg",
+    "png_pattern": "png/{theme}/{size}/folder_copy.png"
+  },
+  {
+    "name": "folder_move",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "right",
+    "tags": [
+      "folder",
+      "move"
+    ],
+    "master_svg": "svg/master/folder_move.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_move.svg",
+    "png_pattern": "png/{theme}/{size}/folder_move.png"
+  },
+  {
+    "name": "folder_preview",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "eye",
+    "tags": [
+      "folder",
+      "preview"
+    ],
+    "master_svg": "svg/master/folder_preview.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_preview.svg",
+    "png_pattern": "png/{theme}/{size}/folder_preview.png"
+  },
+  {
+    "name": "folder_hide",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "slash",
+    "tags": [
+      "folder",
+      "hide"
+    ],
+    "master_svg": "svg/master/folder_hide.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_hide.svg",
+    "png_pattern": "png/{theme}/{size}/folder_hide.png"
+  },
+  {
+    "name": "folder_history",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "time",
+    "tags": [
+      "folder",
+      "history"
+    ],
+    "master_svg": "svg/master/folder_history.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_history.svg",
+    "png_pattern": "png/{theme}/{size}/folder_history.png"
+  },
+  {
+    "name": "folder_cloud",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "cloud",
+    "tags": [
+      "folder",
+      "cloud"
+    ],
+    "master_svg": "svg/master/folder_cloud.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_cloud.svg",
+    "png_pattern": "png/{theme}/{size}/folder_cloud.png"
+  },
+  {
+    "name": "folder_user",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "user",
+    "tags": [
+      "folder",
+      "user"
+    ],
+    "master_svg": "svg/master/folder_user.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_user.svg",
+    "png_pattern": "png/{theme}/{size}/folder_user.png"
+  },
+  {
+    "name": "folder_open",
+    "category": "folder",
+    "base": "folder",
+    "overlay": null,
+    "tags": [
+      "folder",
+      "open"
+    ],
+    "master_svg": "svg/master/folder_open.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_open.svg",
+    "png_pattern": "png/{theme}/{size}/folder_open.png"
+  },
+  {
+    "name": "folder_closed",
+    "category": "folder",
+    "base": "folder",
+    "overlay": null,
+    "tags": [
+      "folder",
+      "closed"
+    ],
+    "master_svg": "svg/master/folder_closed.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_closed.svg",
+    "png_pattern": "png/{theme}/{size}/folder_closed.png"
+  },
+  {
+    "name": "folder_root",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "pin",
+    "tags": [
+      "folder",
+      "root"
+    ],
+    "master_svg": "svg/master/folder_root.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_root.svg",
+    "png_pattern": "png/{theme}/{size}/folder_root.png"
+  },
+  {
+    "name": "folder_home",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "user",
+    "tags": [
+      "folder",
+      "home"
+    ],
+    "master_svg": "svg/master/folder_home.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_home.svg",
+    "png_pattern": "png/{theme}/{size}/folder_home.png"
+  },
+  {
+    "name": "folder_project",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "star",
+    "tags": [
+      "folder",
+      "project"
+    ],
+    "master_svg": "svg/master/folder_project.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_project.svg",
+    "png_pattern": "png/{theme}/{size}/folder_project.png"
+  },
+  {
+    "name": "folder_library",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "grid",
+    "tags": [
+      "folder",
+      "library"
+    ],
+    "master_svg": "svg/master/folder_library.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_library.svg",
+    "png_pattern": "png/{theme}/{size}/folder_library.png"
+  },
+  {
+    "name": "folder_backup",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "cloud",
+    "tags": [
+      "folder",
+      "backup"
+    ],
+    "master_svg": "svg/master/folder_backup.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_backup.svg",
+    "png_pattern": "png/{theme}/{size}/folder_backup.png"
+  },
+  {
+    "name": "folder_temp",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "time",
+    "tags": [
+      "folder",
+      "temp"
+    ],
+    "master_svg": "svg/master/folder_temp.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_temp.svg",
+    "png_pattern": "png/{theme}/{size}/folder_temp.png"
+  },
+  {
+    "name": "folder_mount",
+    "category": "folder",
+    "base": "folder",
+    "overlay": "link",
+    "tags": [
+      "folder",
+      "mount"
+    ],
+    "master_svg": "svg/master/folder_mount.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_mount.svg",
+    "png_pattern": "png/{theme}/{size}/folder_mount.png"
+  },
+  {
+    "name": "folder_open_new",
+    "category": "folder",
+    "base": "folder_open",
+    "overlay": "add",
+    "tags": [
+      "folder_open",
+      "new"
+    ],
+    "master_svg": "svg/master/folder_open_new.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_open_new.svg",
+    "png_pattern": "png/{theme}/{size}/folder_open_new.png"
+  },
+  {
+    "name": "folder_open_search",
+    "category": "folder",
+    "base": "folder_open",
+    "overlay": "search",
+    "tags": [
+      "folder_open",
+      "search"
+    ],
+    "master_svg": "svg/master/folder_open_search.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_open_search.svg",
+    "png_pattern": "png/{theme}/{size}/folder_open_search.png"
+  },
+  {
+    "name": "folder_open_sync",
+    "category": "folder",
+    "base": "folder_open",
+    "overlay": "sync",
+    "tags": [
+      "folder_open",
+      "sync"
+    ],
+    "master_svg": "svg/master/folder_open_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_open_sync.svg",
+    "png_pattern": "png/{theme}/{size}/folder_open_sync.png"
+  },
+  {
+    "name": "folder_open_warning",
+    "category": "folder",
+    "base": "folder_open",
+    "overlay": "warning",
+    "tags": [
+      "folder_open",
+      "warning"
+    ],
+    "master_svg": "svg/master/folder_open_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_open_warning.svg",
+    "png_pattern": "png/{theme}/{size}/folder_open_warning.png"
+  },
+  {
+    "name": "folder_open_lock",
+    "category": "folder",
+    "base": "folder_open",
+    "overlay": "lock",
+    "tags": [
+      "folder_open",
+      "lock"
+    ],
+    "master_svg": "svg/master/folder_open_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_open_lock.svg",
+    "png_pattern": "png/{theme}/{size}/folder_open_lock.png"
+  },
+  {
+    "name": "folder_open_upload",
+    "category": "folder",
+    "base": "folder_open",
+    "overlay": "upload",
+    "tags": [
+      "folder_open",
+      "upload"
+    ],
+    "master_svg": "svg/master/folder_open_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_open_upload.svg",
+    "png_pattern": "png/{theme}/{size}/folder_open_upload.png"
+  },
+  {
+    "name": "folder_open_download",
+    "category": "folder",
+    "base": "folder_open",
+    "overlay": "download",
+    "tags": [
+      "folder_open",
+      "download"
+    ],
+    "master_svg": "svg/master/folder_open_download.svg",
+    "theme_svg_pattern": "svg/{theme}/folder_open_download.svg",
+    "png_pattern": "png/{theme}/{size}/folder_open_download.png"
+  },
+  {
+    "name": "cut",
+    "category": "edit",
+    "base": "scissors",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/cut.svg",
+    "theme_svg_pattern": "svg/{theme}/cut.svg",
+    "png_pattern": "png/{theme}/{size}/cut.png"
+  },
+  {
+    "name": "copy",
+    "category": "edit",
+    "base": "copy",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/copy.svg",
+    "theme_svg_pattern": "svg/{theme}/copy.svg",
+    "png_pattern": "png/{theme}/{size}/copy.png"
+  },
+  {
+    "name": "paste",
+    "category": "edit",
+    "base": "clipboard",
+    "overlay": "download",
+    "tags": [],
+    "master_svg": "svg/master/paste.svg",
+    "theme_svg_pattern": "svg/{theme}/paste.svg",
+    "png_pattern": "png/{theme}/{size}/paste.png"
+  },
+  {
+    "name": "clipboard",
+    "category": "edit",
+    "base": "clipboard",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/clipboard.svg",
+    "theme_svg_pattern": "svg/{theme}/clipboard.svg",
+    "png_pattern": "png/{theme}/{size}/clipboard.png"
+  },
+  {
+    "name": "clipboard_add",
+    "category": "edit",
+    "base": "clipboard",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/clipboard_add.svg",
+    "theme_svg_pattern": "svg/{theme}/clipboard_add.svg",
+    "png_pattern": "png/{theme}/{size}/clipboard_add.png"
+  },
+  {
+    "name": "clipboard_check",
+    "category": "edit",
+    "base": "clipboard",
+    "overlay": "check",
+    "tags": [],
+    "master_svg": "svg/master/clipboard_check.svg",
+    "theme_svg_pattern": "svg/{theme}/clipboard_check.svg",
+    "png_pattern": "png/{theme}/{size}/clipboard_check.png"
+  },
+  {
+    "name": "clipboard_delete",
+    "category": "edit",
+    "base": "clipboard",
+    "overlay": "delete",
+    "tags": [],
+    "master_svg": "svg/master/clipboard_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/clipboard_delete.svg",
+    "png_pattern": "png/{theme}/{size}/clipboard_delete.png"
+  },
+  {
+    "name": "clipboard_search",
+    "category": "edit",
+    "base": "clipboard",
+    "overlay": "search",
+    "tags": [],
+    "master_svg": "svg/master/clipboard_search.svg",
+    "theme_svg_pattern": "svg/{theme}/clipboard_search.svg",
+    "png_pattern": "png/{theme}/{size}/clipboard_search.png"
+  },
+  {
+    "name": "undo",
+    "category": "edit",
+    "base": "undo",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/undo.svg",
+    "theme_svg_pattern": "svg/{theme}/undo.svg",
+    "png_pattern": "png/{theme}/{size}/undo.png"
+  },
+  {
+    "name": "redo",
+    "category": "edit",
+    "base": "redo",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/redo.svg",
+    "theme_svg_pattern": "svg/{theme}/redo.svg",
+    "png_pattern": "png/{theme}/{size}/redo.png"
+  },
+  {
+    "name": "eraser",
+    "category": "edit",
+    "base": "pencil",
+    "overlay": "slash",
+    "tags": [],
+    "master_svg": "svg/master/eraser.svg",
+    "theme_svg_pattern": "svg/{theme}/eraser.svg",
+    "png_pattern": "png/{theme}/{size}/eraser.png"
+  },
+  {
+    "name": "pencil",
+    "category": "edit",
+    "base": "pencil",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/pencil.svg",
+    "theme_svg_pattern": "svg/{theme}/pencil.svg",
+    "png_pattern": "png/{theme}/{size}/pencil.png"
+  },
+  {
+    "name": "edit",
+    "category": "edit",
+    "base": "pencil",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/edit.svg",
+    "theme_svg_pattern": "svg/{theme}/edit.svg",
+    "png_pattern": "png/{theme}/{size}/edit.png"
+  },
+  {
+    "name": "draw",
+    "category": "edit",
+    "base": "brush",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/draw.svg",
+    "theme_svg_pattern": "svg/{theme}/draw.svg",
+    "png_pattern": "png/{theme}/{size}/draw.png"
+  },
+  {
+    "name": "brush",
+    "category": "edit",
+    "base": "brush",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/brush.svg",
+    "theme_svg_pattern": "svg/{theme}/brush.svg",
+    "png_pattern": "png/{theme}/{size}/brush.png"
+  },
+  {
+    "name": "paint",
+    "category": "edit",
+    "base": "palette",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/paint.svg",
+    "theme_svg_pattern": "svg/{theme}/paint.svg",
+    "png_pattern": "png/{theme}/{size}/paint.png"
+  },
+  {
+    "name": "color_picker",
+    "category": "edit",
+    "base": "palette",
+    "overlay": "search",
+    "tags": [],
+    "master_svg": "svg/master/color_picker.svg",
+    "theme_svg_pattern": "svg/{theme}/color_picker.svg",
+    "png_pattern": "png/{theme}/{size}/color_picker.png"
+  },
+  {
+    "name": "fill_color",
+    "category": "edit",
+    "base": "palette",
+    "overlay": "download",
+    "tags": [],
+    "master_svg": "svg/master/fill_color.svg",
+    "theme_svg_pattern": "svg/{theme}/fill_color.svg",
+    "png_pattern": "png/{theme}/{size}/fill_color.png"
+  },
+  {
+    "name": "stroke_color",
+    "category": "edit",
+    "base": "brush",
+    "overlay": "edit",
+    "tags": [],
+    "master_svg": "svg/master/stroke_color.svg",
+    "theme_svg_pattern": "svg/{theme}/stroke_color.svg",
+    "png_pattern": "png/{theme}/{size}/stroke_color.png"
+  },
+  {
+    "name": "crop",
+    "category": "edit",
+    "base": "crop",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/crop.svg",
+    "theme_svg_pattern": "svg/{theme}/crop.svg",
+    "png_pattern": "png/{theme}/{size}/crop.png"
+  },
+  {
+    "name": "selection",
+    "category": "edit",
+    "base": "selection",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/selection.svg",
+    "theme_svg_pattern": "svg/{theme}/selection.svg",
+    "png_pattern": "png/{theme}/{size}/selection.png"
+  },
+  {
+    "name": "select_all",
+    "category": "edit",
+    "base": "selection",
+    "overlay": "check",
+    "tags": [],
+    "master_svg": "svg/master/select_all.svg",
+    "theme_svg_pattern": "svg/{theme}/select_all.svg",
+    "png_pattern": "png/{theme}/{size}/select_all.png"
+  },
+  {
+    "name": "select_none",
+    "category": "edit",
+    "base": "selection",
+    "overlay": "delete",
+    "tags": [],
+    "master_svg": "svg/master/select_none.svg",
+    "theme_svg_pattern": "svg/{theme}/select_none.svg",
+    "png_pattern": "png/{theme}/{size}/select_none.png"
+  },
+  {
+    "name": "cursor",
+    "category": "edit",
+    "base": "cursor",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/cursor.svg",
+    "theme_svg_pattern": "svg/{theme}/cursor.svg",
+    "png_pattern": "png/{theme}/{size}/cursor.png"
+  },
+  {
+    "name": "hand",
+    "category": "edit",
+    "base": "hand",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/hand.svg",
+    "theme_svg_pattern": "svg/{theme}/hand.svg",
+    "png_pattern": "png/{theme}/{size}/hand.png"
+  },
+  {
+    "name": "find",
+    "category": "edit",
+    "base": "search",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/find.svg",
+    "theme_svg_pattern": "svg/{theme}/find.svg",
+    "png_pattern": "png/{theme}/{size}/find.png"
+  },
+  {
+    "name": "find_next",
+    "category": "edit",
+    "base": "search",
+    "overlay": "down",
+    "tags": [],
+    "master_svg": "svg/master/find_next.svg",
+    "theme_svg_pattern": "svg/{theme}/find_next.svg",
+    "png_pattern": "png/{theme}/{size}/find_next.png"
+  },
+  {
+    "name": "find_previous",
+    "category": "edit",
+    "base": "search",
+    "overlay": "up",
+    "tags": [],
+    "master_svg": "svg/master/find_previous.svg",
+    "theme_svg_pattern": "svg/{theme}/find_previous.svg",
+    "png_pattern": "png/{theme}/{size}/find_previous.png"
+  },
+  {
+    "name": "replace",
+    "category": "edit",
+    "base": "refresh",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/replace.svg",
+    "theme_svg_pattern": "svg/{theme}/replace.svg",
+    "png_pattern": "png/{theme}/{size}/replace.png"
+  },
+  {
+    "name": "filter",
+    "category": "edit",
+    "base": "filter",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/filter.svg",
+    "theme_svg_pattern": "svg/{theme}/filter.svg",
+    "png_pattern": "png/{theme}/{size}/filter.png"
+  },
+  {
+    "name": "sort",
+    "category": "edit",
+    "base": "sort",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/sort.svg",
+    "theme_svg_pattern": "svg/{theme}/sort.svg",
+    "png_pattern": "png/{theme}/{size}/sort.png"
+  },
+  {
+    "name": "sort_ascending",
+    "category": "edit",
+    "base": "sort",
+    "overlay": "up",
+    "tags": [],
+    "master_svg": "svg/master/sort_ascending.svg",
+    "theme_svg_pattern": "svg/{theme}/sort_ascending.svg",
+    "png_pattern": "png/{theme}/{size}/sort_ascending.png"
+  },
+  {
+    "name": "sort_descending",
+    "category": "edit",
+    "base": "sort",
+    "overlay": "down",
+    "tags": [],
+    "master_svg": "svg/master/sort_descending.svg",
+    "theme_svg_pattern": "svg/{theme}/sort_descending.svg",
+    "png_pattern": "png/{theme}/{size}/sort_descending.png"
+  },
+  {
+    "name": "tag",
+    "category": "edit",
+    "base": "tag",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/tag.svg",
+    "theme_svg_pattern": "svg/{theme}/tag.svg",
+    "png_pattern": "png/{theme}/{size}/tag.png"
+  },
+  {
+    "name": "tag_add",
+    "category": "edit",
+    "base": "tag",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/tag_add.svg",
+    "theme_svg_pattern": "svg/{theme}/tag_add.svg",
+    "png_pattern": "png/{theme}/{size}/tag_add.png"
+  },
+  {
+    "name": "tag_remove",
+    "category": "edit",
+    "base": "tag",
+    "overlay": "remove",
+    "tags": [],
+    "master_svg": "svg/master/tag_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/tag_remove.svg",
+    "png_pattern": "png/{theme}/{size}/tag_remove.png"
+  },
+  {
+    "name": "bookmark",
+    "category": "edit",
+    "base": "bookmark",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/bookmark.svg",
+    "theme_svg_pattern": "svg/{theme}/bookmark.svg",
+    "png_pattern": "png/{theme}/{size}/bookmark.png"
+  },
+  {
+    "name": "bookmark_add",
+    "category": "edit",
+    "base": "bookmark",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/bookmark_add.svg",
+    "theme_svg_pattern": "svg/{theme}/bookmark_add.svg",
+    "png_pattern": "png/{theme}/{size}/bookmark_add.png"
+  },
+  {
+    "name": "bookmark_remove",
+    "category": "edit",
+    "base": "bookmark",
+    "overlay": "remove",
+    "tags": [],
+    "master_svg": "svg/master/bookmark_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/bookmark_remove.svg",
+    "png_pattern": "png/{theme}/{size}/bookmark_remove.png"
+  },
+  {
+    "name": "flag",
+    "category": "edit",
+    "base": "flag",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/flag.svg",
+    "theme_svg_pattern": "svg/{theme}/flag.svg",
+    "png_pattern": "png/{theme}/{size}/flag.png"
+  },
+  {
+    "name": "flag_check",
+    "category": "edit",
+    "base": "flag",
+    "overlay": "check",
+    "tags": [],
+    "master_svg": "svg/master/flag_check.svg",
+    "theme_svg_pattern": "svg/{theme}/flag_check.svg",
+    "png_pattern": "png/{theme}/{size}/flag_check.png"
+  },
+  {
+    "name": "bold",
+    "category": "text",
+    "base": "bold",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/bold.svg",
+    "theme_svg_pattern": "svg/{theme}/bold.svg",
+    "png_pattern": "png/{theme}/{size}/bold.png"
+  },
+  {
+    "name": "italic",
+    "category": "text",
+    "base": "italic",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/italic.svg",
+    "theme_svg_pattern": "svg/{theme}/italic.svg",
+    "png_pattern": "png/{theme}/{size}/italic.png"
+  },
+  {
+    "name": "underline",
+    "category": "text",
+    "base": "underline",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/underline.svg",
+    "theme_svg_pattern": "svg/{theme}/underline.svg",
+    "png_pattern": "png/{theme}/{size}/underline.png"
+  },
+  {
+    "name": "strikethrough",
+    "category": "text",
+    "base": "strikethrough",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/strikethrough.svg",
+    "theme_svg_pattern": "svg/{theme}/strikethrough.svg",
+    "png_pattern": "png/{theme}/{size}/strikethrough.png"
+  },
+  {
+    "name": "paragraph",
+    "category": "text",
+    "base": "paragraph",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/paragraph.svg",
+    "theme_svg_pattern": "svg/{theme}/paragraph.svg",
+    "png_pattern": "png/{theme}/{size}/paragraph.png"
+  },
+  {
+    "name": "quote",
+    "category": "text",
+    "base": "quote",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/quote.svg",
+    "theme_svg_pattern": "svg/{theme}/quote.svg",
+    "png_pattern": "png/{theme}/{size}/quote.png"
+  },
+  {
+    "name": "text",
+    "category": "text",
+    "base": "text",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/text.svg",
+    "theme_svg_pattern": "svg/{theme}/text.svg",
+    "png_pattern": "png/{theme}/{size}/text.png"
+  },
+  {
+    "name": "text_add",
+    "category": "text",
+    "base": "text",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/text_add.svg",
+    "theme_svg_pattern": "svg/{theme}/text_add.svg",
+    "png_pattern": "png/{theme}/{size}/text_add.png"
+  },
+  {
+    "name": "text_remove",
+    "category": "text",
+    "base": "text",
+    "overlay": "remove",
+    "tags": [],
+    "master_svg": "svg/master/text_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/text_remove.svg",
+    "png_pattern": "png/{theme}/{size}/text_remove.png"
+  },
+  {
+    "name": "text_edit",
+    "category": "text",
+    "base": "text",
+    "overlay": "edit",
+    "tags": [],
+    "master_svg": "svg/master/text_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/text_edit.svg",
+    "png_pattern": "png/{theme}/{size}/text_edit.png"
+  },
+  {
+    "name": "text_search",
+    "category": "text",
+    "base": "text",
+    "overlay": "search",
+    "tags": [],
+    "master_svg": "svg/master/text_search.svg",
+    "theme_svg_pattern": "svg/{theme}/text_search.svg",
+    "png_pattern": "png/{theme}/{size}/text_search.png"
+  },
+  {
+    "name": "text_check",
+    "category": "text",
+    "base": "text",
+    "overlay": "check",
+    "tags": [],
+    "master_svg": "svg/master/text_check.svg",
+    "theme_svg_pattern": "svg/{theme}/text_check.svg",
+    "png_pattern": "png/{theme}/{size}/text_check.png"
+  },
+  {
+    "name": "text_color",
+    "category": "text",
+    "base": "text",
+    "overlay": "brush",
+    "tags": [],
+    "master_svg": "svg/master/text_color.svg",
+    "theme_svg_pattern": "svg/{theme}/text_color.svg",
+    "png_pattern": "png/{theme}/{size}/text_color.png"
+  },
+  {
+    "name": "text_highlight",
+    "category": "text",
+    "base": "text",
+    "overlay": "star",
+    "tags": [],
+    "master_svg": "svg/master/text_highlight.svg",
+    "theme_svg_pattern": "svg/{theme}/text_highlight.svg",
+    "png_pattern": "png/{theme}/{size}/text_highlight.png"
+  },
+  {
+    "name": "font",
+    "category": "text",
+    "base": "text",
+    "overlay": "info",
+    "tags": [],
+    "master_svg": "svg/master/font.svg",
+    "theme_svg_pattern": "svg/{theme}/font.svg",
+    "png_pattern": "png/{theme}/{size}/font.png"
+  },
+  {
+    "name": "font_size",
+    "category": "text",
+    "base": "text",
+    "overlay": "up",
+    "tags": [],
+    "master_svg": "svg/master/font_size.svg",
+    "theme_svg_pattern": "svg/{theme}/font_size.svg",
+    "png_pattern": "png/{theme}/{size}/font_size.png"
+  },
+  {
+    "name": "font_size_increase",
+    "category": "text",
+    "base": "text",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/font_size_increase.svg",
+    "theme_svg_pattern": "svg/{theme}/font_size_increase.svg",
+    "png_pattern": "png/{theme}/{size}/font_size_increase.png"
+  },
+  {
+    "name": "font_size_decrease",
+    "category": "text",
+    "base": "text",
+    "overlay": "remove",
+    "tags": [],
+    "master_svg": "svg/master/font_size_decrease.svg",
+    "theme_svg_pattern": "svg/{theme}/font_size_decrease.svg",
+    "png_pattern": "png/{theme}/{size}/font_size_decrease.png"
+  },
+  {
+    "name": "align_left",
+    "category": "text",
+    "base": "align_left",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/align_left.svg",
+    "theme_svg_pattern": "svg/{theme}/align_left.svg",
+    "png_pattern": "png/{theme}/{size}/align_left.png"
+  },
+  {
+    "name": "align_center",
+    "category": "text",
+    "base": "align_center",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/align_center.svg",
+    "theme_svg_pattern": "svg/{theme}/align_center.svg",
+    "png_pattern": "png/{theme}/{size}/align_center.png"
+  },
+  {
+    "name": "align_right",
+    "category": "text",
+    "base": "align_right",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/align_right.svg",
+    "theme_svg_pattern": "svg/{theme}/align_right.svg",
+    "png_pattern": "png/{theme}/{size}/align_right.png"
+  },
+  {
+    "name": "align_justify",
+    "category": "text",
+    "base": "align_justify",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/align_justify.svg",
+    "theme_svg_pattern": "svg/{theme}/align_justify.svg",
+    "png_pattern": "png/{theme}/{size}/align_justify.png"
+  },
+  {
+    "name": "list_bulleted",
+    "category": "text",
+    "base": "list",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/list_bulleted.svg",
+    "theme_svg_pattern": "svg/{theme}/list_bulleted.svg",
+    "png_pattern": "png/{theme}/{size}/list_bulleted.png"
+  },
+  {
+    "name": "list_numbered",
+    "category": "text",
+    "base": "list",
+    "overlay": "info",
+    "tags": [],
+    "master_svg": "svg/master/list_numbered.svg",
+    "theme_svg_pattern": "svg/{theme}/list_numbered.svg",
+    "png_pattern": "png/{theme}/{size}/list_numbered.png"
+  },
+  {
+    "name": "list_check",
+    "category": "text",
+    "base": "list",
+    "overlay": "check",
+    "tags": [],
+    "master_svg": "svg/master/list_check.svg",
+    "theme_svg_pattern": "svg/{theme}/list_check.svg",
+    "png_pattern": "png/{theme}/{size}/list_check.png"
+  },
+  {
+    "name": "list_add",
+    "category": "text",
+    "base": "list",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/list_add.svg",
+    "theme_svg_pattern": "svg/{theme}/list_add.svg",
+    "png_pattern": "png/{theme}/{size}/list_add.png"
+  },
+  {
+    "name": "indent_increase",
+    "category": "text",
+    "base": "indent_increase",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/indent_increase.svg",
+    "theme_svg_pattern": "svg/{theme}/indent_increase.svg",
+    "png_pattern": "png/{theme}/{size}/indent_increase.png"
+  },
+  {
+    "name": "indent_decrease",
+    "category": "text",
+    "base": "indent_decrease",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/indent_decrease.svg",
+    "theme_svg_pattern": "svg/{theme}/indent_decrease.svg",
+    "png_pattern": "png/{theme}/{size}/indent_decrease.png"
+  },
+  {
+    "name": "line_spacing",
+    "category": "text",
+    "base": "text",
+    "overlay": "up",
+    "tags": [],
+    "master_svg": "svg/master/line_spacing.svg",
+    "theme_svg_pattern": "svg/{theme}/line_spacing.svg",
+    "png_pattern": "png/{theme}/{size}/line_spacing.png"
+  },
+  {
+    "name": "letter_spacing",
+    "category": "text",
+    "base": "text",
+    "overlay": "right",
+    "tags": [],
+    "master_svg": "svg/master/letter_spacing.svg",
+    "theme_svg_pattern": "svg/{theme}/letter_spacing.svg",
+    "png_pattern": "png/{theme}/{size}/letter_spacing.png"
+  },
+  {
+    "name": "word_wrap",
+    "category": "text",
+    "base": "text",
+    "overlay": "sync",
+    "tags": [],
+    "master_svg": "svg/master/word_wrap.svg",
+    "theme_svg_pattern": "svg/{theme}/word_wrap.svg",
+    "png_pattern": "png/{theme}/{size}/word_wrap.png"
+  },
+  {
+    "name": "text_direction_ltr",
+    "category": "text",
+    "base": "text",
+    "overlay": "right",
+    "tags": [],
+    "master_svg": "svg/master/text_direction_ltr.svg",
+    "theme_svg_pattern": "svg/{theme}/text_direction_ltr.svg",
+    "png_pattern": "png/{theme}/{size}/text_direction_ltr.png"
+  },
+  {
+    "name": "text_direction_rtl",
+    "category": "text",
+    "base": "text",
+    "overlay": "left",
+    "tags": [],
+    "master_svg": "svg/master/text_direction_rtl.svg",
+    "theme_svg_pattern": "svg/{theme}/text_direction_rtl.svg",
+    "png_pattern": "png/{theme}/{size}/text_direction_rtl.png"
+  },
+  {
+    "name": "superscript",
+    "category": "text",
+    "base": "superscript",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/superscript.svg",
+    "theme_svg_pattern": "svg/{theme}/superscript.svg",
+    "png_pattern": "png/{theme}/{size}/superscript.png"
+  },
+  {
+    "name": "subscript",
+    "category": "text",
+    "base": "subscript",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/subscript.svg",
+    "theme_svg_pattern": "svg/{theme}/subscript.svg",
+    "png_pattern": "png/{theme}/{size}/subscript.png"
+  },
+  {
+    "name": "clear_format",
+    "category": "text",
+    "base": "text",
+    "overlay": "slash",
+    "tags": [],
+    "master_svg": "svg/master/clear_format.svg",
+    "theme_svg_pattern": "svg/{theme}/clear_format.svg",
+    "png_pattern": "png/{theme}/{size}/clear_format.png"
+  },
+  {
+    "name": "case_upper",
+    "category": "text",
+    "base": "text",
+    "overlay": "up",
+    "tags": [],
+    "master_svg": "svg/master/case_upper.svg",
+    "theme_svg_pattern": "svg/{theme}/case_upper.svg",
+    "png_pattern": "png/{theme}/{size}/case_upper.png"
+  },
+  {
+    "name": "case_lower",
+    "category": "text",
+    "base": "text",
+    "overlay": "down",
+    "tags": [],
+    "master_svg": "svg/master/case_lower.svg",
+    "theme_svg_pattern": "svg/{theme}/case_lower.svg",
+    "png_pattern": "png/{theme}/{size}/case_lower.png"
+  },
+  {
+    "name": "spell_check",
+    "category": "text",
+    "base": "text",
+    "overlay": "check",
+    "tags": [],
+    "master_svg": "svg/master/spell_check.svg",
+    "theme_svg_pattern": "svg/{theme}/spell_check.svg",
+    "png_pattern": "png/{theme}/{size}/spell_check.png"
+  },
+  {
+    "name": "paragraph_spacing",
+    "category": "text",
+    "base": "paragraph",
+    "overlay": "up",
+    "tags": [],
+    "master_svg": "svg/master/paragraph_spacing.svg",
+    "theme_svg_pattern": "svg/{theme}/paragraph_spacing.svg",
+    "png_pattern": "png/{theme}/{size}/paragraph_spacing.png"
+  },
+  {
+    "name": "insert_symbol",
+    "category": "text",
+    "base": "plus",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/insert_symbol.svg",
+    "theme_svg_pattern": "svg/{theme}/insert_symbol.svg",
+    "png_pattern": "png/{theme}/{size}/insert_symbol.png"
+  },
+  {
+    "name": "insert_link",
+    "category": "text",
+    "base": "link",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/insert_link.svg",
+    "theme_svg_pattern": "svg/{theme}/insert_link.svg",
+    "png_pattern": "png/{theme}/{size}/insert_link.png"
+  },
+  {
+    "name": "remove_link",
+    "category": "text",
+    "base": "unlink",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/remove_link.svg",
+    "theme_svg_pattern": "svg/{theme}/remove_link.svg",
+    "png_pattern": "png/{theme}/{size}/remove_link.png"
+  },
+  {
+    "name": "insert_image",
+    "category": "text",
+    "base": "image",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/insert_image.svg",
+    "theme_svg_pattern": "svg/{theme}/insert_image.svg",
+    "png_pattern": "png/{theme}/{size}/insert_image.png"
+  },
+  {
+    "name": "insert_table",
+    "category": "text",
+    "base": "table",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/insert_table.svg",
+    "theme_svg_pattern": "svg/{theme}/insert_table.svg",
+    "png_pattern": "png/{theme}/{size}/insert_table.png"
+  },
+  {
+    "name": "insert_page_break",
+    "category": "text",
+    "base": "file",
+    "overlay": "down",
+    "tags": [],
+    "master_svg": "svg/master/insert_page_break.svg",
+    "theme_svg_pattern": "svg/{theme}/insert_page_break.svg",
+    "png_pattern": "png/{theme}/{size}/insert_page_break.png"
+  },
+  {
+    "name": "insert_horizontal_rule",
+    "category": "text",
+    "base": "minus",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/insert_horizontal_rule.svg",
+    "theme_svg_pattern": "svg/{theme}/insert_horizontal_rule.svg",
+    "png_pattern": "png/{theme}/{size}/insert_horizontal_rule.png"
+  },
+  {
+    "name": "home",
+    "category": "navigation",
+    "base": "home",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/home.svg",
+    "theme_svg_pattern": "svg/{theme}/home.svg",
+    "png_pattern": "png/{theme}/{size}/home.png"
+  },
+  {
+    "name": "back",
+    "category": "navigation",
+    "base": "arrow_left",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/back.svg",
+    "theme_svg_pattern": "svg/{theme}/back.svg",
+    "png_pattern": "png/{theme}/{size}/back.png"
+  },
+  {
+    "name": "forward",
+    "category": "navigation",
+    "base": "arrow_right",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/forward.svg",
+    "theme_svg_pattern": "svg/{theme}/forward.svg",
+    "png_pattern": "png/{theme}/{size}/forward.png"
+  },
+  {
+    "name": "up",
+    "category": "navigation",
+    "base": "arrow_up",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/up.svg",
+    "theme_svg_pattern": "svg/{theme}/up.svg",
+    "png_pattern": "png/{theme}/{size}/up.png"
+  },
+  {
+    "name": "down",
+    "category": "navigation",
+    "base": "arrow_down",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/down.svg",
+    "theme_svg_pattern": "svg/{theme}/down.svg",
+    "png_pattern": "png/{theme}/{size}/down.png"
+  },
+  {
+    "name": "arrow_left",
+    "category": "navigation",
+    "base": "arrow_left",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/arrow_left.svg",
+    "theme_svg_pattern": "svg/{theme}/arrow_left.svg",
+    "png_pattern": "png/{theme}/{size}/arrow_left.png"
+  },
+  {
+    "name": "arrow_right",
+    "category": "navigation",
+    "base": "arrow_right",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/arrow_right.svg",
+    "theme_svg_pattern": "svg/{theme}/arrow_right.svg",
+    "png_pattern": "png/{theme}/{size}/arrow_right.png"
+  },
+  {
+    "name": "arrow_up",
+    "category": "navigation",
+    "base": "arrow_up",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/arrow_up.svg",
+    "theme_svg_pattern": "svg/{theme}/arrow_up.svg",
+    "png_pattern": "png/{theme}/{size}/arrow_up.png"
+  },
+  {
+    "name": "arrow_down",
+    "category": "navigation",
+    "base": "arrow_down",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/arrow_down.svg",
+    "theme_svg_pattern": "svg/{theme}/arrow_down.svg",
+    "png_pattern": "png/{theme}/{size}/arrow_down.png"
+  },
+  {
+    "name": "chevron_left",
+    "category": "navigation",
+    "base": "chevron_left",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/chevron_left.svg",
+    "theme_svg_pattern": "svg/{theme}/chevron_left.svg",
+    "png_pattern": "png/{theme}/{size}/chevron_left.png"
+  },
+  {
+    "name": "chevron_right",
+    "category": "navigation",
+    "base": "chevron_right",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/chevron_right.svg",
+    "theme_svg_pattern": "svg/{theme}/chevron_right.svg",
+    "png_pattern": "png/{theme}/{size}/chevron_right.png"
+  },
+  {
+    "name": "chevron_up",
+    "category": "navigation",
+    "base": "chevron_up",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/chevron_up.svg",
+    "theme_svg_pattern": "svg/{theme}/chevron_up.svg",
+    "png_pattern": "png/{theme}/{size}/chevron_up.png"
+  },
+  {
+    "name": "chevron_down",
+    "category": "navigation",
+    "base": "chevron_down",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/chevron_down.svg",
+    "theme_svg_pattern": "svg/{theme}/chevron_down.svg",
+    "png_pattern": "png/{theme}/{size}/chevron_down.png"
+  },
+  {
+    "name": "refresh",
+    "category": "navigation",
+    "base": "refresh",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/refresh.svg",
+    "theme_svg_pattern": "svg/{theme}/refresh.svg",
+    "png_pattern": "png/{theme}/{size}/refresh.png"
+  },
+  {
+    "name": "reload",
+    "category": "navigation",
+    "base": "refresh",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/reload.svg",
+    "theme_svg_pattern": "svg/{theme}/reload.svg",
+    "png_pattern": "png/{theme}/{size}/reload.png"
+  },
+  {
+    "name": "sync",
+    "category": "navigation",
+    "base": "refresh",
+    "overlay": "sync",
+    "tags": [],
+    "master_svg": "svg/master/sync.svg",
+    "theme_svg_pattern": "svg/{theme}/sync.svg",
+    "png_pattern": "png/{theme}/{size}/sync.png"
+  },
+  {
+    "name": "stop_loading",
+    "category": "navigation",
+    "base": "close",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/stop_loading.svg",
+    "theme_svg_pattern": "svg/{theme}/stop_loading.svg",
+    "png_pattern": "png/{theme}/{size}/stop_loading.png"
+  },
+  {
+    "name": "menu",
+    "category": "navigation",
+    "base": "menu",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/menu.svg",
+    "theme_svg_pattern": "svg/{theme}/menu.svg",
+    "png_pattern": "png/{theme}/{size}/menu.png"
+  },
+  {
+    "name": "hamburger_menu",
+    "category": "navigation",
+    "base": "menu",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/hamburger_menu.svg",
+    "theme_svg_pattern": "svg/{theme}/hamburger_menu.svg",
+    "png_pattern": "png/{theme}/{size}/hamburger_menu.png"
+  },
+  {
+    "name": "more_horizontal",
+    "category": "navigation",
+    "base": "ellipsis_h",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/more_horizontal.svg",
+    "theme_svg_pattern": "svg/{theme}/more_horizontal.svg",
+    "png_pattern": "png/{theme}/{size}/more_horizontal.png"
+  },
+  {
+    "name": "more_vertical",
+    "category": "navigation",
+    "base": "ellipsis_v",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/more_vertical.svg",
+    "theme_svg_pattern": "svg/{theme}/more_vertical.svg",
+    "png_pattern": "png/{theme}/{size}/more_vertical.png"
+  },
+  {
+    "name": "grid_view",
+    "category": "navigation",
+    "base": "grid",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/grid_view.svg",
+    "theme_svg_pattern": "svg/{theme}/grid_view.svg",
+    "png_pattern": "png/{theme}/{size}/grid_view.png"
+  },
+  {
+    "name": "list_view",
+    "category": "navigation",
+    "base": "list",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/list_view.svg",
+    "theme_svg_pattern": "svg/{theme}/list_view.svg",
+    "png_pattern": "png/{theme}/{size}/list_view.png"
+  },
+  {
+    "name": "table_view",
+    "category": "navigation",
+    "base": "table",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/table_view.svg",
+    "theme_svg_pattern": "svg/{theme}/table_view.svg",
+    "png_pattern": "png/{theme}/{size}/table_view.png"
+  },
+  {
+    "name": "details_view",
+    "category": "navigation",
+    "base": "list",
+    "overlay": "info",
+    "tags": [],
+    "master_svg": "svg/master/details_view.svg",
+    "theme_svg_pattern": "svg/{theme}/details_view.svg",
+    "png_pattern": "png/{theme}/{size}/details_view.png"
+  },
+  {
+    "name": "thumbnail_view",
+    "category": "navigation",
+    "base": "grid",
+    "overlay": "image",
+    "tags": [],
+    "master_svg": "svg/master/thumbnail_view.svg",
+    "theme_svg_pattern": "svg/{theme}/thumbnail_view.svg",
+    "png_pattern": "png/{theme}/{size}/thumbnail_view.png"
+  },
+  {
+    "name": "preview_pane",
+    "category": "navigation",
+    "base": "eye",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/preview_pane.svg",
+    "theme_svg_pattern": "svg/{theme}/preview_pane.svg",
+    "png_pattern": "png/{theme}/{size}/preview_pane.png"
+  },
+  {
+    "name": "hide_pane",
+    "category": "navigation",
+    "base": "eye",
+    "overlay": "slash",
+    "tags": [],
+    "master_svg": "svg/master/hide_pane.svg",
+    "theme_svg_pattern": "svg/{theme}/hide_pane.svg",
+    "png_pattern": "png/{theme}/{size}/hide_pane.png"
+  },
+  {
+    "name": "window",
+    "category": "navigation",
+    "base": "window",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/window.svg",
+    "theme_svg_pattern": "svg/{theme}/window.svg",
+    "png_pattern": "png/{theme}/{size}/window.png"
+  },
+  {
+    "name": "window_new",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/window_new.svg",
+    "theme_svg_pattern": "svg/{theme}/window_new.svg",
+    "png_pattern": "png/{theme}/{size}/window_new.png"
+  },
+  {
+    "name": "window_close",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "close",
+    "tags": [],
+    "master_svg": "svg/master/window_close.svg",
+    "theme_svg_pattern": "svg/{theme}/window_close.svg",
+    "png_pattern": "png/{theme}/{size}/window_close.png"
+  },
+  {
+    "name": "window_minimize",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "minus",
+    "tags": [],
+    "master_svg": "svg/master/window_minimize.svg",
+    "theme_svg_pattern": "svg/{theme}/window_minimize.svg",
+    "png_pattern": "png/{theme}/{size}/window_minimize.png"
+  },
+  {
+    "name": "window_maximize",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "up",
+    "tags": [],
+    "master_svg": "svg/master/window_maximize.svg",
+    "theme_svg_pattern": "svg/{theme}/window_maximize.svg",
+    "png_pattern": "png/{theme}/{size}/window_maximize.png"
+  },
+  {
+    "name": "window_restore",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "down",
+    "tags": [],
+    "master_svg": "svg/master/window_restore.svg",
+    "theme_svg_pattern": "svg/{theme}/window_restore.svg",
+    "png_pattern": "png/{theme}/{size}/window_restore.png"
+  },
+  {
+    "name": "window_fullscreen",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "up",
+    "tags": [],
+    "master_svg": "svg/master/window_fullscreen.svg",
+    "theme_svg_pattern": "svg/{theme}/window_fullscreen.svg",
+    "png_pattern": "png/{theme}/{size}/window_fullscreen.png"
+  },
+  {
+    "name": "window_split",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "grid",
+    "tags": [],
+    "master_svg": "svg/master/window_split.svg",
+    "theme_svg_pattern": "svg/{theme}/window_split.svg",
+    "png_pattern": "png/{theme}/{size}/window_split.png"
+  },
+  {
+    "name": "window_tile",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "grid",
+    "tags": [],
+    "master_svg": "svg/master/window_tile.svg",
+    "theme_svg_pattern": "svg/{theme}/window_tile.svg",
+    "png_pattern": "png/{theme}/{size}/window_tile.png"
+  },
+  {
+    "name": "window_cascade",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "copy",
+    "tags": [],
+    "master_svg": "svg/master/window_cascade.svg",
+    "theme_svg_pattern": "svg/{theme}/window_cascade.svg",
+    "png_pattern": "png/{theme}/{size}/window_cascade.png"
+  },
+  {
+    "name": "tab",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "info",
+    "tags": [],
+    "master_svg": "svg/master/tab.svg",
+    "theme_svg_pattern": "svg/{theme}/tab.svg",
+    "png_pattern": "png/{theme}/{size}/tab.png"
+  },
+  {
+    "name": "tab_new",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/tab_new.svg",
+    "theme_svg_pattern": "svg/{theme}/tab_new.svg",
+    "png_pattern": "png/{theme}/{size}/tab_new.png"
+  },
+  {
+    "name": "tab_close",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "close",
+    "tags": [],
+    "master_svg": "svg/master/tab_close.svg",
+    "theme_svg_pattern": "svg/{theme}/tab_close.svg",
+    "png_pattern": "png/{theme}/{size}/tab_close.png"
+  },
+  {
+    "name": "tab_duplicate",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "copy",
+    "tags": [],
+    "master_svg": "svg/master/tab_duplicate.svg",
+    "theme_svg_pattern": "svg/{theme}/tab_duplicate.svg",
+    "png_pattern": "png/{theme}/{size}/tab_duplicate.png"
+  },
+  {
+    "name": "tab_pin",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "pin",
+    "tags": [],
+    "master_svg": "svg/master/tab_pin.svg",
+    "theme_svg_pattern": "svg/{theme}/tab_pin.svg",
+    "png_pattern": "png/{theme}/{size}/tab_pin.png"
+  },
+  {
+    "name": "sidebar",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "left",
+    "tags": [],
+    "master_svg": "svg/master/sidebar.svg",
+    "theme_svg_pattern": "svg/{theme}/sidebar.svg",
+    "png_pattern": "png/{theme}/{size}/sidebar.png"
+  },
+  {
+    "name": "panel_left",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "left",
+    "tags": [],
+    "master_svg": "svg/master/panel_left.svg",
+    "theme_svg_pattern": "svg/{theme}/panel_left.svg",
+    "png_pattern": "png/{theme}/{size}/panel_left.png"
+  },
+  {
+    "name": "panel_right",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "right",
+    "tags": [],
+    "master_svg": "svg/master/panel_right.svg",
+    "theme_svg_pattern": "svg/{theme}/panel_right.svg",
+    "png_pattern": "png/{theme}/{size}/panel_right.png"
+  },
+  {
+    "name": "panel_top",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "up",
+    "tags": [],
+    "master_svg": "svg/master/panel_top.svg",
+    "theme_svg_pattern": "svg/{theme}/panel_top.svg",
+    "png_pattern": "png/{theme}/{size}/panel_top.png"
+  },
+  {
+    "name": "panel_bottom",
+    "category": "navigation",
+    "base": "window",
+    "overlay": "down",
+    "tags": [],
+    "master_svg": "svg/master/panel_bottom.svg",
+    "theme_svg_pattern": "svg/{theme}/panel_bottom.svg",
+    "png_pattern": "png/{theme}/{size}/panel_bottom.png"
+  },
+  {
+    "name": "browser",
+    "category": "navigation",
+    "base": "browser",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/browser.svg",
+    "theme_svg_pattern": "svg/{theme}/browser.svg",
+    "png_pattern": "png/{theme}/{size}/browser.png"
+  },
+  {
+    "name": "browser_back",
+    "category": "navigation",
+    "base": "browser",
+    "overlay": "left",
+    "tags": [],
+    "master_svg": "svg/master/browser_back.svg",
+    "theme_svg_pattern": "svg/{theme}/browser_back.svg",
+    "png_pattern": "png/{theme}/{size}/browser_back.png"
+  },
+  {
+    "name": "browser_forward",
+    "category": "navigation",
+    "base": "browser",
+    "overlay": "right",
+    "tags": [],
+    "master_svg": "svg/master/browser_forward.svg",
+    "theme_svg_pattern": "svg/{theme}/browser_forward.svg",
+    "png_pattern": "png/{theme}/{size}/browser_forward.png"
+  },
+  {
+    "name": "browser_refresh",
+    "category": "navigation",
+    "base": "browser",
+    "overlay": "sync",
+    "tags": [],
+    "master_svg": "svg/master/browser_refresh.svg",
+    "theme_svg_pattern": "svg/{theme}/browser_refresh.svg",
+    "png_pattern": "png/{theme}/{size}/browser_refresh.png"
+  },
+  {
+    "name": "browser_home",
+    "category": "navigation",
+    "base": "browser",
+    "overlay": "user",
+    "tags": [],
+    "master_svg": "svg/master/browser_home.svg",
+    "theme_svg_pattern": "svg/{theme}/browser_home.svg",
+    "png_pattern": "png/{theme}/{size}/browser_home.png"
+  },
+  {
+    "name": "browser_lock",
+    "category": "navigation",
+    "base": "browser",
+    "overlay": "lock",
+    "tags": [],
+    "master_svg": "svg/master/browser_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/browser_lock.svg",
+    "png_pattern": "png/{theme}/{size}/browser_lock.png"
+  },
+  {
+    "name": "zoom_in",
+    "category": "navigation",
+    "base": "search",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/zoom_in.svg",
+    "theme_svg_pattern": "svg/{theme}/zoom_in.svg",
+    "png_pattern": "png/{theme}/{size}/zoom_in.png"
+  },
+  {
+    "name": "zoom_out",
+    "category": "navigation",
+    "base": "search",
+    "overlay": "remove",
+    "tags": [],
+    "master_svg": "svg/master/zoom_out.svg",
+    "theme_svg_pattern": "svg/{theme}/zoom_out.svg",
+    "png_pattern": "png/{theme}/{size}/zoom_out.png"
+  },
+  {
+    "name": "zoom_reset",
+    "category": "navigation",
+    "base": "search",
+    "overlay": "sync",
+    "tags": [],
+    "master_svg": "svg/master/zoom_reset.svg",
+    "theme_svg_pattern": "svg/{theme}/zoom_reset.svg",
+    "png_pattern": "png/{theme}/{size}/zoom_reset.png"
+  },
+  {
+    "name": "play",
+    "category": "media",
+    "base": "play",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/play.svg",
+    "theme_svg_pattern": "svg/{theme}/play.svg",
+    "png_pattern": "png/{theme}/{size}/play.png"
+  },
+  {
+    "name": "pause",
+    "category": "media",
+    "base": "pause",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/pause.svg",
+    "theme_svg_pattern": "svg/{theme}/pause.svg",
+    "png_pattern": "png/{theme}/{size}/pause.png"
+  },
+  {
+    "name": "stop",
+    "category": "media",
+    "base": "stop",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/stop.svg",
+    "theme_svg_pattern": "svg/{theme}/stop.svg",
+    "png_pattern": "png/{theme}/{size}/stop.png"
+  },
+  {
+    "name": "record",
+    "category": "media",
+    "base": "record",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/record.svg",
+    "theme_svg_pattern": "svg/{theme}/record.svg",
+    "png_pattern": "png/{theme}/{size}/record.png"
+  },
+  {
+    "name": "previous",
+    "category": "media",
+    "base": "arrow_left",
+    "overlay": "left",
+    "tags": [],
+    "master_svg": "svg/master/previous.svg",
+    "theme_svg_pattern": "svg/{theme}/previous.svg",
+    "png_pattern": "png/{theme}/{size}/previous.png"
+  },
+  {
+    "name": "next",
+    "category": "media",
+    "base": "arrow_right",
+    "overlay": "right",
+    "tags": [],
+    "master_svg": "svg/master/next.svg",
+    "theme_svg_pattern": "svg/{theme}/next.svg",
+    "png_pattern": "png/{theme}/{size}/next.png"
+  },
+  {
+    "name": "rewind",
+    "category": "media",
+    "base": "arrow_left",
+    "overlay": "left",
+    "tags": [],
+    "master_svg": "svg/master/rewind.svg",
+    "theme_svg_pattern": "svg/{theme}/rewind.svg",
+    "png_pattern": "png/{theme}/{size}/rewind.png"
+  },
+  {
+    "name": "fast_forward",
+    "category": "media",
+    "base": "arrow_right",
+    "overlay": "right",
+    "tags": [],
+    "master_svg": "svg/master/fast_forward.svg",
+    "theme_svg_pattern": "svg/{theme}/fast_forward.svg",
+    "png_pattern": "png/{theme}/{size}/fast_forward.png"
+  },
+  {
+    "name": "eject",
+    "category": "media",
+    "base": "arrow_up",
+    "overlay": "up",
+    "tags": [],
+    "master_svg": "svg/master/eject.svg",
+    "theme_svg_pattern": "svg/{theme}/eject.svg",
+    "png_pattern": "png/{theme}/{size}/eject.png"
+  },
+  {
+    "name": "media_repeat",
+    "category": "media",
+    "base": "refresh",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/media_repeat.svg",
+    "theme_svg_pattern": "svg/{theme}/media_repeat.svg",
+    "png_pattern": "png/{theme}/{size}/media_repeat.png"
+  },
+  {
+    "name": "media_shuffle",
+    "category": "media",
+    "base": "refresh",
+    "overlay": "random",
+    "tags": [],
+    "master_svg": "svg/master/media_shuffle.svg",
+    "theme_svg_pattern": "svg/{theme}/media_shuffle.svg",
+    "png_pattern": "png/{theme}/{size}/media_shuffle.png"
+  },
+  {
+    "name": "volume",
+    "category": "media",
+    "base": "speaker",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/volume.svg",
+    "theme_svg_pattern": "svg/{theme}/volume.svg",
+    "png_pattern": "png/{theme}/{size}/volume.png"
+  },
+  {
+    "name": "volume_up",
+    "category": "media",
+    "base": "speaker",
+    "overlay": "up",
+    "tags": [],
+    "master_svg": "svg/master/volume_up.svg",
+    "theme_svg_pattern": "svg/{theme}/volume_up.svg",
+    "png_pattern": "png/{theme}/{size}/volume_up.png"
+  },
+  {
+    "name": "volume_down",
+    "category": "media",
+    "base": "speaker",
+    "overlay": "down",
+    "tags": [],
+    "master_svg": "svg/master/volume_down.svg",
+    "theme_svg_pattern": "svg/{theme}/volume_down.svg",
+    "png_pattern": "png/{theme}/{size}/volume_down.png"
+  },
+  {
+    "name": "volume_mute",
+    "category": "media",
+    "base": "speaker",
+    "overlay": "slash",
+    "tags": [],
+    "master_svg": "svg/master/volume_mute.svg",
+    "theme_svg_pattern": "svg/{theme}/volume_mute.svg",
+    "png_pattern": "png/{theme}/{size}/volume_mute.png"
+  },
+  {
+    "name": "microphone",
+    "category": "media",
+    "base": "microphone",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/microphone.svg",
+    "theme_svg_pattern": "svg/{theme}/microphone.svg",
+    "png_pattern": "png/{theme}/{size}/microphone.png"
+  },
+  {
+    "name": "microphone_mute",
+    "category": "media",
+    "base": "microphone",
+    "overlay": "slash",
+    "tags": [],
+    "master_svg": "svg/master/microphone_mute.svg",
+    "theme_svg_pattern": "svg/{theme}/microphone_mute.svg",
+    "png_pattern": "png/{theme}/{size}/microphone_mute.png"
+  },
+  {
+    "name": "camera",
+    "category": "media",
+    "base": "camera",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/camera.svg",
+    "theme_svg_pattern": "svg/{theme}/camera.svg",
+    "png_pattern": "png/{theme}/{size}/camera.png"
+  },
+  {
+    "name": "camera_add",
+    "category": "media",
+    "base": "camera",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/camera_add.svg",
+    "theme_svg_pattern": "svg/{theme}/camera_add.svg",
+    "png_pattern": "png/{theme}/{size}/camera_add.png"
+  },
+  {
+    "name": "camera_off",
+    "category": "media",
+    "base": "camera",
+    "overlay": "slash",
+    "tags": [],
+    "master_svg": "svg/master/camera_off.svg",
+    "theme_svg_pattern": "svg/{theme}/camera_off.svg",
+    "png_pattern": "png/{theme}/{size}/camera_off.png"
+  },
+  {
+    "name": "image",
+    "category": "media",
+    "base": "image",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/image.svg",
+    "theme_svg_pattern": "svg/{theme}/image.svg",
+    "png_pattern": "png/{theme}/{size}/image.png"
+  },
+  {
+    "name": "image_add",
+    "category": "media",
+    "base": "image",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/image_add.svg",
+    "theme_svg_pattern": "svg/{theme}/image_add.svg",
+    "png_pattern": "png/{theme}/{size}/image_add.png"
+  },
+  {
+    "name": "image_edit",
+    "category": "media",
+    "base": "image",
+    "overlay": "edit",
+    "tags": [],
+    "master_svg": "svg/master/image_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/image_edit.svg",
+    "png_pattern": "png/{theme}/{size}/image_edit.png"
+  },
+  {
+    "name": "image_remove",
+    "category": "media",
+    "base": "image",
+    "overlay": "remove",
+    "tags": [],
+    "master_svg": "svg/master/image_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/image_remove.svg",
+    "png_pattern": "png/{theme}/{size}/image_remove.png"
+  },
+  {
+    "name": "image_search",
+    "category": "media",
+    "base": "image",
+    "overlay": "search",
+    "tags": [],
+    "master_svg": "svg/master/image_search.svg",
+    "theme_svg_pattern": "svg/{theme}/image_search.svg",
+    "png_pattern": "png/{theme}/{size}/image_search.png"
+  },
+  {
+    "name": "video",
+    "category": "media",
+    "base": "video",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/video.svg",
+    "theme_svg_pattern": "svg/{theme}/video.svg",
+    "png_pattern": "png/{theme}/{size}/video.png"
+  },
+  {
+    "name": "video_add",
+    "category": "media",
+    "base": "video",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/video_add.svg",
+    "theme_svg_pattern": "svg/{theme}/video_add.svg",
+    "png_pattern": "png/{theme}/{size}/video_add.png"
+  },
+  {
+    "name": "video_off",
+    "category": "media",
+    "base": "video",
+    "overlay": "slash",
+    "tags": [],
+    "master_svg": "svg/master/video_off.svg",
+    "theme_svg_pattern": "svg/{theme}/video_off.svg",
+    "png_pattern": "png/{theme}/{size}/video_off.png"
+  },
+  {
+    "name": "audio",
+    "category": "media",
+    "base": "audio",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/audio.svg",
+    "theme_svg_pattern": "svg/{theme}/audio.svg",
+    "png_pattern": "png/{theme}/{size}/audio.png"
+  },
+  {
+    "name": "audio_add",
+    "category": "media",
+    "base": "audio",
+    "overlay": "add",
+    "tags": [],
+    "master_svg": "svg/master/audio_add.svg",
+    "theme_svg_pattern": "svg/{theme}/audio_add.svg",
+    "png_pattern": "png/{theme}/{size}/audio_add.png"
+  },
+  {
+    "name": "playlist",
+    "category": "media",
+    "base": "list",
+    "overlay": "play",
+    "tags": [],
+    "master_svg": "svg/master/playlist.svg",
+    "theme_svg_pattern": "svg/{theme}/playlist.svg",
+    "png_pattern": "png/{theme}/{size}/playlist.png"
+  },
+  {
+    "name": "subtitles",
+    "category": "media",
+    "base": "text",
+    "overlay": "info",
+    "tags": [],
+    "master_svg": "svg/master/subtitles.svg",
+    "theme_svg_pattern": "svg/{theme}/subtitles.svg",
+    "png_pattern": "png/{theme}/{size}/subtitles.png"
+  },
+  {
+    "name": "captions",
+    "category": "media",
+    "base": "text",
+    "overlay": "info",
+    "tags": [],
+    "master_svg": "svg/master/captions.svg",
+    "theme_svg_pattern": "svg/{theme}/captions.svg",
+    "png_pattern": "png/{theme}/{size}/captions.png"
+  },
+  {
+    "name": "slideshow",
+    "category": "media",
+    "base": "image",
+    "overlay": "play",
+    "tags": [],
+    "master_svg": "svg/master/slideshow.svg",
+    "theme_svg_pattern": "svg/{theme}/slideshow.svg",
+    "png_pattern": "png/{theme}/{size}/slideshow.png"
+  },
+  {
+    "name": "film",
+    "category": "media",
+    "base": "video",
+    "overlay": "play",
+    "tags": [],
+    "master_svg": "svg/master/film.svg",
+    "theme_svg_pattern": "svg/{theme}/film.svg",
+    "png_pattern": "png/{theme}/{size}/film.png"
+  },
+  {
+    "name": "snapshot",
+    "category": "media",
+    "base": "camera",
+    "overlay": "check",
+    "tags": [],
+    "master_svg": "svg/master/snapshot.svg",
+    "theme_svg_pattern": "svg/{theme}/snapshot.svg",
+    "png_pattern": "png/{theme}/{size}/snapshot.png"
+  },
+  {
+    "name": "gallery",
+    "category": "media",
+    "base": "image",
+    "overlay": "grid",
+    "tags": [],
+    "master_svg": "svg/master/gallery.svg",
+    "theme_svg_pattern": "svg/{theme}/gallery.svg",
+    "png_pattern": "png/{theme}/{size}/gallery.png"
+  },
+  {
+    "name": "crop_image",
+    "category": "media",
+    "base": "crop",
+    "overlay": null,
+    "tags": [],
+    "master_svg": "svg/master/crop_image.svg",
+    "theme_svg_pattern": "svg/{theme}/crop_image.svg",
+    "png_pattern": "png/{theme}/{size}/crop_image.png"
+  },
+  {
+    "name": "rotate_left",
+    "category": "media",
+    "base": "refresh",
+    "overlay": "left",
+    "tags": [],
+    "master_svg": "svg/master/rotate_left.svg",
+    "theme_svg_pattern": "svg/{theme}/rotate_left.svg",
+    "png_pattern": "png/{theme}/{size}/rotate_left.png"
+  },
+  {
+    "name": "rotate_right",
+    "category": "media",
+    "base": "refresh",
+    "overlay": "right",
+    "tags": [],
+    "master_svg": "svg/master/rotate_right.svg",
+    "theme_svg_pattern": "svg/{theme}/rotate_right.svg",
+    "png_pattern": "png/{theme}/{size}/rotate_right.png"
+  },
+  {
+    "name": "flip_horizontal",
+    "category": "media",
+    "base": "arrow_left",
+    "overlay": "right",
+    "tags": [],
+    "master_svg": "svg/master/flip_horizontal.svg",
+    "theme_svg_pattern": "svg/{theme}/flip_horizontal.svg",
+    "png_pattern": "png/{theme}/{size}/flip_horizontal.png"
+  },
+  {
+    "name": "flip_vertical",
+    "category": "media",
+    "base": "arrow_up",
+    "overlay": "down",
+    "tags": [],
+    "master_svg": "svg/master/flip_vertical.svg",
+    "theme_svg_pattern": "svg/{theme}/flip_vertical.svg",
+    "png_pattern": "png/{theme}/{size}/flip_vertical.png"
+  },
+  {
+    "name": "database",
+    "category": "data",
+    "base": "database",
+    "overlay": null,
+    "tags": [
+      "database",
+      ""
+    ],
+    "master_svg": "svg/master/database.svg",
+    "theme_svg_pattern": "svg/{theme}/database.svg",
+    "png_pattern": "png/{theme}/{size}/database.png"
+  },
+  {
+    "name": "database_add",
+    "category": "data",
+    "base": "database",
+    "overlay": "add",
+    "tags": [
+      "database",
+      "add"
+    ],
+    "master_svg": "svg/master/database_add.svg",
+    "theme_svg_pattern": "svg/{theme}/database_add.svg",
+    "png_pattern": "png/{theme}/{size}/database_add.png"
+  },
+  {
+    "name": "database_remove",
+    "category": "data",
+    "base": "database",
+    "overlay": "remove",
+    "tags": [
+      "database",
+      "remove"
+    ],
+    "master_svg": "svg/master/database_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/database_remove.svg",
+    "png_pattern": "png/{theme}/{size}/database_remove.png"
+  },
+  {
+    "name": "database_delete",
+    "category": "data",
+    "base": "database",
+    "overlay": "delete",
+    "tags": [
+      "database",
+      "delete"
+    ],
+    "master_svg": "svg/master/database_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/database_delete.svg",
+    "png_pattern": "png/{theme}/{size}/database_delete.png"
+  },
+  {
+    "name": "database_edit",
+    "category": "data",
+    "base": "database",
+    "overlay": "edit",
+    "tags": [
+      "database",
+      "edit"
+    ],
+    "master_svg": "svg/master/database_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/database_edit.svg",
+    "png_pattern": "png/{theme}/{size}/database_edit.png"
+  },
+  {
+    "name": "database_search",
+    "category": "data",
+    "base": "database",
+    "overlay": "search",
+    "tags": [
+      "database",
+      "search"
+    ],
+    "master_svg": "svg/master/database_search.svg",
+    "theme_svg_pattern": "svg/{theme}/database_search.svg",
+    "png_pattern": "png/{theme}/{size}/database_search.png"
+  },
+  {
+    "name": "database_check",
+    "category": "data",
+    "base": "database",
+    "overlay": "check",
+    "tags": [
+      "database",
+      "check"
+    ],
+    "master_svg": "svg/master/database_check.svg",
+    "theme_svg_pattern": "svg/{theme}/database_check.svg",
+    "png_pattern": "png/{theme}/{size}/database_check.png"
+  },
+  {
+    "name": "database_warning",
+    "category": "data",
+    "base": "database",
+    "overlay": "warning",
+    "tags": [
+      "database",
+      "warning"
+    ],
+    "master_svg": "svg/master/database_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/database_warning.svg",
+    "png_pattern": "png/{theme}/{size}/database_warning.png"
+  },
+  {
+    "name": "database_info",
+    "category": "data",
+    "base": "database",
+    "overlay": "info",
+    "tags": [
+      "database",
+      "info"
+    ],
+    "master_svg": "svg/master/database_info.svg",
+    "theme_svg_pattern": "svg/{theme}/database_info.svg",
+    "png_pattern": "png/{theme}/{size}/database_info.png"
+  },
+  {
+    "name": "database_lock",
+    "category": "data",
+    "base": "database",
+    "overlay": "lock",
+    "tags": [
+      "database",
+      "lock"
+    ],
+    "master_svg": "svg/master/database_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/database_lock.svg",
+    "png_pattern": "png/{theme}/{size}/database_lock.png"
+  },
+  {
+    "name": "database_unlock",
+    "category": "data",
+    "base": "database",
+    "overlay": "unlock",
+    "tags": [
+      "database",
+      "unlock"
+    ],
+    "master_svg": "svg/master/database_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/database_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/database_unlock.png"
+  },
+  {
+    "name": "database_upload",
+    "category": "data",
+    "base": "database",
+    "overlay": "upload",
+    "tags": [
+      "database",
+      "upload"
+    ],
+    "master_svg": "svg/master/database_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/database_upload.svg",
+    "png_pattern": "png/{theme}/{size}/database_upload.png"
+  },
+  {
+    "name": "database_download",
+    "category": "data",
+    "base": "database",
+    "overlay": "download",
+    "tags": [
+      "database",
+      "download"
+    ],
+    "master_svg": "svg/master/database_download.svg",
+    "theme_svg_pattern": "svg/{theme}/database_download.svg",
+    "png_pattern": "png/{theme}/{size}/database_download.png"
+  },
+  {
+    "name": "database_sync",
+    "category": "data",
+    "base": "database",
+    "overlay": "sync",
+    "tags": [
+      "database",
+      "sync"
+    ],
+    "master_svg": "svg/master/database_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/database_sync.svg",
+    "png_pattern": "png/{theme}/{size}/database_sync.png"
+  },
+  {
+    "name": "database_share",
+    "category": "data",
+    "base": "database",
+    "overlay": "share",
+    "tags": [
+      "database",
+      "share"
+    ],
+    "master_svg": "svg/master/database_share.svg",
+    "theme_svg_pattern": "svg/{theme}/database_share.svg",
+    "png_pattern": "png/{theme}/{size}/database_share.png"
+  },
+  {
+    "name": "database_settings",
+    "category": "data",
+    "base": "database",
+    "overlay": "gear",
+    "tags": [
+      "database",
+      "settings"
+    ],
+    "master_svg": "svg/master/database_settings.svg",
+    "theme_svg_pattern": "svg/{theme}/database_settings.svg",
+    "png_pattern": "png/{theme}/{size}/database_settings.png"
+  },
+  {
+    "name": "server",
+    "category": "data",
+    "base": "server",
+    "overlay": null,
+    "tags": [
+      "server",
+      ""
+    ],
+    "master_svg": "svg/master/server.svg",
+    "theme_svg_pattern": "svg/{theme}/server.svg",
+    "png_pattern": "png/{theme}/{size}/server.png"
+  },
+  {
+    "name": "server_add",
+    "category": "data",
+    "base": "server",
+    "overlay": "add",
+    "tags": [
+      "server",
+      "add"
+    ],
+    "master_svg": "svg/master/server_add.svg",
+    "theme_svg_pattern": "svg/{theme}/server_add.svg",
+    "png_pattern": "png/{theme}/{size}/server_add.png"
+  },
+  {
+    "name": "server_remove",
+    "category": "data",
+    "base": "server",
+    "overlay": "remove",
+    "tags": [
+      "server",
+      "remove"
+    ],
+    "master_svg": "svg/master/server_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/server_remove.svg",
+    "png_pattern": "png/{theme}/{size}/server_remove.png"
+  },
+  {
+    "name": "server_delete",
+    "category": "data",
+    "base": "server",
+    "overlay": "delete",
+    "tags": [
+      "server",
+      "delete"
+    ],
+    "master_svg": "svg/master/server_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/server_delete.svg",
+    "png_pattern": "png/{theme}/{size}/server_delete.png"
+  },
+  {
+    "name": "server_edit",
+    "category": "data",
+    "base": "server",
+    "overlay": "edit",
+    "tags": [
+      "server",
+      "edit"
+    ],
+    "master_svg": "svg/master/server_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/server_edit.svg",
+    "png_pattern": "png/{theme}/{size}/server_edit.png"
+  },
+  {
+    "name": "server_search",
+    "category": "data",
+    "base": "server",
+    "overlay": "search",
+    "tags": [
+      "server",
+      "search"
+    ],
+    "master_svg": "svg/master/server_search.svg",
+    "theme_svg_pattern": "svg/{theme}/server_search.svg",
+    "png_pattern": "png/{theme}/{size}/server_search.png"
+  },
+  {
+    "name": "server_check",
+    "category": "data",
+    "base": "server",
+    "overlay": "check",
+    "tags": [
+      "server",
+      "check"
+    ],
+    "master_svg": "svg/master/server_check.svg",
+    "theme_svg_pattern": "svg/{theme}/server_check.svg",
+    "png_pattern": "png/{theme}/{size}/server_check.png"
+  },
+  {
+    "name": "server_warning",
+    "category": "data",
+    "base": "server",
+    "overlay": "warning",
+    "tags": [
+      "server",
+      "warning"
+    ],
+    "master_svg": "svg/master/server_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/server_warning.svg",
+    "png_pattern": "png/{theme}/{size}/server_warning.png"
+  },
+  {
+    "name": "server_info",
+    "category": "data",
+    "base": "server",
+    "overlay": "info",
+    "tags": [
+      "server",
+      "info"
+    ],
+    "master_svg": "svg/master/server_info.svg",
+    "theme_svg_pattern": "svg/{theme}/server_info.svg",
+    "png_pattern": "png/{theme}/{size}/server_info.png"
+  },
+  {
+    "name": "server_lock",
+    "category": "data",
+    "base": "server",
+    "overlay": "lock",
+    "tags": [
+      "server",
+      "lock"
+    ],
+    "master_svg": "svg/master/server_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/server_lock.svg",
+    "png_pattern": "png/{theme}/{size}/server_lock.png"
+  },
+  {
+    "name": "server_unlock",
+    "category": "data",
+    "base": "server",
+    "overlay": "unlock",
+    "tags": [
+      "server",
+      "unlock"
+    ],
+    "master_svg": "svg/master/server_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/server_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/server_unlock.png"
+  },
+  {
+    "name": "server_upload",
+    "category": "data",
+    "base": "server",
+    "overlay": "upload",
+    "tags": [
+      "server",
+      "upload"
+    ],
+    "master_svg": "svg/master/server_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/server_upload.svg",
+    "png_pattern": "png/{theme}/{size}/server_upload.png"
+  },
+  {
+    "name": "server_download",
+    "category": "data",
+    "base": "server",
+    "overlay": "download",
+    "tags": [
+      "server",
+      "download"
+    ],
+    "master_svg": "svg/master/server_download.svg",
+    "theme_svg_pattern": "svg/{theme}/server_download.svg",
+    "png_pattern": "png/{theme}/{size}/server_download.png"
+  },
+  {
+    "name": "server_sync",
+    "category": "data",
+    "base": "server",
+    "overlay": "sync",
+    "tags": [
+      "server",
+      "sync"
+    ],
+    "master_svg": "svg/master/server_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/server_sync.svg",
+    "png_pattern": "png/{theme}/{size}/server_sync.png"
+  },
+  {
+    "name": "server_share",
+    "category": "data",
+    "base": "server",
+    "overlay": "share",
+    "tags": [
+      "server",
+      "share"
+    ],
+    "master_svg": "svg/master/server_share.svg",
+    "theme_svg_pattern": "svg/{theme}/server_share.svg",
+    "png_pattern": "png/{theme}/{size}/server_share.png"
+  },
+  {
+    "name": "server_settings",
+    "category": "data",
+    "base": "server",
+    "overlay": "gear",
+    "tags": [
+      "server",
+      "settings"
+    ],
+    "master_svg": "svg/master/server_settings.svg",
+    "theme_svg_pattern": "svg/{theme}/server_settings.svg",
+    "png_pattern": "png/{theme}/{size}/server_settings.png"
+  },
+  {
+    "name": "cloud",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": null,
+    "tags": [
+      "cloud",
+      ""
+    ],
+    "master_svg": "svg/master/cloud.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud.svg",
+    "png_pattern": "png/{theme}/{size}/cloud.png"
+  },
+  {
+    "name": "cloud_add",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "add",
+    "tags": [
+      "cloud",
+      "add"
+    ],
+    "master_svg": "svg/master/cloud_add.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_add.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_add.png"
+  },
+  {
+    "name": "cloud_remove",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "remove",
+    "tags": [
+      "cloud",
+      "remove"
+    ],
+    "master_svg": "svg/master/cloud_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_remove.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_remove.png"
+  },
+  {
+    "name": "cloud_delete",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "delete",
+    "tags": [
+      "cloud",
+      "delete"
+    ],
+    "master_svg": "svg/master/cloud_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_delete.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_delete.png"
+  },
+  {
+    "name": "cloud_edit",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "edit",
+    "tags": [
+      "cloud",
+      "edit"
+    ],
+    "master_svg": "svg/master/cloud_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_edit.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_edit.png"
+  },
+  {
+    "name": "cloud_search",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "search",
+    "tags": [
+      "cloud",
+      "search"
+    ],
+    "master_svg": "svg/master/cloud_search.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_search.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_search.png"
+  },
+  {
+    "name": "cloud_check",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "check",
+    "tags": [
+      "cloud",
+      "check"
+    ],
+    "master_svg": "svg/master/cloud_check.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_check.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_check.png"
+  },
+  {
+    "name": "cloud_warning",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "warning",
+    "tags": [
+      "cloud",
+      "warning"
+    ],
+    "master_svg": "svg/master/cloud_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_warning.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_warning.png"
+  },
+  {
+    "name": "cloud_info",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "info",
+    "tags": [
+      "cloud",
+      "info"
+    ],
+    "master_svg": "svg/master/cloud_info.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_info.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_info.png"
+  },
+  {
+    "name": "cloud_lock",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "lock",
+    "tags": [
+      "cloud",
+      "lock"
+    ],
+    "master_svg": "svg/master/cloud_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_lock.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_lock.png"
+  },
+  {
+    "name": "cloud_unlock",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "unlock",
+    "tags": [
+      "cloud",
+      "unlock"
+    ],
+    "master_svg": "svg/master/cloud_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_unlock.png"
+  },
+  {
+    "name": "cloud_upload",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "upload",
+    "tags": [
+      "cloud",
+      "upload"
+    ],
+    "master_svg": "svg/master/cloud_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_upload.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_upload.png"
+  },
+  {
+    "name": "cloud_download",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "download",
+    "tags": [
+      "cloud",
+      "download"
+    ],
+    "master_svg": "svg/master/cloud_download.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_download.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_download.png"
+  },
+  {
+    "name": "cloud_sync",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "sync",
+    "tags": [
+      "cloud",
+      "sync"
+    ],
+    "master_svg": "svg/master/cloud_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_sync.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_sync.png"
+  },
+  {
+    "name": "cloud_share",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "share",
+    "tags": [
+      "cloud",
+      "share"
+    ],
+    "master_svg": "svg/master/cloud_share.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_share.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_share.png"
+  },
+  {
+    "name": "cloud_settings",
+    "category": "cloud",
+    "base": "cloud",
+    "overlay": "gear",
+    "tags": [
+      "cloud",
+      "settings"
+    ],
+    "master_svg": "svg/master/cloud_settings.svg",
+    "theme_svg_pattern": "svg/{theme}/cloud_settings.svg",
+    "png_pattern": "png/{theme}/{size}/cloud_settings.png"
+  },
+  {
+    "name": "network",
+    "category": "network",
+    "base": "network",
+    "overlay": null,
+    "tags": [
+      "network",
+      ""
+    ],
+    "master_svg": "svg/master/network.svg",
+    "theme_svg_pattern": "svg/{theme}/network.svg",
+    "png_pattern": "png/{theme}/{size}/network.png"
+  },
+  {
+    "name": "network_add",
+    "category": "network",
+    "base": "network",
+    "overlay": "add",
+    "tags": [
+      "network",
+      "add"
+    ],
+    "master_svg": "svg/master/network_add.svg",
+    "theme_svg_pattern": "svg/{theme}/network_add.svg",
+    "png_pattern": "png/{theme}/{size}/network_add.png"
+  },
+  {
+    "name": "network_remove",
+    "category": "network",
+    "base": "network",
+    "overlay": "remove",
+    "tags": [
+      "network",
+      "remove"
+    ],
+    "master_svg": "svg/master/network_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/network_remove.svg",
+    "png_pattern": "png/{theme}/{size}/network_remove.png"
+  },
+  {
+    "name": "network_delete",
+    "category": "network",
+    "base": "network",
+    "overlay": "delete",
+    "tags": [
+      "network",
+      "delete"
+    ],
+    "master_svg": "svg/master/network_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/network_delete.svg",
+    "png_pattern": "png/{theme}/{size}/network_delete.png"
+  },
+  {
+    "name": "network_edit",
+    "category": "network",
+    "base": "network",
+    "overlay": "edit",
+    "tags": [
+      "network",
+      "edit"
+    ],
+    "master_svg": "svg/master/network_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/network_edit.svg",
+    "png_pattern": "png/{theme}/{size}/network_edit.png"
+  },
+  {
+    "name": "network_search",
+    "category": "network",
+    "base": "network",
+    "overlay": "search",
+    "tags": [
+      "network",
+      "search"
+    ],
+    "master_svg": "svg/master/network_search.svg",
+    "theme_svg_pattern": "svg/{theme}/network_search.svg",
+    "png_pattern": "png/{theme}/{size}/network_search.png"
+  },
+  {
+    "name": "network_check",
+    "category": "network",
+    "base": "network",
+    "overlay": "check",
+    "tags": [
+      "network",
+      "check"
+    ],
+    "master_svg": "svg/master/network_check.svg",
+    "theme_svg_pattern": "svg/{theme}/network_check.svg",
+    "png_pattern": "png/{theme}/{size}/network_check.png"
+  },
+  {
+    "name": "network_warning",
+    "category": "network",
+    "base": "network",
+    "overlay": "warning",
+    "tags": [
+      "network",
+      "warning"
+    ],
+    "master_svg": "svg/master/network_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/network_warning.svg",
+    "png_pattern": "png/{theme}/{size}/network_warning.png"
+  },
+  {
+    "name": "network_info",
+    "category": "network",
+    "base": "network",
+    "overlay": "info",
+    "tags": [
+      "network",
+      "info"
+    ],
+    "master_svg": "svg/master/network_info.svg",
+    "theme_svg_pattern": "svg/{theme}/network_info.svg",
+    "png_pattern": "png/{theme}/{size}/network_info.png"
+  },
+  {
+    "name": "network_lock",
+    "category": "network",
+    "base": "network",
+    "overlay": "lock",
+    "tags": [
+      "network",
+      "lock"
+    ],
+    "master_svg": "svg/master/network_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/network_lock.svg",
+    "png_pattern": "png/{theme}/{size}/network_lock.png"
+  },
+  {
+    "name": "network_unlock",
+    "category": "network",
+    "base": "network",
+    "overlay": "unlock",
+    "tags": [
+      "network",
+      "unlock"
+    ],
+    "master_svg": "svg/master/network_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/network_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/network_unlock.png"
+  },
+  {
+    "name": "network_upload",
+    "category": "network",
+    "base": "network",
+    "overlay": "upload",
+    "tags": [
+      "network",
+      "upload"
+    ],
+    "master_svg": "svg/master/network_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/network_upload.svg",
+    "png_pattern": "png/{theme}/{size}/network_upload.png"
+  },
+  {
+    "name": "network_download",
+    "category": "network",
+    "base": "network",
+    "overlay": "download",
+    "tags": [
+      "network",
+      "download"
+    ],
+    "master_svg": "svg/master/network_download.svg",
+    "theme_svg_pattern": "svg/{theme}/network_download.svg",
+    "png_pattern": "png/{theme}/{size}/network_download.png"
+  },
+  {
+    "name": "network_sync",
+    "category": "network",
+    "base": "network",
+    "overlay": "sync",
+    "tags": [
+      "network",
+      "sync"
+    ],
+    "master_svg": "svg/master/network_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/network_sync.svg",
+    "png_pattern": "png/{theme}/{size}/network_sync.png"
+  },
+  {
+    "name": "network_share",
+    "category": "network",
+    "base": "network",
+    "overlay": "share",
+    "tags": [
+      "network",
+      "share"
+    ],
+    "master_svg": "svg/master/network_share.svg",
+    "theme_svg_pattern": "svg/{theme}/network_share.svg",
+    "png_pattern": "png/{theme}/{size}/network_share.png"
+  },
+  {
+    "name": "network_settings",
+    "category": "network",
+    "base": "network",
+    "overlay": "gear",
+    "tags": [
+      "network",
+      "settings"
+    ],
+    "master_svg": "svg/master/network_settings.svg",
+    "theme_svg_pattern": "svg/{theme}/network_settings.svg",
+    "png_pattern": "png/{theme}/{size}/network_settings.png"
+  },
+  {
+    "name": "user",
+    "category": "user",
+    "base": "user",
+    "overlay": null,
+    "tags": [
+      "user",
+      ""
+    ],
+    "master_svg": "svg/master/user.svg",
+    "theme_svg_pattern": "svg/{theme}/user.svg",
+    "png_pattern": "png/{theme}/{size}/user.png"
+  },
+  {
+    "name": "user_add",
+    "category": "user",
+    "base": "user",
+    "overlay": "add",
+    "tags": [
+      "user",
+      "add"
+    ],
+    "master_svg": "svg/master/user_add.svg",
+    "theme_svg_pattern": "svg/{theme}/user_add.svg",
+    "png_pattern": "png/{theme}/{size}/user_add.png"
+  },
+  {
+    "name": "user_remove",
+    "category": "user",
+    "base": "user",
+    "overlay": "remove",
+    "tags": [
+      "user",
+      "remove"
+    ],
+    "master_svg": "svg/master/user_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/user_remove.svg",
+    "png_pattern": "png/{theme}/{size}/user_remove.png"
+  },
+  {
+    "name": "user_delete",
+    "category": "user",
+    "base": "user",
+    "overlay": "delete",
+    "tags": [
+      "user",
+      "delete"
+    ],
+    "master_svg": "svg/master/user_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/user_delete.svg",
+    "png_pattern": "png/{theme}/{size}/user_delete.png"
+  },
+  {
+    "name": "user_edit",
+    "category": "user",
+    "base": "user",
+    "overlay": "edit",
+    "tags": [
+      "user",
+      "edit"
+    ],
+    "master_svg": "svg/master/user_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/user_edit.svg",
+    "png_pattern": "png/{theme}/{size}/user_edit.png"
+  },
+  {
+    "name": "user_search",
+    "category": "user",
+    "base": "user",
+    "overlay": "search",
+    "tags": [
+      "user",
+      "search"
+    ],
+    "master_svg": "svg/master/user_search.svg",
+    "theme_svg_pattern": "svg/{theme}/user_search.svg",
+    "png_pattern": "png/{theme}/{size}/user_search.png"
+  },
+  {
+    "name": "user_check",
+    "category": "user",
+    "base": "user",
+    "overlay": "check",
+    "tags": [
+      "user",
+      "check"
+    ],
+    "master_svg": "svg/master/user_check.svg",
+    "theme_svg_pattern": "svg/{theme}/user_check.svg",
+    "png_pattern": "png/{theme}/{size}/user_check.png"
+  },
+  {
+    "name": "user_warning",
+    "category": "user",
+    "base": "user",
+    "overlay": "warning",
+    "tags": [
+      "user",
+      "warning"
+    ],
+    "master_svg": "svg/master/user_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/user_warning.svg",
+    "png_pattern": "png/{theme}/{size}/user_warning.png"
+  },
+  {
+    "name": "user_info",
+    "category": "user",
+    "base": "user",
+    "overlay": "info",
+    "tags": [
+      "user",
+      "info"
+    ],
+    "master_svg": "svg/master/user_info.svg",
+    "theme_svg_pattern": "svg/{theme}/user_info.svg",
+    "png_pattern": "png/{theme}/{size}/user_info.png"
+  },
+  {
+    "name": "user_lock",
+    "category": "user",
+    "base": "user",
+    "overlay": "lock",
+    "tags": [
+      "user",
+      "lock"
+    ],
+    "master_svg": "svg/master/user_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/user_lock.svg",
+    "png_pattern": "png/{theme}/{size}/user_lock.png"
+  },
+  {
+    "name": "user_unlock",
+    "category": "user",
+    "base": "user",
+    "overlay": "unlock",
+    "tags": [
+      "user",
+      "unlock"
+    ],
+    "master_svg": "svg/master/user_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/user_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/user_unlock.png"
+  },
+  {
+    "name": "user_upload",
+    "category": "user",
+    "base": "user",
+    "overlay": "upload",
+    "tags": [
+      "user",
+      "upload"
+    ],
+    "master_svg": "svg/master/user_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/user_upload.svg",
+    "png_pattern": "png/{theme}/{size}/user_upload.png"
+  },
+  {
+    "name": "user_download",
+    "category": "user",
+    "base": "user",
+    "overlay": "download",
+    "tags": [
+      "user",
+      "download"
+    ],
+    "master_svg": "svg/master/user_download.svg",
+    "theme_svg_pattern": "svg/{theme}/user_download.svg",
+    "png_pattern": "png/{theme}/{size}/user_download.png"
+  },
+  {
+    "name": "user_sync",
+    "category": "user",
+    "base": "user",
+    "overlay": "sync",
+    "tags": [
+      "user",
+      "sync"
+    ],
+    "master_svg": "svg/master/user_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/user_sync.svg",
+    "png_pattern": "png/{theme}/{size}/user_sync.png"
+  },
+  {
+    "name": "user_share",
+    "category": "user",
+    "base": "user",
+    "overlay": "share",
+    "tags": [
+      "user",
+      "share"
+    ],
+    "master_svg": "svg/master/user_share.svg",
+    "theme_svg_pattern": "svg/{theme}/user_share.svg",
+    "png_pattern": "png/{theme}/{size}/user_share.png"
+  },
+  {
+    "name": "user_settings",
+    "category": "user",
+    "base": "user",
+    "overlay": "gear",
+    "tags": [
+      "user",
+      "settings"
+    ],
+    "master_svg": "svg/master/user_settings.svg",
+    "theme_svg_pattern": "svg/{theme}/user_settings.svg",
+    "png_pattern": "png/{theme}/{size}/user_settings.png"
+  },
+  {
+    "name": "group",
+    "category": "user",
+    "base": "group",
+    "overlay": null,
+    "tags": [
+      "group",
+      ""
+    ],
+    "master_svg": "svg/master/group.svg",
+    "theme_svg_pattern": "svg/{theme}/group.svg",
+    "png_pattern": "png/{theme}/{size}/group.png"
+  },
+  {
+    "name": "group_add",
+    "category": "user",
+    "base": "group",
+    "overlay": "add",
+    "tags": [
+      "group",
+      "add"
+    ],
+    "master_svg": "svg/master/group_add.svg",
+    "theme_svg_pattern": "svg/{theme}/group_add.svg",
+    "png_pattern": "png/{theme}/{size}/group_add.png"
+  },
+  {
+    "name": "group_remove",
+    "category": "user",
+    "base": "group",
+    "overlay": "remove",
+    "tags": [
+      "group",
+      "remove"
+    ],
+    "master_svg": "svg/master/group_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/group_remove.svg",
+    "png_pattern": "png/{theme}/{size}/group_remove.png"
+  },
+  {
+    "name": "group_delete",
+    "category": "user",
+    "base": "group",
+    "overlay": "delete",
+    "tags": [
+      "group",
+      "delete"
+    ],
+    "master_svg": "svg/master/group_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/group_delete.svg",
+    "png_pattern": "png/{theme}/{size}/group_delete.png"
+  },
+  {
+    "name": "group_edit",
+    "category": "user",
+    "base": "group",
+    "overlay": "edit",
+    "tags": [
+      "group",
+      "edit"
+    ],
+    "master_svg": "svg/master/group_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/group_edit.svg",
+    "png_pattern": "png/{theme}/{size}/group_edit.png"
+  },
+  {
+    "name": "group_search",
+    "category": "user",
+    "base": "group",
+    "overlay": "search",
+    "tags": [
+      "group",
+      "search"
+    ],
+    "master_svg": "svg/master/group_search.svg",
+    "theme_svg_pattern": "svg/{theme}/group_search.svg",
+    "png_pattern": "png/{theme}/{size}/group_search.png"
+  },
+  {
+    "name": "group_check",
+    "category": "user",
+    "base": "group",
+    "overlay": "check",
+    "tags": [
+      "group",
+      "check"
+    ],
+    "master_svg": "svg/master/group_check.svg",
+    "theme_svg_pattern": "svg/{theme}/group_check.svg",
+    "png_pattern": "png/{theme}/{size}/group_check.png"
+  },
+  {
+    "name": "group_warning",
+    "category": "user",
+    "base": "group",
+    "overlay": "warning",
+    "tags": [
+      "group",
+      "warning"
+    ],
+    "master_svg": "svg/master/group_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/group_warning.svg",
+    "png_pattern": "png/{theme}/{size}/group_warning.png"
+  },
+  {
+    "name": "group_info",
+    "category": "user",
+    "base": "group",
+    "overlay": "info",
+    "tags": [
+      "group",
+      "info"
+    ],
+    "master_svg": "svg/master/group_info.svg",
+    "theme_svg_pattern": "svg/{theme}/group_info.svg",
+    "png_pattern": "png/{theme}/{size}/group_info.png"
+  },
+  {
+    "name": "group_lock",
+    "category": "user",
+    "base": "group",
+    "overlay": "lock",
+    "tags": [
+      "group",
+      "lock"
+    ],
+    "master_svg": "svg/master/group_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/group_lock.svg",
+    "png_pattern": "png/{theme}/{size}/group_lock.png"
+  },
+  {
+    "name": "group_unlock",
+    "category": "user",
+    "base": "group",
+    "overlay": "unlock",
+    "tags": [
+      "group",
+      "unlock"
+    ],
+    "master_svg": "svg/master/group_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/group_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/group_unlock.png"
+  },
+  {
+    "name": "group_upload",
+    "category": "user",
+    "base": "group",
+    "overlay": "upload",
+    "tags": [
+      "group",
+      "upload"
+    ],
+    "master_svg": "svg/master/group_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/group_upload.svg",
+    "png_pattern": "png/{theme}/{size}/group_upload.png"
+  },
+  {
+    "name": "group_download",
+    "category": "user",
+    "base": "group",
+    "overlay": "download",
+    "tags": [
+      "group",
+      "download"
+    ],
+    "master_svg": "svg/master/group_download.svg",
+    "theme_svg_pattern": "svg/{theme}/group_download.svg",
+    "png_pattern": "png/{theme}/{size}/group_download.png"
+  },
+  {
+    "name": "group_sync",
+    "category": "user",
+    "base": "group",
+    "overlay": "sync",
+    "tags": [
+      "group",
+      "sync"
+    ],
+    "master_svg": "svg/master/group_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/group_sync.svg",
+    "png_pattern": "png/{theme}/{size}/group_sync.png"
+  },
+  {
+    "name": "group_share",
+    "category": "user",
+    "base": "group",
+    "overlay": "share",
+    "tags": [
+      "group",
+      "share"
+    ],
+    "master_svg": "svg/master/group_share.svg",
+    "theme_svg_pattern": "svg/{theme}/group_share.svg",
+    "png_pattern": "png/{theme}/{size}/group_share.png"
+  },
+  {
+    "name": "group_settings",
+    "category": "user",
+    "base": "group",
+    "overlay": "gear",
+    "tags": [
+      "group",
+      "settings"
+    ],
+    "master_svg": "svg/master/group_settings.svg",
+    "theme_svg_pattern": "svg/{theme}/group_settings.svg",
+    "png_pattern": "png/{theme}/{size}/group_settings.png"
+  },
+  {
+    "name": "shield",
+    "category": "security",
+    "base": "shield",
+    "overlay": null,
+    "tags": [
+      "shield",
+      ""
+    ],
+    "master_svg": "svg/master/shield.svg",
+    "theme_svg_pattern": "svg/{theme}/shield.svg",
+    "png_pattern": "png/{theme}/{size}/shield.png"
+  },
+  {
+    "name": "shield_add",
+    "category": "security",
+    "base": "shield",
+    "overlay": "add",
+    "tags": [
+      "shield",
+      "add"
+    ],
+    "master_svg": "svg/master/shield_add.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_add.svg",
+    "png_pattern": "png/{theme}/{size}/shield_add.png"
+  },
+  {
+    "name": "shield_remove",
+    "category": "security",
+    "base": "shield",
+    "overlay": "remove",
+    "tags": [
+      "shield",
+      "remove"
+    ],
+    "master_svg": "svg/master/shield_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_remove.svg",
+    "png_pattern": "png/{theme}/{size}/shield_remove.png"
+  },
+  {
+    "name": "shield_delete",
+    "category": "security",
+    "base": "shield",
+    "overlay": "delete",
+    "tags": [
+      "shield",
+      "delete"
+    ],
+    "master_svg": "svg/master/shield_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_delete.svg",
+    "png_pattern": "png/{theme}/{size}/shield_delete.png"
+  },
+  {
+    "name": "shield_edit",
+    "category": "security",
+    "base": "shield",
+    "overlay": "edit",
+    "tags": [
+      "shield",
+      "edit"
+    ],
+    "master_svg": "svg/master/shield_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_edit.svg",
+    "png_pattern": "png/{theme}/{size}/shield_edit.png"
+  },
+  {
+    "name": "shield_search",
+    "category": "security",
+    "base": "shield",
+    "overlay": "search",
+    "tags": [
+      "shield",
+      "search"
+    ],
+    "master_svg": "svg/master/shield_search.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_search.svg",
+    "png_pattern": "png/{theme}/{size}/shield_search.png"
+  },
+  {
+    "name": "shield_check",
+    "category": "security",
+    "base": "shield",
+    "overlay": "check",
+    "tags": [
+      "shield",
+      "check"
+    ],
+    "master_svg": "svg/master/shield_check.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_check.svg",
+    "png_pattern": "png/{theme}/{size}/shield_check.png"
+  },
+  {
+    "name": "shield_warning",
+    "category": "security",
+    "base": "shield",
+    "overlay": "warning",
+    "tags": [
+      "shield",
+      "warning"
+    ],
+    "master_svg": "svg/master/shield_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_warning.svg",
+    "png_pattern": "png/{theme}/{size}/shield_warning.png"
+  },
+  {
+    "name": "shield_info",
+    "category": "security",
+    "base": "shield",
+    "overlay": "info",
+    "tags": [
+      "shield",
+      "info"
+    ],
+    "master_svg": "svg/master/shield_info.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_info.svg",
+    "png_pattern": "png/{theme}/{size}/shield_info.png"
+  },
+  {
+    "name": "shield_lock",
+    "category": "security",
+    "base": "shield",
+    "overlay": "lock",
+    "tags": [
+      "shield",
+      "lock"
+    ],
+    "master_svg": "svg/master/shield_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_lock.svg",
+    "png_pattern": "png/{theme}/{size}/shield_lock.png"
+  },
+  {
+    "name": "shield_unlock",
+    "category": "security",
+    "base": "shield",
+    "overlay": "unlock",
+    "tags": [
+      "shield",
+      "unlock"
+    ],
+    "master_svg": "svg/master/shield_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/shield_unlock.png"
+  },
+  {
+    "name": "shield_upload",
+    "category": "security",
+    "base": "shield",
+    "overlay": "upload",
+    "tags": [
+      "shield",
+      "upload"
+    ],
+    "master_svg": "svg/master/shield_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_upload.svg",
+    "png_pattern": "png/{theme}/{size}/shield_upload.png"
+  },
+  {
+    "name": "shield_download",
+    "category": "security",
+    "base": "shield",
+    "overlay": "download",
+    "tags": [
+      "shield",
+      "download"
+    ],
+    "master_svg": "svg/master/shield_download.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_download.svg",
+    "png_pattern": "png/{theme}/{size}/shield_download.png"
+  },
+  {
+    "name": "shield_sync",
+    "category": "security",
+    "base": "shield",
+    "overlay": "sync",
+    "tags": [
+      "shield",
+      "sync"
+    ],
+    "master_svg": "svg/master/shield_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_sync.svg",
+    "png_pattern": "png/{theme}/{size}/shield_sync.png"
+  },
+  {
+    "name": "shield_share",
+    "category": "security",
+    "base": "shield",
+    "overlay": "share",
+    "tags": [
+      "shield",
+      "share"
+    ],
+    "master_svg": "svg/master/shield_share.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_share.svg",
+    "png_pattern": "png/{theme}/{size}/shield_share.png"
+  },
+  {
+    "name": "shield_settings",
+    "category": "security",
+    "base": "shield",
+    "overlay": "gear",
+    "tags": [
+      "shield",
+      "settings"
+    ],
+    "master_svg": "svg/master/shield_settings.svg",
+    "theme_svg_pattern": "svg/{theme}/shield_settings.svg",
+    "png_pattern": "png/{theme}/{size}/shield_settings.png"
+  },
+  {
+    "name": "key",
+    "category": "security",
+    "base": "key",
+    "overlay": null,
+    "tags": [
+      "key",
+      ""
+    ],
+    "master_svg": "svg/master/key.svg",
+    "theme_svg_pattern": "svg/{theme}/key.svg",
+    "png_pattern": "png/{theme}/{size}/key.png"
+  },
+  {
+    "name": "key_add",
+    "category": "security",
+    "base": "key",
+    "overlay": "add",
+    "tags": [
+      "key",
+      "add"
+    ],
+    "master_svg": "svg/master/key_add.svg",
+    "theme_svg_pattern": "svg/{theme}/key_add.svg",
+    "png_pattern": "png/{theme}/{size}/key_add.png"
+  },
+  {
+    "name": "key_remove",
+    "category": "security",
+    "base": "key",
+    "overlay": "remove",
+    "tags": [
+      "key",
+      "remove"
+    ],
+    "master_svg": "svg/master/key_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/key_remove.svg",
+    "png_pattern": "png/{theme}/{size}/key_remove.png"
+  },
+  {
+    "name": "key_delete",
+    "category": "security",
+    "base": "key",
+    "overlay": "delete",
+    "tags": [
+      "key",
+      "delete"
+    ],
+    "master_svg": "svg/master/key_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/key_delete.svg",
+    "png_pattern": "png/{theme}/{size}/key_delete.png"
+  },
+  {
+    "name": "key_edit",
+    "category": "security",
+    "base": "key",
+    "overlay": "edit",
+    "tags": [
+      "key",
+      "edit"
+    ],
+    "master_svg": "svg/master/key_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/key_edit.svg",
+    "png_pattern": "png/{theme}/{size}/key_edit.png"
+  },
+  {
+    "name": "key_search",
+    "category": "security",
+    "base": "key",
+    "overlay": "search",
+    "tags": [
+      "key",
+      "search"
+    ],
+    "master_svg": "svg/master/key_search.svg",
+    "theme_svg_pattern": "svg/{theme}/key_search.svg",
+    "png_pattern": "png/{theme}/{size}/key_search.png"
+  },
+  {
+    "name": "key_check",
+    "category": "security",
+    "base": "key",
+    "overlay": "check",
+    "tags": [
+      "key",
+      "check"
+    ],
+    "master_svg": "svg/master/key_check.svg",
+    "theme_svg_pattern": "svg/{theme}/key_check.svg",
+    "png_pattern": "png/{theme}/{size}/key_check.png"
+  },
+  {
+    "name": "key_warning",
+    "category": "security",
+    "base": "key",
+    "overlay": "warning",
+    "tags": [
+      "key",
+      "warning"
+    ],
+    "master_svg": "svg/master/key_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/key_warning.svg",
+    "png_pattern": "png/{theme}/{size}/key_warning.png"
+  },
+  {
+    "name": "key_info",
+    "category": "security",
+    "base": "key",
+    "overlay": "info",
+    "tags": [
+      "key",
+      "info"
+    ],
+    "master_svg": "svg/master/key_info.svg",
+    "theme_svg_pattern": "svg/{theme}/key_info.svg",
+    "png_pattern": "png/{theme}/{size}/key_info.png"
+  },
+  {
+    "name": "key_lock",
+    "category": "security",
+    "base": "key",
+    "overlay": "lock",
+    "tags": [
+      "key",
+      "lock"
+    ],
+    "master_svg": "svg/master/key_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/key_lock.svg",
+    "png_pattern": "png/{theme}/{size}/key_lock.png"
+  },
+  {
+    "name": "key_unlock",
+    "category": "security",
+    "base": "key",
+    "overlay": "unlock",
+    "tags": [
+      "key",
+      "unlock"
+    ],
+    "master_svg": "svg/master/key_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/key_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/key_unlock.png"
+  },
+  {
+    "name": "key_upload",
+    "category": "security",
+    "base": "key",
+    "overlay": "upload",
+    "tags": [
+      "key",
+      "upload"
+    ],
+    "master_svg": "svg/master/key_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/key_upload.svg",
+    "png_pattern": "png/{theme}/{size}/key_upload.png"
+  },
+  {
+    "name": "key_download",
+    "category": "security",
+    "base": "key",
+    "overlay": "download",
+    "tags": [
+      "key",
+      "download"
+    ],
+    "master_svg": "svg/master/key_download.svg",
+    "theme_svg_pattern": "svg/{theme}/key_download.svg",
+    "png_pattern": "png/{theme}/{size}/key_download.png"
+  },
+  {
+    "name": "key_sync",
+    "category": "security",
+    "base": "key",
+    "overlay": "sync",
+    "tags": [
+      "key",
+      "sync"
+    ],
+    "master_svg": "svg/master/key_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/key_sync.svg",
+    "png_pattern": "png/{theme}/{size}/key_sync.png"
+  },
+  {
+    "name": "key_share",
+    "category": "security",
+    "base": "key",
+    "overlay": "share",
+    "tags": [
+      "key",
+      "share"
+    ],
+    "master_svg": "svg/master/key_share.svg",
+    "theme_svg_pattern": "svg/{theme}/key_share.svg",
+    "png_pattern": "png/{theme}/{size}/key_share.png"
+  },
+  {
+    "name": "key_settings",
+    "category": "security",
+    "base": "key",
+    "overlay": "gear",
+    "tags": [
+      "key",
+      "settings"
+    ],
+    "master_svg": "svg/master/key_settings.svg",
+    "theme_svg_pattern": "svg/{theme}/key_settings.svg",
+    "png_pattern": "png/{theme}/{size}/key_settings.png"
+  },
+  {
+    "name": "lock",
+    "category": "security",
+    "base": "lock",
+    "overlay": null,
+    "tags": [
+      "lock",
+      ""
+    ],
+    "master_svg": "svg/master/lock.svg",
+    "theme_svg_pattern": "svg/{theme}/lock.svg",
+    "png_pattern": "png/{theme}/{size}/lock.png"
+  },
+  {
+    "name": "lock_add",
+    "category": "security",
+    "base": "lock",
+    "overlay": "add",
+    "tags": [
+      "lock",
+      "add"
+    ],
+    "master_svg": "svg/master/lock_add.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_add.svg",
+    "png_pattern": "png/{theme}/{size}/lock_add.png"
+  },
+  {
+    "name": "lock_remove",
+    "category": "security",
+    "base": "lock",
+    "overlay": "remove",
+    "tags": [
+      "lock",
+      "remove"
+    ],
+    "master_svg": "svg/master/lock_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_remove.svg",
+    "png_pattern": "png/{theme}/{size}/lock_remove.png"
+  },
+  {
+    "name": "lock_delete",
+    "category": "security",
+    "base": "lock",
+    "overlay": "delete",
+    "tags": [
+      "lock",
+      "delete"
+    ],
+    "master_svg": "svg/master/lock_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_delete.svg",
+    "png_pattern": "png/{theme}/{size}/lock_delete.png"
+  },
+  {
+    "name": "lock_edit",
+    "category": "security",
+    "base": "lock",
+    "overlay": "edit",
+    "tags": [
+      "lock",
+      "edit"
+    ],
+    "master_svg": "svg/master/lock_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_edit.svg",
+    "png_pattern": "png/{theme}/{size}/lock_edit.png"
+  },
+  {
+    "name": "lock_search",
+    "category": "security",
+    "base": "lock",
+    "overlay": "search",
+    "tags": [
+      "lock",
+      "search"
+    ],
+    "master_svg": "svg/master/lock_search.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_search.svg",
+    "png_pattern": "png/{theme}/{size}/lock_search.png"
+  },
+  {
+    "name": "lock_check",
+    "category": "security",
+    "base": "lock",
+    "overlay": "check",
+    "tags": [
+      "lock",
+      "check"
+    ],
+    "master_svg": "svg/master/lock_check.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_check.svg",
+    "png_pattern": "png/{theme}/{size}/lock_check.png"
+  },
+  {
+    "name": "lock_warning",
+    "category": "security",
+    "base": "lock",
+    "overlay": "warning",
+    "tags": [
+      "lock",
+      "warning"
+    ],
+    "master_svg": "svg/master/lock_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_warning.svg",
+    "png_pattern": "png/{theme}/{size}/lock_warning.png"
+  },
+  {
+    "name": "lock_info",
+    "category": "security",
+    "base": "lock",
+    "overlay": "info",
+    "tags": [
+      "lock",
+      "info"
+    ],
+    "master_svg": "svg/master/lock_info.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_info.svg",
+    "png_pattern": "png/{theme}/{size}/lock_info.png"
+  },
+  {
+    "name": "lock_lock",
+    "category": "security",
+    "base": "lock",
+    "overlay": "lock",
+    "tags": [
+      "lock",
+      "lock"
+    ],
+    "master_svg": "svg/master/lock_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_lock.svg",
+    "png_pattern": "png/{theme}/{size}/lock_lock.png"
+  },
+  {
+    "name": "lock_unlock",
+    "category": "security",
+    "base": "lock",
+    "overlay": "unlock",
+    "tags": [
+      "lock",
+      "unlock"
+    ],
+    "master_svg": "svg/master/lock_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/lock_unlock.png"
+  },
+  {
+    "name": "lock_upload",
+    "category": "security",
+    "base": "lock",
+    "overlay": "upload",
+    "tags": [
+      "lock",
+      "upload"
+    ],
+    "master_svg": "svg/master/lock_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_upload.svg",
+    "png_pattern": "png/{theme}/{size}/lock_upload.png"
+  },
+  {
+    "name": "lock_download",
+    "category": "security",
+    "base": "lock",
+    "overlay": "download",
+    "tags": [
+      "lock",
+      "download"
+    ],
+    "master_svg": "svg/master/lock_download.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_download.svg",
+    "png_pattern": "png/{theme}/{size}/lock_download.png"
+  },
+  {
+    "name": "lock_sync",
+    "category": "security",
+    "base": "lock",
+    "overlay": "sync",
+    "tags": [
+      "lock",
+      "sync"
+    ],
+    "master_svg": "svg/master/lock_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_sync.svg",
+    "png_pattern": "png/{theme}/{size}/lock_sync.png"
+  },
+  {
+    "name": "lock_share",
+    "category": "security",
+    "base": "lock",
+    "overlay": "share",
+    "tags": [
+      "lock",
+      "share"
+    ],
+    "master_svg": "svg/master/lock_share.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_share.svg",
+    "png_pattern": "png/{theme}/{size}/lock_share.png"
+  },
+  {
+    "name": "lock_settings",
+    "category": "security",
+    "base": "lock",
+    "overlay": "gear",
+    "tags": [
+      "lock",
+      "settings"
+    ],
+    "master_svg": "svg/master/lock_settings.svg",
+    "theme_svg_pattern": "svg/{theme}/lock_settings.svg",
+    "png_pattern": "png/{theme}/{size}/lock_settings.png"
+  },
+  {
+    "name": "calendar",
+    "category": "time",
+    "base": "calendar",
+    "overlay": null,
+    "tags": [
+      "calendar",
+      ""
+    ],
+    "master_svg": "svg/master/calendar.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar.svg",
+    "png_pattern": "png/{theme}/{size}/calendar.png"
+  },
+  {
+    "name": "calendar_add",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "add",
+    "tags": [
+      "calendar",
+      "add"
+    ],
+    "master_svg": "svg/master/calendar_add.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_add.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_add.png"
+  },
+  {
+    "name": "calendar_remove",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "remove",
+    "tags": [
+      "calendar",
+      "remove"
+    ],
+    "master_svg": "svg/master/calendar_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_remove.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_remove.png"
+  },
+  {
+    "name": "calendar_delete",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "delete",
+    "tags": [
+      "calendar",
+      "delete"
+    ],
+    "master_svg": "svg/master/calendar_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_delete.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_delete.png"
+  },
+  {
+    "name": "calendar_edit",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "edit",
+    "tags": [
+      "calendar",
+      "edit"
+    ],
+    "master_svg": "svg/master/calendar_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_edit.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_edit.png"
+  },
+  {
+    "name": "calendar_search",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "search",
+    "tags": [
+      "calendar",
+      "search"
+    ],
+    "master_svg": "svg/master/calendar_search.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_search.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_search.png"
+  },
+  {
+    "name": "calendar_check",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "check",
+    "tags": [
+      "calendar",
+      "check"
+    ],
+    "master_svg": "svg/master/calendar_check.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_check.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_check.png"
+  },
+  {
+    "name": "calendar_warning",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "warning",
+    "tags": [
+      "calendar",
+      "warning"
+    ],
+    "master_svg": "svg/master/calendar_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_warning.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_warning.png"
+  },
+  {
+    "name": "calendar_info",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "info",
+    "tags": [
+      "calendar",
+      "info"
+    ],
+    "master_svg": "svg/master/calendar_info.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_info.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_info.png"
+  },
+  {
+    "name": "calendar_lock",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "lock",
+    "tags": [
+      "calendar",
+      "lock"
+    ],
+    "master_svg": "svg/master/calendar_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_lock.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_lock.png"
+  },
+  {
+    "name": "calendar_unlock",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "unlock",
+    "tags": [
+      "calendar",
+      "unlock"
+    ],
+    "master_svg": "svg/master/calendar_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_unlock.png"
+  },
+  {
+    "name": "calendar_upload",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "upload",
+    "tags": [
+      "calendar",
+      "upload"
+    ],
+    "master_svg": "svg/master/calendar_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_upload.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_upload.png"
+  },
+  {
+    "name": "calendar_download",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "download",
+    "tags": [
+      "calendar",
+      "download"
+    ],
+    "master_svg": "svg/master/calendar_download.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_download.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_download.png"
+  },
+  {
+    "name": "calendar_sync",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "sync",
+    "tags": [
+      "calendar",
+      "sync"
+    ],
+    "master_svg": "svg/master/calendar_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_sync.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_sync.png"
+  },
+  {
+    "name": "calendar_share",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "share",
+    "tags": [
+      "calendar",
+      "share"
+    ],
+    "master_svg": "svg/master/calendar_share.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_share.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_share.png"
+  },
+  {
+    "name": "calendar_settings",
+    "category": "time",
+    "base": "calendar",
+    "overlay": "gear",
+    "tags": [
+      "calendar",
+      "settings"
+    ],
+    "master_svg": "svg/master/calendar_settings.svg",
+    "theme_svg_pattern": "svg/{theme}/calendar_settings.svg",
+    "png_pattern": "png/{theme}/{size}/calendar_settings.png"
+  },
+  {
+    "name": "clock",
+    "category": "time",
+    "base": "clock",
+    "overlay": null,
+    "tags": [
+      "clock",
+      ""
+    ],
+    "master_svg": "svg/master/clock.svg",
+    "theme_svg_pattern": "svg/{theme}/clock.svg",
+    "png_pattern": "png/{theme}/{size}/clock.png"
+  },
+  {
+    "name": "clock_add",
+    "category": "time",
+    "base": "clock",
+    "overlay": "add",
+    "tags": [
+      "clock",
+      "add"
+    ],
+    "master_svg": "svg/master/clock_add.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_add.svg",
+    "png_pattern": "png/{theme}/{size}/clock_add.png"
+  },
+  {
+    "name": "clock_remove",
+    "category": "time",
+    "base": "clock",
+    "overlay": "remove",
+    "tags": [
+      "clock",
+      "remove"
+    ],
+    "master_svg": "svg/master/clock_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_remove.svg",
+    "png_pattern": "png/{theme}/{size}/clock_remove.png"
+  },
+  {
+    "name": "clock_delete",
+    "category": "time",
+    "base": "clock",
+    "overlay": "delete",
+    "tags": [
+      "clock",
+      "delete"
+    ],
+    "master_svg": "svg/master/clock_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_delete.svg",
+    "png_pattern": "png/{theme}/{size}/clock_delete.png"
+  },
+  {
+    "name": "clock_edit",
+    "category": "time",
+    "base": "clock",
+    "overlay": "edit",
+    "tags": [
+      "clock",
+      "edit"
+    ],
+    "master_svg": "svg/master/clock_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_edit.svg",
+    "png_pattern": "png/{theme}/{size}/clock_edit.png"
+  },
+  {
+    "name": "clock_search",
+    "category": "time",
+    "base": "clock",
+    "overlay": "search",
+    "tags": [
+      "clock",
+      "search"
+    ],
+    "master_svg": "svg/master/clock_search.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_search.svg",
+    "png_pattern": "png/{theme}/{size}/clock_search.png"
+  },
+  {
+    "name": "clock_check",
+    "category": "time",
+    "base": "clock",
+    "overlay": "check",
+    "tags": [
+      "clock",
+      "check"
+    ],
+    "master_svg": "svg/master/clock_check.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_check.svg",
+    "png_pattern": "png/{theme}/{size}/clock_check.png"
+  },
+  {
+    "name": "clock_warning",
+    "category": "time",
+    "base": "clock",
+    "overlay": "warning",
+    "tags": [
+      "clock",
+      "warning"
+    ],
+    "master_svg": "svg/master/clock_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_warning.svg",
+    "png_pattern": "png/{theme}/{size}/clock_warning.png"
+  },
+  {
+    "name": "clock_info",
+    "category": "time",
+    "base": "clock",
+    "overlay": "info",
+    "tags": [
+      "clock",
+      "info"
+    ],
+    "master_svg": "svg/master/clock_info.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_info.svg",
+    "png_pattern": "png/{theme}/{size}/clock_info.png"
+  },
+  {
+    "name": "clock_lock",
+    "category": "time",
+    "base": "clock",
+    "overlay": "lock",
+    "tags": [
+      "clock",
+      "lock"
+    ],
+    "master_svg": "svg/master/clock_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_lock.svg",
+    "png_pattern": "png/{theme}/{size}/clock_lock.png"
+  },
+  {
+    "name": "clock_unlock",
+    "category": "time",
+    "base": "clock",
+    "overlay": "unlock",
+    "tags": [
+      "clock",
+      "unlock"
+    ],
+    "master_svg": "svg/master/clock_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/clock_unlock.png"
+  },
+  {
+    "name": "clock_upload",
+    "category": "time",
+    "base": "clock",
+    "overlay": "upload",
+    "tags": [
+      "clock",
+      "upload"
+    ],
+    "master_svg": "svg/master/clock_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_upload.svg",
+    "png_pattern": "png/{theme}/{size}/clock_upload.png"
+  },
+  {
+    "name": "clock_download",
+    "category": "time",
+    "base": "clock",
+    "overlay": "download",
+    "tags": [
+      "clock",
+      "download"
+    ],
+    "master_svg": "svg/master/clock_download.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_download.svg",
+    "png_pattern": "png/{theme}/{size}/clock_download.png"
+  },
+  {
+    "name": "clock_sync",
+    "category": "time",
+    "base": "clock",
+    "overlay": "sync",
+    "tags": [
+      "clock",
+      "sync"
+    ],
+    "master_svg": "svg/master/clock_sync.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_sync.svg",
+    "png_pattern": "png/{theme}/{size}/clock_sync.png"
+  },
+  {
+    "name": "clock_share",
+    "category": "time",
+    "base": "clock",
+    "overlay": "share",
+    "tags": [
+      "clock",
+      "share"
+    ],
+    "master_svg": "svg/master/clock_share.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_share.svg",
+    "png_pattern": "png/{theme}/{size}/clock_share.png"
+  },
+  {
+    "name": "clock_settings",
+    "category": "time",
+    "base": "clock",
+    "overlay": "gear",
+    "tags": [
+      "clock",
+      "settings"
+    ],
+    "master_svg": "svg/master/clock_settings.svg",
+    "theme_svg_pattern": "svg/{theme}/clock_settings.svg",
+    "png_pattern": "png/{theme}/{size}/clock_settings.png"
+  },
+  {
+    "name": "monitor",
+    "category": "device",
+    "base": "monitor",
+    "overlay": null,
+    "tags": [
+      "monitor",
+      ""
+    ],
+    "master_svg": "svg/master/monitor.svg",
+    "theme_svg_pattern": "svg/{theme}/monitor.svg",
+    "png_pattern": "png/{theme}/{size}/monitor.png"
+  },
+  {
+    "name": "monitor_add",
+    "category": "device",
+    "base": "monitor",
+    "overlay": "add",
+    "tags": [
+      "monitor",
+      "add"
+    ],
+    "master_svg": "svg/master/monitor_add.svg",
+    "theme_svg_pattern": "svg/{theme}/monitor_add.svg",
+    "png_pattern": "png/{theme}/{size}/monitor_add.png"
+  },
+  {
+    "name": "monitor_remove",
+    "category": "device",
+    "base": "monitor",
+    "overlay": "remove",
+    "tags": [
+      "monitor",
+      "remove"
+    ],
+    "master_svg": "svg/master/monitor_remove.svg",
+    "theme_svg_pattern": "svg/{theme}/monitor_remove.svg",
+    "png_pattern": "png/{theme}/{size}/monitor_remove.png"
+  },
+  {
+    "name": "monitor_delete",
+    "category": "device",
+    "base": "monitor",
+    "overlay": "delete",
+    "tags": [
+      "monitor",
+      "delete"
+    ],
+    "master_svg": "svg/master/monitor_delete.svg",
+    "theme_svg_pattern": "svg/{theme}/monitor_delete.svg",
+    "png_pattern": "png/{theme}/{size}/monitor_delete.png"
+  },
+  {
+    "name": "monitor_edit",
+    "category": "device",
+    "base": "monitor",
+    "overlay": "edit",
+    "tags": [
+      "monitor",
+      "edit"
+    ],
+    "master_svg": "svg/master/monitor_edit.svg",
+    "theme_svg_pattern": "svg/{theme}/monitor_edit.svg",
+    "png_pattern": "png/{theme}/{size}/monitor_edit.png"
+  },
+  {
+    "name": "monitor_search",
+    "category": "device",
+    "base": "monitor",
+    "overlay": "search",
+    "tags": [
+      "monitor",
+      "search"
+    ],
+    "master_svg": "svg/master/monitor_search.svg",
+    "theme_svg_pattern": "svg/{theme}/monitor_search.svg",
+    "png_pattern": "png/{theme}/{size}/monitor_search.png"
+  },
+  {
+    "name": "monitor_check",
+    "category": "device",
+    "base": "monitor",
+    "overlay": "check",
+    "tags": [
+      "monitor",
+      "check"
+    ],
+    "master_svg": "svg/master/monitor_check.svg",
+    "theme_svg_pattern": "svg/{theme}/monitor_check.svg",
+    "png_pattern": "png/{theme}/{size}/monitor_check.png"
+  },
+  {
+    "name": "monitor_warning",
+    "category": "device",
+    "base": "monitor",
+    "overlay": "warning",
+    "tags": [
+      "monitor",
+      "warning"
+    ],
+    "master_svg": "svg/master/monitor_warning.svg",
+    "theme_svg_pattern": "svg/{theme}/monitor_warning.svg",
+    "png_pattern": "png/{theme}/{size}/monitor_warning.png"
+  },
+  {
+    "name": "monitor_info",
+    "category": "device",
+    "base": "monitor",
+    "overlay": "info",
+    "tags": [
+      "monitor",
+      "info"
+    ],
+    "master_svg": "svg/master/monitor_info.svg",
+    "theme_svg_pattern": "svg/{theme}/monitor_info.svg",
+    "png_pattern": "png/{theme}/{size}/monitor_info.png"
+  },
+  {
+    "name": "monitor_lock",
+    "category": "device",
+    "base": "monitor",
+    "overlay": "lock",
+    "tags": [
+      "monitor",
+      "lock"
+    ],
+    "master_svg": "svg/master/monitor_lock.svg",
+    "theme_svg_pattern": "svg/{theme}/monitor_lock.svg",
+    "png_pattern": "png/{theme}/{size}/monitor_lock.png"
+  },
+  {
+    "name": "monitor_unlock",
+    "category": "device",
+    "base": "monitor",
+    "overlay": "unlock",
+    "tags": [
+      "monitor",
+      "unlock"
+    ],
+    "master_svg": "svg/master/monitor_unlock.svg",
+    "theme_svg_pattern": "svg/{theme}/monitor_unlock.svg",
+    "png_pattern": "png/{theme}/{size}/monitor_unlock.png"
+  },
+  {
+    "name": "monitor_upload",
+    "category": "device",
+    "base": "monitor",
+    "overlay": "upload",
+    "tags": [
+      "monitor",
+      "upload"
+    ],
+    "master_svg": "svg/master/monitor_upload.svg",
+    "theme_svg_pattern": "svg/{theme}/monitor_upload.svg",
+    "png_pattern": "png/{theme}/{size}/monitor_upload.png"
+  }
+]

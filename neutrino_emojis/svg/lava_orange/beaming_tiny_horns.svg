@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">beaming_tiny_horns</title>
+<desc id="desc">Original Neutrino emoji: beaming with small horns.</desc>
+<polygon points="27,23 38,3 47,31" fill="#FFD34D" stroke="#4A140A" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="81,31 90,3 101,23" fill="#FFD34D" stroke="#4A140A" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#D94B2E"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FF8759" stroke="#4A140A" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFF5ED" opacity="0.45"/>
+<path d="M 33 52 Q 42 61 53 52" fill="none" stroke="#2D0B05" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 75 52 Q 86 61 97 52" fill="none" stroke="#2D0B05" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="32" y="66" width="64" height="30" fill="#FFFFFF" rx="10" ry="10" stroke="#2D0B05" stroke-width="4"/>
+<line x1="34" y1="81" x2="94" y2="81" stroke="#2D0B05" stroke-width="2" stroke-linecap="round"/>
+<line x1="50" y1="67" x2="50" y2="95" stroke="#2D0B05" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="78" y1="67" x2="78" y2="95" stroke="#2D0B05" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

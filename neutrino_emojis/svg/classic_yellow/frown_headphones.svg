@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">frown_headphones</title>
+<desc id="desc">Original Neutrino emoji: frown with headphones overlay.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#F4B94A"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FFD85A" stroke="#3A2C20" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFFFFF" opacity="0.45"/>
+<circle cx="41.5" cy="51.5" r="6.5" fill="#2D2118"/>
+<circle cx="86.5" cy="51.5" r="6.5" fill="#2D2118"/>
+<path d="M 40 91 Q 64 71 88 91" fill="none" stroke="#2D2118" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 27 64 C 28 25 100 25 101 64" fill="none" stroke="#3A2C20" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="17" y="56" width="15" height="28" fill="#3A2C20" rx="6" ry="6"/>
+<rect x="96" y="56" width="15" height="28" fill="#3A2C20" rx="6" ry="6"/>
+</svg>

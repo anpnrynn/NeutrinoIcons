@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">rage_right_tear</title>
+<desc id="desc">Original Neutrino emoji: rage with right-side tear drop.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#303943"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#515E6B" stroke="#E8EDF2" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#0D1218" opacity="0.45"/>
+<circle cx="41.5" cy="51.5" r="6.5" fill="#F5F7FA"/>
+<circle cx="86.5" cy="51.5" r="6.5" fill="#F5F7FA"/>
+<ellipse cx="64" cy="86" rx="19" ry="14" fill="#F5F7FA"/>
+<ellipse cx="64" cy="91" rx="11" ry="9" fill="#FF87A8"/>
+<polygon points="93,55 102.8,67.6 98.32,79.5 93,83 87.68,79.5 83.2,67.6" fill="#71C8FF" stroke="#E8EDF2" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">astonished_halo</title>
+<desc id="desc">Original Neutrino emoji: astonished with halo ring.</desc>
+<ellipse cx="64" cy="9" rx="27" ry="7" fill="#9FD6FF" stroke="#E8EDF2" stroke-width="3"/>
+<ellipse cx="64" cy="9" rx="22" ry="4" fill="#151A20"/>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#303943"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#515E6B" stroke="#E8EDF2" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#0D1218" opacity="0.45"/>
+<circle cx="43" cy="51" r="12" fill="#0D1218" stroke="#F5F7FA" stroke-width="4"/>
+<circle cx="85" cy="51" r="12" fill="#0D1218" stroke="#F5F7FA" stroke-width="4"/>
+<circle cx="44" cy="52" r="4" fill="#F5F7FA"/>
+<circle cx="86" cy="52" r="4" fill="#F5F7FA"/>
+<circle cx="64" cy="82" r="16" fill="#F5F7FA"/>
+<circle cx="64" cy="82" r="7" fill="#515E6B"/>
+</svg>

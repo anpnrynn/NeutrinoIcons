@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">worried_sunglasses_badge</title>
+<desc id="desc">Original Neutrino emoji: worried with small sunglasses badge.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#43A6E8"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#83D7FF" stroke="#13314A" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#F4FEFF" opacity="0.45"/>
+<circle cx="41.5" cy="51.5" r="6.5" fill="#0B2032"/>
+<circle cx="86.5" cy="51.5" r="6.5" fill="#0B2032"/>
+<path d="M 48 91 Q 64 77 80 91" fill="none" stroke="#0B2032" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="107" cy="105" r="17" fill="#00E0FF" stroke="#13314A" stroke-width="3"/>
+<rect x="96" y="100" width="11" height="8" fill="#111111" rx="2" ry="2"/>
+<rect x="110" y="100" width="11" height="8" fill="#111111" rx="2" ry="2"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">nauseated_exclamation_badge</title>
+<desc id="desc">Original Neutrino emoji: nauseated with exclamation badge.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#303943"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#98D45F" stroke="#E8EDF2" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#0D1218" opacity="0.45"/>
+<circle cx="41.5" cy="51.5" r="6.5" fill="#F5F7FA"/>
+<circle cx="86.5" cy="51.5" r="6.5" fill="#F5F7FA"/>
+<polyline points="42,82 50,76 58,82 66,76 74,82 84,76" fill="none" stroke="#F5F7FA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="107" cy="105" r="17" fill="#9FD6FF" stroke="#E8EDF2" stroke-width="3"/>
+<line x1="107" y1="96" x2="107" y2="108" stroke="#0D1218" stroke-width="5" stroke-linecap="round"/>
+<circle cx="107" cy="115" r="3" fill="#0D1218"/>
+</svg>

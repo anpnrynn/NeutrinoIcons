@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">beaming_cheek_blush</title>
+<desc id="desc">Original Neutrino emoji: beaming with cheek blush marks.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#27BFB6"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#6FF2E5" stroke="#063E3D" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#F4FFFF" opacity="0.45"/>
+<path d="M 33 52 Q 42 61 53 52" fill="none" stroke="#052928" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 75 52 Q 86 61 97 52" fill="none" stroke="#052928" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="32" y="66" width="64" height="30" fill="#FFFFFF" rx="10" ry="10" stroke="#052928" stroke-width="4"/>
+<line x1="34" y1="81" x2="94" y2="81" stroke="#052928" stroke-width="2" stroke-linecap="round"/>
+<line x1="50" y1="67" x2="50" y2="95" stroke="#052928" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="78" y1="67" x2="78" y2="95" stroke="#052928" stroke-width="1.5" stroke-linecap="round"/>
+<ellipse cx="33" cy="72" rx="10" ry="6" fill="#5CCCE9"/>
+<ellipse cx="95" cy="72" rx="10" ry="6" fill="#5CCCE9"/>
+</svg>

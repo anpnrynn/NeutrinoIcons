@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">smiley_thermometer</title>
+<desc id="desc">Original Neutrino emoji: smiley with thermometer accent.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#27BFB6"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#6FF2E5" stroke="#063E3D" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#F4FFFF" opacity="0.45"/>
+<circle cx="41.5" cy="51.5" r="6.5" fill="#052928"/>
+<circle cx="86.5" cy="51.5" r="6.5" fill="#052928"/>
+<path d="M 38 76 Q 64 101 90 76" fill="none" stroke="#052928" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="93" y1="63" x2="108" y2="93" stroke="#063E3D" stroke-width="8" stroke-linecap="round"/>
+<line x1="93" y1="63" x2="108" y2="93" stroke="#F4FFFF" stroke-width="5" stroke-linecap="round"/>
+<circle cx="110" cy="97" r="9" fill="#009DFF" stroke="#063E3D" stroke-width="3"/>
+</svg>

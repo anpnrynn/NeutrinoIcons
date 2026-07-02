@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">laugh_right_tear</title>
+<desc id="desc">Original Neutrino emoji: laugh with right-side tear drop.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#F079B1"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FFB7D5" stroke="#5A1B37" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFF7FB" opacity="0.45"/>
+<path d="M 33 52 Q 42 61 53 52" fill="none" stroke="#341020" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 75 52 Q 86 61 97 52" fill="none" stroke="#341020" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="64" cy="83.5" rx="28" ry="20.5" fill="#341020"/>
+<rect x="41" y="65" width="46" height="12" fill="#FFFFFF" rx="4" ry="4"/>
+<ellipse cx="64" cy="95" rx="18" ry="10" fill="#E92575"/>
+<polygon points="93,55 102.8,67.6 98.32,79.5 93,83 87.68,79.5 83.2,67.6" fill="#6ACBFF" stroke="#5A1B37" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

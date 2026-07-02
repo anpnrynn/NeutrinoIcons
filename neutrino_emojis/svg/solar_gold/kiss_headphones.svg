@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">kiss_headphones</title>
+<desc id="desc">Original Neutrino emoji: kiss with headphones overlay.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#E88A24"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FFC647" stroke="#4B2A08" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFF8E7" opacity="0.45"/>
+<circle cx="41.5" cy="51.5" r="6.5" fill="#2C1703"/>
+<circle cx="86.5" cy="51.5" r="6.5" fill="#2C1703"/>
+<circle cx="64" cy="78" r="8" fill="#2C1703"/>
+<circle cx="51" cy="69" r="6" fill="#FF6A00"/>
+<path d="M 27 64 C 28 25 100 25 101 64" fill="none" stroke="#4B2A08" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="17" y="56" width="15" height="28" fill="#4B2A08" rx="6" ry="6"/>
+<rect x="96" y="56" width="15" height="28" fill="#4B2A08" rx="6" ry="6"/>
+</svg>

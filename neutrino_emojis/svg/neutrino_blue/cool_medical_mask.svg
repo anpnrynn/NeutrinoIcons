@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">cool_medical_mask</title>
+<desc id="desc">Original Neutrino emoji: cool with medical mask overlay.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#43A6E8"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#83D7FF" stroke="#13314A" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#F4FEFF" opacity="0.45"/>
+<rect x="29" y="41" width="27" height="17" fill="#111111" rx="5" ry="5" stroke="#13314A" stroke-width="3"/>
+<rect x="72" y="41" width="27" height="17" fill="#111111" rx="5" ry="5" stroke="#13314A" stroke-width="3"/>
+<line x1="56" y1="49" x2="72" y2="49" stroke="#13314A" stroke-width="3" stroke-linecap="round"/>
+<path d="M 47 79 Q 67 92 91 76" fill="none" stroke="#0B2032" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="29" y="65" width="70" height="32" fill="#DFF8FF" rx="9" ry="9" stroke="#13314A" stroke-width="3"/>
+<line x1="34" y1="73" x2="94" y2="73" stroke="#6D8FAA" stroke-width="2" stroke-linecap="round"/>
+<line x1="35" y1="84" x2="93" y2="84" stroke="#6D8FAA" stroke-width="2" stroke-linecap="round"/>
+</svg>

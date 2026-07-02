@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">thinking_medical_mask</title>
+<desc id="desc">Original Neutrino emoji: thinking with medical mask overlay.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#F4B94A"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FFD85A" stroke="#3A2C20" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFFFFF" opacity="0.45"/>
+<circle cx="41.5" cy="51.5" r="6.5" fill="#2D2118"/>
+<circle cx="86.5" cy="51.5" r="6.5" fill="#2D2118"/>
+<path d="M 50 81 Q 65 94 85 82" fill="none" stroke="#2D2118" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="92" cy="91" r="5" fill="#2D2118"/>
+<rect x="29" y="65" width="70" height="32" fill="#EAF6F8" rx="9" ry="9" stroke="#3A2C20" stroke-width="3"/>
+<line x1="34" y1="73" x2="94" y2="73" stroke="#8E9BAA" stroke-width="2" stroke-linecap="round"/>
+<line x1="35" y1="84" x2="93" y2="84" stroke="#8E9BAA" stroke-width="2" stroke-linecap="round"/>
+</svg>

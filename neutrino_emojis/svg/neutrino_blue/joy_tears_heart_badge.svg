@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">joy_tears_heart_badge</title>
+<desc id="desc">Original Neutrino emoji: joy tears with small heart badge.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#43A6E8"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#83D7FF" stroke="#13314A" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#F4FEFF" opacity="0.45"/>
+<polyline points="33,47 48,58 54,47" fill="none" stroke="#0B2032" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="75,47 84,58 97,47" fill="none" stroke="#0B2032" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="64" cy="83.5" rx="28" ry="20.5" fill="#0B2032"/>
+<rect x="41" y="65" width="46" height="12" fill="#FFFFFF" rx="4" ry="4"/>
+<ellipse cx="64" cy="95" rx="18" ry="10" fill="#FF7AA8"/>
+<polygon points="29,58 35.3,66.1 32.42,73.75 29,76 25.58,73.75 22.7,66.1" fill="#C9F6FF" stroke="#13314A" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="99,58 105.3,66.1 102.42,73.75 99,76 95.58,73.75 92.7,66.1" fill="#C9F6FF" stroke="#13314A" stroke-width="1.5" stroke-linejoin="round"/>
+<circle cx="107" cy="105" r="17" fill="#F4FEFF" stroke="#13314A" stroke-width="3"/>
+<polygon points="107.0,102.72 107.05,102.32 107.42,101.27 108.31,99.92 109.79,98.76 111.72,98.19 113.82,98.45 115.71,99.55 117.03,101.28 117.5,103.38 117.03,105.56 115.71,107.65 113.82,109.61 111.72,111.43 109.79,113.14 108.31,114.7 107.42,115.99 107.05,116.85 107.0,117.16 106.95,116.85 106.58,115.99 105.69,114.7 104.21,113.14 102.28,111.43 100.18,109.61 98.29,107.65 96.97,105.56 96.5,103.38 96.97,101.28 98.29,99.55 100.18,98.45 102.28,98.19 104.21,98.76 105.69,99.92 106.58,101.27 106.95,102.32" fill="#F54767"/>
+</svg>

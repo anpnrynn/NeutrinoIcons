@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">nerd_medical_mask</title>
+<desc id="desc">Original Neutrino emoji: nerd with medical mask overlay.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#58C983"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#A8F0BF" stroke="#163B24" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#F7FFF8" opacity="0.45"/>
+<ellipse cx="43.5" cy="53" rx="14.5" ry="13" fill="#F7FFF8" stroke="#0F2A19" stroke-width="4"/>
+<ellipse cx="84.5" cy="53" rx="14.5" ry="13" fill="#F7FFF8" stroke="#0F2A19" stroke-width="4"/>
+<line x1="58" y1="53" x2="70" y2="53" stroke="#0F2A19" stroke-width="3" stroke-linecap="round"/>
+<circle cx="43.5" cy="53.5" r="3.5" fill="#0F2A19"/>
+<circle cx="84.5" cy="53.5" r="3.5" fill="#0F2A19"/>
+<rect x="39" y="68" width="50" height="23" fill="#FFFFFF" rx="9" ry="9" stroke="#0F2A19" stroke-width="4"/>
+<line x1="39" y1="79" x2="89" y2="79" stroke="#0F2A19" stroke-width="2" stroke-linecap="round"/>
+<rect x="29" y="65" width="70" height="32" fill="#ECFFF3" rx="9" ry="9" stroke="#163B24" stroke-width="3"/>
+<line x1="34" y1="73" x2="94" y2="73" stroke="#6C9C7C" stroke-width="2" stroke-linecap="round"/>
+<line x1="35" y1="84" x2="93" y2="84" stroke="#6C9C7C" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">star_eyes_party_hat</title>
+<desc id="desc">Original Neutrino emoji: star eyes with party hat.</desc>
+<polygon points="70,19 101,0 104,41" fill="#FFD34D" stroke="#4A140A" stroke-width="3" stroke-linejoin="round"/>
+<line x1="76" y1="16" x2="100" y2="32" stroke="#FFF5ED" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#D94B2E"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FF8759" stroke="#4A140A" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFF5ED" opacity="0.45"/>
+<polygon points="42.0,40.0 44.94,47.95 53.41,48.29 46.76,53.55 49.05,61.71 42.0,57.0 34.95,61.71 37.24,53.55 30.59,48.29 39.06,47.95" fill="#FFE35C" stroke="#4A140A" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="86.0,40.0 88.94,47.95 97.41,48.29 90.76,53.55 93.05,61.71 86.0,57.0 78.95,61.71 81.24,53.55 74.59,48.29 83.06,47.95" fill="#FFE35C" stroke="#4A140A" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 38 76 Q 64 101 90 76" fill="none" stroke="#2D0B05" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

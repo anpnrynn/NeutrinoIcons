@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">star_eyes_heart_badge</title>
+<desc id="desc">Original Neutrino emoji: star eyes with small heart badge.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#43A6E8"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#83D7FF" stroke="#13314A" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#F4FEFF" opacity="0.45"/>
+<polygon points="42.0,40.0 44.94,47.95 53.41,48.29 46.76,53.55 49.05,61.71 42.0,57.0 34.95,61.71 37.24,53.55 30.59,48.29 39.06,47.95" fill="#FFE35C" stroke="#13314A" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="86.0,40.0 88.94,47.95 97.41,48.29 90.76,53.55 93.05,61.71 86.0,57.0 78.95,61.71 81.24,53.55 74.59,48.29 83.06,47.95" fill="#FFE35C" stroke="#13314A" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 38 76 Q 64 101 90 76" fill="none" stroke="#0B2032" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="107" cy="105" r="17" fill="#F4FEFF" stroke="#13314A" stroke-width="3"/>
+<polygon points="107.0,102.72 107.05,102.32 107.42,101.27 108.31,99.92 109.79,98.76 111.72,98.19 113.82,98.45 115.71,99.55 117.03,101.28 117.5,103.38 117.03,105.56 115.71,107.65 113.82,109.61 111.72,111.43 109.79,113.14 108.31,114.7 107.42,115.99 107.05,116.85 107.0,117.16 106.95,116.85 106.58,115.99 105.69,114.7 104.21,113.14 102.28,111.43 100.18,109.61 98.29,107.65 96.97,105.56 96.5,103.38 96.97,101.28 98.29,99.55 100.18,98.45 102.28,98.19 104.21,98.76 105.69,99.92 106.58,101.27 106.95,102.32" fill="#F54767"/>
+</svg>

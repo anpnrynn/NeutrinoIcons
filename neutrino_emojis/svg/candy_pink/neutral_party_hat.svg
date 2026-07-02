@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">neutral_party_hat</title>
+<desc id="desc">Original Neutrino emoji: neutral with party hat.</desc>
+<polygon points="70,19 101,0 104,41" fill="#FF2E9E" stroke="#5A1B37" stroke-width="3" stroke-linejoin="round"/>
+<line x1="76" y1="16" x2="100" y2="32" stroke="#FFF7FB" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#F079B1"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FFB7D5" stroke="#5A1B37" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFF7FB" opacity="0.45"/>
+<circle cx="41.5" cy="51.5" r="6.5" fill="#341020"/>
+<circle cx="86.5" cy="51.5" r="6.5" fill="#341020"/>
+<line x1="47" y1="78" x2="81" y2="78" stroke="#341020" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">joy_tears_medical_mask</title>
+<desc id="desc">Original Neutrino emoji: joy tears with medical mask overlay.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#303943"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#515E6B" stroke="#E8EDF2" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#0D1218" opacity="0.45"/>
+<polyline points="33,47 48,58 54,47" fill="none" stroke="#F5F7FA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="75,47 84,58 97,47" fill="none" stroke="#F5F7FA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="64" cy="83.5" rx="28" ry="20.5" fill="#F5F7FA"/>
+<rect x="41" y="65" width="46" height="12" fill="#FFFFFF" rx="4" ry="4"/>
+<ellipse cx="64" cy="95" rx="18" ry="10" fill="#FF87A8"/>
+<polygon points="29,58 35.3,66.1 32.42,73.75 29,76 25.58,73.75 22.7,66.1" fill="#71C8FF" stroke="#E8EDF2" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="99,58 105.3,66.1 102.42,73.75 99,76 95.58,73.75 92.7,66.1" fill="#71C8FF" stroke="#E8EDF2" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="29" y="65" width="70" height="32" fill="#DDE5EC" rx="9" ry="9" stroke="#E8EDF2" stroke-width="3"/>
+<line x1="34" y1="73" x2="94" y2="73" stroke="#B8C2CC" stroke-width="2" stroke-linecap="round"/>
+<line x1="35" y1="84" x2="93" y2="84" stroke="#B8C2CC" stroke-width="2" stroke-linecap="round"/>
+</svg>

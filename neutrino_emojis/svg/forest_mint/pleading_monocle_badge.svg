@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">pleading_monocle_badge</title>
+<desc id="desc">Original Neutrino emoji: pleading with small monocle badge.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#58C983"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#A8F0BF" stroke="#163B24" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#F7FFF8" opacity="0.45"/>
+<ellipse cx="43" cy="52.5" rx="14" ry="15.5" fill="#F7FFF8" stroke="#0F2A19" stroke-width="4"/>
+<ellipse cx="85" cy="52.5" rx="14" ry="15.5" fill="#F7FFF8" stroke="#0F2A19" stroke-width="4"/>
+<circle cx="43" cy="56" r="4" fill="#0F2A19"/>
+<circle cx="85" cy="56" r="4" fill="#0F2A19"/>
+<path d="M 48 91 Q 64 77 80 91" fill="none" stroke="#0F2A19" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="107" cy="105" r="17" fill="#F7FFF8" stroke="#163B24" stroke-width="3"/>
+<circle cx="107" cy="105" r="8" fill="#F7FFF8" stroke="#0F2A19" stroke-width="3"/>
+</svg>

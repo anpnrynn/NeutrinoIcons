@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">cool_right_tear</title>
+<desc id="desc">Original Neutrino emoji: cool with right-side tear drop.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#D94B2E"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FF8759" stroke="#4A140A" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFF5ED" opacity="0.45"/>
+<rect x="29" y="41" width="27" height="17" fill="#111111" rx="5" ry="5" stroke="#4A140A" stroke-width="3"/>
+<rect x="72" y="41" width="27" height="17" fill="#111111" rx="5" ry="5" stroke="#4A140A" stroke-width="3"/>
+<line x1="56" y1="49" x2="72" y2="49" stroke="#4A140A" stroke-width="3" stroke-linecap="round"/>
+<path d="M 47 79 Q 67 92 91 76" fill="none" stroke="#2D0B05" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="93,55 102.8,67.6 98.32,79.5 93,83 87.68,79.5 83.2,67.6" fill="#4DBEFF" stroke="#4A140A" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

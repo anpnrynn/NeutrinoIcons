@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">smile_neutrino_orbit</title>
+<desc id="desc">Original Neutrino emoji: smile with Neutrino orbit mark.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#F079B1"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FFB7D5" stroke="#5A1B37" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFF7FB" opacity="0.45"/>
+<circle cx="41.5" cy="51.5" r="6.5" fill="#341020"/>
+<circle cx="86.5" cy="51.5" r="6.5" fill="#341020"/>
+<path d="M 38 76 Q 64 101 90 76" fill="none" stroke="#341020" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 18 74 C 38 31 95 25 111 54" fill="none" stroke="#FF2E9E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 17 57 C 45 100 93 104 111 73" fill="none" stroke="#FF2E9E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="99" cy="37" r="5" fill="#FFF7FB" stroke="#5A1B37" stroke-width="2"/>
+</svg>

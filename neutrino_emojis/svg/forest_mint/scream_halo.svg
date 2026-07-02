@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">scream_halo</title>
+<desc id="desc">Original Neutrino emoji: scream with halo ring.</desc>
+<ellipse cx="64" cy="9" rx="27" ry="7" fill="#1FCE7A" stroke="#163B24" stroke-width="3"/>
+<ellipse cx="64" cy="9" rx="22" ry="4" fill="#FAFFFB"/>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#58C983"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#A8F0BF" stroke="#163B24" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#F7FFF8" opacity="0.45"/>
+<circle cx="43" cy="51" r="12" fill="#F7FFF8" stroke="#0F2A19" stroke-width="4"/>
+<circle cx="85" cy="51" r="12" fill="#F7FFF8" stroke="#0F2A19" stroke-width="4"/>
+<circle cx="44" cy="52" r="4" fill="#0F2A19"/>
+<circle cx="86" cy="52" r="4" fill="#0F2A19"/>
+<ellipse cx="64" cy="86" rx="16" ry="22" fill="#0F2A19"/>
+</svg>

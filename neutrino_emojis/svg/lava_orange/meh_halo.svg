@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">meh_halo</title>
+<desc id="desc">Original Neutrino emoji: meh with halo ring.</desc>
+<ellipse cx="64" cy="9" rx="27" ry="7" fill="#FFD34D" stroke="#4A140A" stroke-width="3"/>
+<ellipse cx="64" cy="9" rx="22" ry="4" fill="#FFF8F3"/>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#D94B2E"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FF8759" stroke="#4A140A" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFF5ED" opacity="0.45"/>
+<line x1="33" y1="50" x2="52" y2="50" stroke="#2D0B05" stroke-width="4" stroke-linecap="round"/>
+<line x1="76" y1="50" x2="95" y2="50" stroke="#2D0B05" stroke-width="4" stroke-linecap="round"/>
+<line x1="47" y1="81" x2="83" y2="76" stroke="#2D0B05" stroke-width="4" stroke-linecap="round"/>
+</svg>

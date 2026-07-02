@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">raised_brow_soft_shadow</title>
+<desc id="desc">Original Neutrino emoji: raised brow with extra soft drop shadow.</desc>
+<ellipse cx="67" cy="69" rx="49" ry="50" fill="#000000" opacity="0.22"/>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#E88A24"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FFC647" stroke="#4B2A08" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFF8E7" opacity="0.45"/>
+<circle cx="41.5" cy="51.5" r="6.5" fill="#2C1703"/>
+<circle cx="86.5" cy="51.5" r="6.5" fill="#2C1703"/>
+<line x1="47" y1="78" x2="81" y2="78" stroke="#2C1703" stroke-width="5" stroke-linecap="round"/>
+</svg>

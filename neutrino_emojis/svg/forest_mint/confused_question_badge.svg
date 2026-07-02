@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">confused_question_badge</title>
+<desc id="desc">Original Neutrino emoji: confused with question badge.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#58C983"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#A8F0BF" stroke="#163B24" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#F7FFF8" opacity="0.45"/>
+<circle cx="41.5" cy="51.5" r="6.5" fill="#0F2A19"/>
+<path d="M 77 53 Q 86 61 98 53" fill="none" stroke="#0F2A19" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="45,80 57,75 70,82 84,76" fill="none" stroke="#0F2A19" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="107" cy="105" r="17" fill="#1FCE7A" stroke="#163B24" stroke-width="3"/>
+<text x="107" y="104" font-family="Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle" dominant-baseline="central" fill="#F7FFF8">?</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">pouting_question_badge</title>
+<desc id="desc">Original Neutrino emoji: pouting with question badge.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#8B68D8"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#C7A8FF" stroke="#2C1E4A" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFF8FE" opacity="0.45"/>
+<circle cx="41.5" cy="51.5" r="6.5" fill="#211536"/>
+<circle cx="86.5" cy="51.5" r="6.5" fill="#211536"/>
+<ellipse cx="64" cy="82.5" rx="14" ry="8.5" fill="#211536"/>
+<circle cx="107" cy="105" r="17" fill="#FF72D2" stroke="#2C1E4A" stroke-width="3"/>
+<text x="107" y="104" font-family="Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle" dominant-baseline="central" fill="#FFF8FE">?</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">silly_monocle_badge</title>
+<desc id="desc">Original Neutrino emoji: silly with small monocle badge.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#58C983"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#A8F0BF" stroke="#163B24" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#F7FFF8" opacity="0.45"/>
+<circle cx="41.5" cy="51.5" r="6.5" fill="#0F2A19"/>
+<path d="M 77 53 Q 86 61 98 53" fill="none" stroke="#0F2A19" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="64" cy="83.5" rx="23" ry="17.5" fill="#0F2A19"/>
+<rect x="45" y="66" width="38" height="10" fill="#FFFFFF" rx="4" ry="4"/>
+<ellipse cx="64" cy="94" rx="12" ry="14" fill="#FF7E93" stroke="#0F2A19" stroke-width="2"/>
+<circle cx="107" cy="105" r="17" fill="#F7FFF8" stroke="#163B24" stroke-width="3"/>
+<circle cx="107" cy="105" r="8" fill="#F7FFF8" stroke="#0F2A19" stroke-width="3"/>
+</svg>

@@ -1,0 +1,30 @@
+{
+  "package": "neutrino_emojis",
+  "icon_count": 1000,
+  "theme_count": 10,
+  "themes": [
+    "classic_yellow",
+    "neutrino_blue",
+    "graphite_dark",
+    "forest_mint",
+    "royal_purple",
+    "solar_gold",
+    "candy_pink",
+    "aqua_cyan",
+    "lava_orange",
+    "mono_ink"
+  ],
+  "sizes": [
+    16,
+    32,
+    64,
+    128
+  ],
+  "expected_png_files": 40000,
+  "expected_themed_svg_files": 10000,
+  "expected_master_svg_files": 1000,
+  "generation_mode": "original deterministic geometry; no third-party emoji artwork",
+  "total_files": 51019,
+  "png_files": 40010,
+  "svg_files": 11000
+}

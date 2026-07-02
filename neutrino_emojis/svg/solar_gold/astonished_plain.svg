@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">astonished_plain</title>
+<desc id="desc">Original Neutrino emoji: astonished with base expression only.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#E88A24"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FFC647" stroke="#4B2A08" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFF8E7" opacity="0.45"/>
+<circle cx="43" cy="51" r="12" fill="#FFF8E7" stroke="#2C1703" stroke-width="4"/>
+<circle cx="85" cy="51" r="12" fill="#FFF8E7" stroke="#2C1703" stroke-width="4"/>
+<circle cx="44" cy="52" r="4" fill="#2C1703"/>
+<circle cx="86" cy="52" r="4" fill="#2C1703"/>
+<circle cx="64" cy="82" r="16" fill="#2C1703"/>
+<circle cx="64" cy="82" r="7" fill="#FFC647"/>
+</svg>

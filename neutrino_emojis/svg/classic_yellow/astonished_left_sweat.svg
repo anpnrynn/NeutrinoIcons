@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">astonished_left_sweat</title>
+<desc id="desc">Original Neutrino emoji: astonished with left-side sweat drop.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#F4B94A"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FFD85A" stroke="#3A2C20" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFFFFF" opacity="0.45"/>
+<circle cx="43" cy="51" r="12" fill="#FFFFFF" stroke="#2D2118" stroke-width="4"/>
+<circle cx="85" cy="51" r="12" fill="#FFFFFF" stroke="#2D2118" stroke-width="4"/>
+<circle cx="44" cy="52" r="4" fill="#2D2118"/>
+<circle cx="86" cy="52" r="4" fill="#2D2118"/>
+<circle cx="64" cy="82" r="16" fill="#2D2118"/>
+<circle cx="64" cy="82" r="7" fill="#FFD85A"/>
+<polygon points="27,27 35.4,37.8 31.56,48.0 27,51 22.44,48.0 18.6,37.8" fill="#5EC8FF" stroke="#3A2C20" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

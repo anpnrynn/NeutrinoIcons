@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">relieved_heart_badge</title>
+<desc id="desc">Original Neutrino emoji: relieved with small heart badge.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#F4B94A"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FFD85A" stroke="#3A2C20" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFFFFF" opacity="0.45"/>
+<path d="M 33 52 Q 42 61 53 52" fill="none" stroke="#2D2118" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 75 52 Q 86 61 97 52" fill="none" stroke="#2D2118" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 48 77 Q 64 92 80 77" fill="none" stroke="#2D2118" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="107" cy="105" r="17" fill="#FFFFFF" stroke="#3A2C20" stroke-width="3"/>
+<polygon points="107.0,102.72 107.05,102.32 107.42,101.27 108.31,99.92 109.79,98.76 111.72,98.19 113.82,98.45 115.71,99.55 117.03,101.28 117.5,103.38 117.03,105.56 115.71,107.65 113.82,109.61 111.72,111.43 109.79,113.14 108.31,114.7 107.42,115.99 107.05,116.85 107.0,117.16 106.95,116.85 106.58,115.99 105.69,114.7 104.21,113.14 102.28,111.43 100.18,109.61 98.29,107.65 96.97,105.56 96.5,103.38 96.97,101.28 98.29,99.55 100.18,98.45 102.28,98.19 104.21,98.76 105.69,99.92 106.58,101.27 106.95,102.32" fill="#F54767"/>
+</svg>

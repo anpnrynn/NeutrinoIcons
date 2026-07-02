@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">kiss_wink_right_tear</title>
+<desc id="desc">Original Neutrino emoji: kiss wink with right-side tear drop.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#27BFB6"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#6FF2E5" stroke="#063E3D" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#F4FFFF" opacity="0.45"/>
+<path d="M 32 53 Q 42 61 54 53" fill="none" stroke="#052928" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="86.5" cy="51.5" r="6.5" fill="#052928"/>
+<circle cx="64" cy="78" r="8" fill="#052928"/>
+<circle cx="51" cy="69" r="6" fill="#009DFF"/>
+<polygon points="93,55 102.8,67.6 98.32,79.5 93,83 87.68,79.5 83.2,67.6" fill="#B9F7FF" stroke="#063E3D" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

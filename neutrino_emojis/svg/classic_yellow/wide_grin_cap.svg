@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">wide_grin_cap</title>
+<desc id="desc">Original Neutrino emoji: wide grin with baseball cap.</desc>
+<rect x="28" y="17" width="62" height="23" fill="#E94B66" rx="12" ry="12" stroke="#3A2C20" stroke-width="3"/>
+<polygon points="76,33 112,34 84,45" fill="#E94B66" stroke="#3A2C20" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#F4B94A"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FFD85A" stroke="#3A2C20" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFFFFF" opacity="0.45"/>
+<ellipse cx="41.5" cy="52" rx="7.5" ry="9" fill="#2D2118"/>
+<ellipse cx="86.5" cy="52" rx="7.5" ry="9" fill="#2D2118"/>
+<rect x="32" y="66" width="64" height="30" fill="#FFFFFF" rx="10" ry="10" stroke="#2D2118" stroke-width="4"/>
+<line x1="34" y1="81" x2="94" y2="81" stroke="#2D2118" stroke-width="2" stroke-linecap="round"/>
+<line x1="50" y1="67" x2="50" y2="95" stroke="#2D2118" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="78" y1="67" x2="78" y2="95" stroke="#2D2118" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

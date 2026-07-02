@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">yawn_question_badge</title>
+<desc id="desc">Original Neutrino emoji: yawn with question badge.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#E88A24"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#FFC647" stroke="#4B2A08" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFF8E7" opacity="0.45"/>
+<path d="M 33 52 Q 42 61 53 52" fill="none" stroke="#2C1703" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 75 52 Q 86 61 97 52" fill="none" stroke="#2C1703" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="64" cy="84.5" rx="21" ry="19.5" fill="#2C1703"/>
+<ellipse cx="64" cy="86" rx="11" ry="10" fill="#E88A24"/>
+<circle cx="107" cy="105" r="17" fill="#FF6A00" stroke="#4B2A08" stroke-width="3"/>
+<text x="107" y="104" font-family="Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle" dominant-baseline="central" fill="#FFF8E7">?</text>
+</svg>

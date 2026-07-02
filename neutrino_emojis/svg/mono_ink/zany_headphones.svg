@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">zany_headphones</title>
+<desc id="desc">Original Neutrino emoji: zany with headphones overlay.</desc>
+<ellipse cx="64" cy="65" rx="50" ry="52" fill="#C7C7C7"/>
+<ellipse cx="64" cy="62" rx="54" ry="54" fill="#F2F2F2" stroke="#161616" stroke-width="5"/>
+<ellipse cx="45.5" cy="27" rx="17.5" ry="8" fill="#FFFFFF" opacity="0.45"/>
+<circle cx="42" cy="52" r="11" fill="#FFFFFF" stroke="#111111" stroke-width="3"/>
+<circle cx="84" cy="53" r="10" fill="#FFFFFF" stroke="#111111" stroke-width="3"/>
+<circle cx="43" cy="53" r="4" fill="#111111"/>
+<circle cx="83" cy="49" r="4" fill="#111111"/>
+<ellipse cx="64" cy="83.5" rx="23" ry="17.5" fill="#111111"/>
+<rect x="45" y="66" width="38" height="10" fill="#FFFFFF" rx="4" ry="4"/>
+<ellipse cx="64" cy="94" rx="12" ry="14" fill="#6A6A6A" stroke="#111111" stroke-width="2"/>
+<path d="M 27 64 C 28 25 100 25 101 64" fill="none" stroke="#161616" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="17" y="56" width="15" height="28" fill="#161616" rx="6" ry="6"/>
+<rect x="96" y="56" width="15" height="28" fill="#161616" rx="6" ry="6"/>
+</svg>

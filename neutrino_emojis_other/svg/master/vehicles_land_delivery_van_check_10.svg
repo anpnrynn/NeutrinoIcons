@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">delivery van check 10</title>
+<desc id="desc">Original Neutrino vehicles land emoji icon: delivery van with check styling.</desc>
+<style>:root{--nt-primary:#FFD85A;--nt-secondary:#F4B94A;--nt-accent:#E94B66;--nt-accent2:#FFFFFF;--nt-outline:#3A2C20;--nt-feature:#2D2118;--nt-skin:#F2C6A0;--nt-skin2:#DFA06E;--nt-green:#65B95A;--nt-blue:#56A8E8;--nt-red:#E85B4B;--nt-purple:#9C70E8;--nt-orange:#F27B35;--nt-metal:#8E9BAA;--nt-brown:#8B5A2B;--nt-white:#FFF8E7;--nt-dark:#1A1613;--nt-bg:#FFFFFF} text{font-family:Arial,DejaVu Sans,sans-serif;font-weight:700}</style>
+<ellipse cx="64.00" cy="106.00" rx="45.00" ry="14.00" fill="var(--nt-dark)" opacity="0.12"/>
+<path d="M 29.00 72.00 Q 42.00 39.00 65.00 41.00" fill="none" stroke="var(--nt-outline)" stroke-width="5.00" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 65.00 41.00 Q 91.00 43.00 101.00 72.00" fill="none" stroke="var(--nt-outline)" stroke-width="5.00" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="22.00" y="62.00" width="84.00" height="29.00" rx="11.00" ry="11.00" fill="var(--nt-primary)" stroke="var(--nt-outline)" stroke-width="5.00"/>
+<rect x="43.00" y="48.00" width="19.00" height="15.00" rx="3.00" ry="3.00" fill="var(--nt-blue)"/>
+<rect x="68.00" y="48.00" width="20.00" height="15.00" rx="3.00" ry="3.00" fill="var(--nt-blue)"/>
+<ellipse cx="41.00" cy="92.00" rx="11.00" ry="11.00" fill="var(--nt-dark)" stroke="var(--nt-outline)" stroke-width="3.00"/>
+<ellipse cx="89.00" cy="92.00" rx="11.00" ry="11.00" fill="var(--nt-dark)" stroke="var(--nt-outline)" stroke-width="3.00"/>
+<ellipse cx="41.00" cy="92.00" rx="4.00" ry="4.00" fill="var(--nt-metal)"/>
+<ellipse cx="89.00" cy="92.00" rx="4.00" ry="4.00" fill="var(--nt-metal)"/>
+<text x="64.00" y="77.00" font-size="12.00" text-anchor="middle" dominant-baseline="central" fill="var(--nt-feature)">DV</text>
+<ellipse cx="107.50" cy="106.50" rx="16.50" ry="16.50" fill="var(--nt-accent2)" stroke="var(--nt-outline)" stroke-width="3.00"/>
+<ellipse cx="107.50" cy="106.50" rx="11.50" ry="11.50" fill="var(--nt-accent)"/>
+<text x="107.50" y="106.50" font-size="16.00" text-anchor="middle" dominant-baseline="central" fill="var(--nt-accent2)">✓</text>
+</svg>

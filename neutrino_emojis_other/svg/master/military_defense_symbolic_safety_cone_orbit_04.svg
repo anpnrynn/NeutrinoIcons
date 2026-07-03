@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">safety cone orbit 4</title>
+<desc id="desc">Original Neutrino military defense symbolic emoji icon: safety cone with orbit styling.</desc>
+<style>:root{--nt-primary:#FFD85A;--nt-secondary:#F4B94A;--nt-accent:#E94B66;--nt-accent2:#FFFFFF;--nt-outline:#3A2C20;--nt-feature:#2D2118;--nt-skin:#F2C6A0;--nt-skin2:#DFA06E;--nt-green:#65B95A;--nt-blue:#56A8E8;--nt-red:#E85B4B;--nt-purple:#9C70E8;--nt-orange:#F27B35;--nt-metal:#8E9BAA;--nt-brown:#8B5A2B;--nt-white:#FFF8E7;--nt-dark:#1A1613;--nt-bg:#FFFFFF} text{font-family:Arial,DejaVu Sans,sans-serif;font-weight:700}</style>
+<ellipse cx="64.00" cy="106.00" rx="45.00" ry="14.00" fill="var(--nt-dark)" opacity="0.12"/>
+<rect x="28.00" y="39.00" width="72.00" height="57.00" rx="8.00" ry="8.00" fill="var(--nt-brown)" stroke="var(--nt-outline)" stroke-width="5.00"/>
+<ellipse cx="45.00" cy="64.00" rx="7.00" ry="7.00" fill="var(--nt-primary)" stroke="var(--nt-outline)" stroke-width="2.00"/>
+<ellipse cx="64.00" cy="64.00" rx="7.00" ry="7.00" fill="var(--nt-primary)" stroke="var(--nt-outline)" stroke-width="2.00"/>
+<ellipse cx="83.00" cy="64.00" rx="7.00" ry="7.00" fill="var(--nt-primary)" stroke="var(--nt-outline)" stroke-width="2.00"/>
+<polyline points="36.00,83.00 92.00,83.00" fill="none" stroke="var(--nt-outline)" stroke-width="3.00" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="107.50" cy="106.50" rx="16.50" ry="16.50" fill="var(--nt-accent2)" stroke="var(--nt-outline)" stroke-width="3.00"/>
+<ellipse cx="107.50" cy="106.50" rx="11.50" ry="11.50" fill="var(--nt-accent)"/>
+<text x="107.50" y="106.50" font-size="16.00" text-anchor="middle" dominant-baseline="central" fill="var(--nt-accent2)">⟲</text>
+</svg>

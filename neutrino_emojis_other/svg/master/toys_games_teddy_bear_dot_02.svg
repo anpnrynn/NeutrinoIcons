@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">teddy bear dot 2</title>
+<desc id="desc">Original Neutrino toys games emoji icon: teddy bear with dot styling.</desc>
+<style>:root{--nt-primary:#FFD85A;--nt-secondary:#F4B94A;--nt-accent:#E94B66;--nt-accent2:#FFFFFF;--nt-outline:#3A2C20;--nt-feature:#2D2118;--nt-skin:#F2C6A0;--nt-skin2:#DFA06E;--nt-green:#65B95A;--nt-blue:#56A8E8;--nt-red:#E85B4B;--nt-purple:#9C70E8;--nt-orange:#F27B35;--nt-metal:#8E9BAA;--nt-brown:#8B5A2B;--nt-white:#FFF8E7;--nt-dark:#1A1613;--nt-bg:#FFFFFF} text{font-family:Arial,DejaVu Sans,sans-serif;font-weight:700}</style>
+<ellipse cx="64.00" cy="106.00" rx="45.00" ry="14.00" fill="var(--nt-dark)" opacity="0.12"/>
+<polygon points="64.00,16.00 98.00,52.00 64.00,91.00 30.00,52.00" fill="var(--nt-primary)" stroke="var(--nt-outline)" stroke-width="5.00" stroke-linejoin="round"/>
+<polyline points="64.00,16.00 64.00,91.00" fill="none" stroke="var(--nt-secondary)" stroke-width="3.00" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="30.00,52.00 98.00,52.00" fill="none" stroke="var(--nt-secondary)" stroke-width="3.00" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 64.00 91.00 Q 52.00 110.00 77.00 116.00" fill="none" stroke="var(--nt-outline)" stroke-width="3.00" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="87.00,101.00 88.76,105.57 93.66,105.84 89.85,108.93 91.11,113.66 87.00,111.00 82.89,113.66 84.15,108.93 80.34,105.84 85.24,105.57" fill="var(--nt-accent)"/>
+<ellipse cx="107.50" cy="106.50" rx="16.50" ry="16.50" fill="var(--nt-accent2)" stroke="var(--nt-outline)" stroke-width="3.00"/>
+<ellipse cx="107.50" cy="106.50" rx="11.50" ry="11.50" fill="var(--nt-accent)"/>
+<text x="107.50" y="106.50" font-size="16.00" text-anchor="middle" dominant-baseline="central" fill="var(--nt-accent2)">•</text>
+</svg>

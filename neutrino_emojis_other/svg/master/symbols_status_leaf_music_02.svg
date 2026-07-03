@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">leaf music 2</title>
+<desc id="desc">Original Neutrino symbols status emoji icon: leaf with music styling.</desc>
+<style>:root{--nt-primary:#FFD85A;--nt-secondary:#F4B94A;--nt-accent:#E94B66;--nt-accent2:#FFFFFF;--nt-outline:#3A2C20;--nt-feature:#2D2118;--nt-skin:#F2C6A0;--nt-skin2:#DFA06E;--nt-green:#65B95A;--nt-blue:#56A8E8;--nt-red:#E85B4B;--nt-purple:#9C70E8;--nt-orange:#F27B35;--nt-metal:#8E9BAA;--nt-brown:#8B5A2B;--nt-white:#FFF8E7;--nt-dark:#1A1613;--nt-bg:#FFFFFF} text{font-family:Arial,DejaVu Sans,sans-serif;font-weight:700}</style>
+<ellipse cx="64.00" cy="106.00" rx="45.00" ry="14.00" fill="var(--nt-dark)" opacity="0.12"/>
+<rect x="25.00" y="25.00" width="78.00" height="78.00" rx="14.00" ry="14.00" fill="var(--nt-primary)" stroke="var(--nt-outline)" stroke-width="5.00"/>
+<text x="64.00" y="62.00" font-size="34.00" text-anchor="middle" dominant-baseline="central" fill="var(--nt-accent2)">↓</text>
+<text x="64.00" y="94.00" font-size="10.00" text-anchor="middle" dominant-baseline="central" fill="var(--nt-feature)">LE</text>
+</svg>

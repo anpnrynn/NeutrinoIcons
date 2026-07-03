@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">hula hoop orbit 1</title>
+<desc id="desc">Original Neutrino toys games emoji icon: hula hoop with orbit styling.</desc>
+<style>:root{--nt-primary:#FFD85A;--nt-secondary:#F4B94A;--nt-accent:#E94B66;--nt-accent2:#FFFFFF;--nt-outline:#3A2C20;--nt-feature:#2D2118;--nt-skin:#F2C6A0;--nt-skin2:#DFA06E;--nt-green:#65B95A;--nt-blue:#56A8E8;--nt-red:#E85B4B;--nt-purple:#9C70E8;--nt-orange:#F27B35;--nt-metal:#8E9BAA;--nt-brown:#8B5A2B;--nt-white:#FFF8E7;--nt-dark:#1A1613;--nt-bg:#FFFFFF} text{font-family:Arial,DejaVu Sans,sans-serif;font-weight:700}</style>
+<ellipse cx="64.00" cy="106.00" rx="45.00" ry="14.00" fill="var(--nt-dark)" opacity="0.12"/>
+<rect x="23.00" y="52.00" width="82.00" height="40.00" rx="18.00" ry="18.00" fill="var(--nt-dark)" stroke="var(--nt-outline)" stroke-width="5.00"/>
+<ellipse cx="46.00" cy="74.00" rx="12.00" ry="12.00" fill="var(--nt-metal)"/>
+<polyline points="42.00,74.00 50.00,74.00" fill="none" stroke="var(--nt-feature)" stroke-width="3.00" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="46.00,70.00 46.00,78.00" fill="none" stroke="var(--nt-feature)" stroke-width="3.00" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="82.00" cy="72.00" rx="5.00" ry="5.00" fill="var(--nt-red)"/>
+<ellipse cx="96.00" cy="66.00" rx="5.00" ry="5.00" fill="var(--nt-green)"/>
+<text x="64.00" y="62.00" font-size="10.00" text-anchor="middle" dominant-baseline="central" fill="var(--nt-white)">HH</text>
+<ellipse cx="107.50" cy="106.50" rx="16.50" ry="16.50" fill="var(--nt-accent2)" stroke="var(--nt-outline)" stroke-width="3.00"/>
+<ellipse cx="107.50" cy="106.50" rx="11.50" ry="11.50" fill="var(--nt-accent)"/>
+<text x="107.50" y="106.50" font-size="16.00" text-anchor="middle" dominant-baseline="central" fill="var(--nt-accent2)">⟲</text>
+</svg>

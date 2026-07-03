@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">turtle shadow 0</title>
+<desc id="desc">Original Neutrino reptiles amphibians bugs emoji icon: turtle with shadow styling.</desc>
+<style>:root{--nt-primary:#FFD85A;--nt-secondary:#F4B94A;--nt-accent:#E94B66;--nt-accent2:#FFFFFF;--nt-outline:#3A2C20;--nt-feature:#2D2118;--nt-skin:#F2C6A0;--nt-skin2:#DFA06E;--nt-green:#65B95A;--nt-blue:#56A8E8;--nt-red:#E85B4B;--nt-purple:#9C70E8;--nt-orange:#F27B35;--nt-metal:#8E9BAA;--nt-brown:#8B5A2B;--nt-white:#FFF8E7;--nt-dark:#1A1613;--nt-bg:#FFFFFF} text{font-family:Arial,DejaVu Sans,sans-serif;font-weight:700}</style>
+<ellipse cx="64.00" cy="106.00" rx="45.00" ry="14.00" fill="var(--nt-dark)" opacity="0.12"/>
+<ellipse cx="62.00" cy="66.00" rx="33.00" ry="28.00" fill="var(--nt-green)" stroke="var(--nt-outline)" stroke-width="5.00"/>
+<ellipse cx="98.50" cy="65.50" rx="12.50" ry="10.50" fill="var(--nt-green)" stroke="var(--nt-outline)" stroke-width="4.00"/>
+<polyline points="48.00,47.00 76.00,87.00" fill="none" stroke="var(--nt-secondary)" stroke-width="3.00" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="77.00,47.00 49.00,87.00" fill="none" stroke="var(--nt-secondary)" stroke-width="3.00" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="99.50" cy="64.50" rx="3.50" ry="3.50" fill="var(--nt-feature)"/>
+<ellipse cx="31.00" cy="49.00" rx="8.00" ry="8.00" fill="var(--nt-green)" stroke="var(--nt-outline)" stroke-width="2.00"/>
+<ellipse cx="31.00" cy="83.00" rx="8.00" ry="8.00" fill="var(--nt-green)" stroke="var(--nt-outline)" stroke-width="2.00"/>
+<ellipse cx="90.00" cy="49.00" rx="8.00" ry="8.00" fill="var(--nt-green)" stroke="var(--nt-outline)" stroke-width="2.00"/>
+<ellipse cx="90.00" cy="83.00" rx="8.00" ry="8.00" fill="var(--nt-green)" stroke="var(--nt-outline)" stroke-width="2.00"/>
+</svg>

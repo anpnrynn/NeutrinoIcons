@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">hot air balloon dot 3</title>
+<desc id="desc">Original Neutrino vehicles air space emoji icon: hot air balloon with dot styling.</desc>
+<style>:root{--nt-primary:#FFD85A;--nt-secondary:#F4B94A;--nt-accent:#E94B66;--nt-accent2:#FFFFFF;--nt-outline:#3A2C20;--nt-feature:#2D2118;--nt-skin:#F2C6A0;--nt-skin2:#DFA06E;--nt-green:#65B95A;--nt-blue:#56A8E8;--nt-red:#E85B4B;--nt-purple:#9C70E8;--nt-orange:#F27B35;--nt-metal:#8E9BAA;--nt-brown:#8B5A2B;--nt-white:#FFF8E7;--nt-dark:#1A1613;--nt-bg:#FFFFFF} text{font-family:Arial,DejaVu Sans,sans-serif;font-weight:700}</style>
+<ellipse cx="64.00" cy="106.00" rx="45.00" ry="14.00" fill="var(--nt-dark)" opacity="0.12"/>
+<polygon points="18.00,61.00 113.00,36.00 78.00,68.00 113.00,92.00" fill="var(--nt-primary)" stroke="var(--nt-outline)" stroke-width="5.00" stroke-linejoin="round"/>
+<polygon points="55.00,58.00 37.00,31.00 72.00,53.00" fill="var(--nt-secondary)" stroke="var(--nt-outline)" stroke-width="3.00" stroke-linejoin="round"/>
+<polygon points="57.00,69.00 37.00,100.00 78.00,73.00" fill="var(--nt-secondary)" stroke="var(--nt-outline)" stroke-width="3.00" stroke-linejoin="round"/>
+<text x="76.00" y="63.00" font-size="12.00" text-anchor="middle" dominant-baseline="central" fill="var(--nt-feature)">HA</text>
+<ellipse cx="107.50" cy="106.50" rx="16.50" ry="16.50" fill="var(--nt-accent2)" stroke="var(--nt-outline)" stroke-width="3.00"/>
+<ellipse cx="107.50" cy="106.50" rx="11.50" ry="11.50" fill="var(--nt-accent)"/>
+<text x="107.50" y="106.50" font-size="16.00" text-anchor="middle" dominant-baseline="central" fill="var(--nt-accent2)">•</text>
+</svg>

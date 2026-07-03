@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">thyme dot 0</title>
+<desc id="desc">Original Neutrino vegetables emoji icon: thyme with dot styling.</desc>
+<style>:root{--nt-primary:#FFD85A;--nt-secondary:#F4B94A;--nt-accent:#E94B66;--nt-accent2:#FFFFFF;--nt-outline:#3A2C20;--nt-feature:#2D2118;--nt-skin:#F2C6A0;--nt-skin2:#DFA06E;--nt-green:#65B95A;--nt-blue:#56A8E8;--nt-red:#E85B4B;--nt-purple:#9C70E8;--nt-orange:#F27B35;--nt-metal:#8E9BAA;--nt-brown:#8B5A2B;--nt-white:#FFF8E7;--nt-dark:#1A1613;--nt-bg:#FFFFFF} text{font-family:Arial,DejaVu Sans,sans-serif;font-weight:700}</style>
+<ellipse cx="64.00" cy="106.00" rx="45.00" ry="14.00" fill="var(--nt-dark)" opacity="0.12"/>
+<ellipse cx="43.00" cy="48.00" rx="18.00" ry="18.00" fill="var(--nt-green)" stroke="var(--nt-outline)" stroke-width="3.00"/>
+<ellipse cx="60.00" cy="35.00" rx="18.00" ry="18.00" fill="var(--nt-green)" stroke="var(--nt-outline)" stroke-width="3.00"/>
+<ellipse cx="78.00" cy="44.00" rx="18.00" ry="18.00" fill="var(--nt-green)" stroke="var(--nt-outline)" stroke-width="3.00"/>
+<ellipse cx="52.00" cy="60.00" rx="18.00" ry="18.00" fill="var(--nt-green)" stroke="var(--nt-outline)" stroke-width="3.00"/>
+<ellipse cx="76.00" cy="61.00" rx="18.00" ry="18.00" fill="var(--nt-green)" stroke="var(--nt-outline)" stroke-width="3.00"/>
+<rect x="54.00" y="62.00" width="21.00" height="45.00" rx="8.00" ry="8.00" fill="var(--nt-secondary)" stroke="var(--nt-outline)" stroke-width="4.00"/>
+<ellipse cx="107.50" cy="106.50" rx="16.50" ry="16.50" fill="var(--nt-accent2)" stroke="var(--nt-outline)" stroke-width="3.00"/>
+<ellipse cx="107.50" cy="106.50" rx="11.50" ry="11.50" fill="var(--nt-accent)"/>
+<text x="107.50" y="106.50" font-size="16.00" text-anchor="middle" dominant-baseline="central" fill="var(--nt-accent2)">•</text>
+</svg>
